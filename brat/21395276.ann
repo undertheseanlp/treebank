@@ -1,4 +1,5 @@
-T1	word 0 7	Kết quả
-T2	Np 0 7	Kết quả
-T3	word 8 13	xổ số
-T4	Np 8 13	xổ số
+T2	Token 0 7	Kết quả
+T3	Token 8 13	xổ số
+T1	Token 14 23	điện toán
+T4	Token 24 32	Vietlott
+T5	Token 33 37	ngày
