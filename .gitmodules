@@ -1,0 +1,3 @@
+[submodule "sources/corpus.vinews"]
+	path = sources/corpus.vinews
+	url = git@github.com:magizbox/corpus.vinews.git
