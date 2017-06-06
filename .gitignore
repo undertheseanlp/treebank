@@ -149,3 +149,4 @@ ENV/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+.stats_cache
