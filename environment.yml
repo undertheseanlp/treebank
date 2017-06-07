@@ -39,4 +39,4 @@ dependencies:
   - smart-open==1.5.2
   - tabulate==0.7.7
   - underscore.py==0.1.6
-  - underthesea==1.0.17
+  - underthesea==1.1.0
