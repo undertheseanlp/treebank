@@ -1,3 +1,4 @@
+from os import listdir
 from underthesea import pos_tag, word_sent
 from os.path import join, dirname, basename
 import io
@@ -20,12 +21,16 @@ def auto_annotation(input_file, output_folder="."):
         for token in tokens:
             word, tag = token
             end = start + len(word)
-            ann_file.write(u"T%d\tToken %d %d\t%s\n" % (token_id, start, end, tag))
+            ann_file.write(u"T%d\t%s %d %d\t%s\n" % (token_id, tag, start, end, word))
             token_id += 1
             start = end + 1
+        start += 1
 
 
 if __name__ == '__main__':
-    input_file = join(dirname(__file__), "raw", "vinews", "21395276.txt")
-    output_folder = join(dirname(__file__), "brat")
-    auto_annotation(input_file, output_folder)
+    folder = join(dirname(__file__), "raw", "vinews")
+    files = listdir(folder)
+    for file in files:
+        input_file = join(folder, file)
+        output_folder = join(dirname(__file__), "brat")
+        auto_annotation(input_file, output_folder)
