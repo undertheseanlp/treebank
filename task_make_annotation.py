@@ -27,10 +27,18 @@ def auto_annotation(input_file, output_folder="."):
         start += 1
 
 
+def get_annotated_files(brat_folder):
+    files = [f[2:] for f in listdir(brat_folder) if f.startswith("p_") and f.endswith(".txt")]
+    return set(files)
+
+
 if __name__ == '__main__':
     folder = join(dirname(__file__), "raw", "vinews")
-    files = listdir(folder)
-    for file in files:
+    files = set(listdir(folder))
+    brat_folder = join(dirname(__file__), "brat")
+    annotated_files = get_annotated_files(brat_folder)
+    un_annotated_files = files - annotated_files
+    for file in un_annotated_files:
         input_file = join(folder, file)
         output_folder = join(dirname(__file__), "brat")
         auto_annotation(input_file, output_folder)
