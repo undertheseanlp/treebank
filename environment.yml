@@ -35,8 +35,14 @@ dependencies:
   - also==0.0.2
   - click==6.7
   - dirsync==2.2.2
+  - pandas==0.20.2
   - python-crfsuite==0.9.1
+  - python-dateutil==2.6.0
+  - pytz==2017.2
   - smart-open==1.5.2
   - tabulate==0.7.7
   - underscore.py==0.1.6
   - underthesea==1.1.0
+  - xlrd==1.0.0
+prefix: !!python/unicode 'C:\ProgramData\Anaconda2\envs\underthesea.treebank'
+
