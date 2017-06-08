@@ -7,7 +7,7 @@ T6	N 24 28	thép
 T7	N 29 31	độ
 T8	N 32 36	hàng
 T9	CH 37 38	'
-T10	N 39 44	khủng
+T10	A 39 44	khủng
 T11	CH 45 46	'
 T12	E 47 49	từ
 T13	Np 50 56	TopCar
@@ -35,9 +35,8 @@ T34	Cc 170 172	và
 T35	N 173 181	nội thất
 T36	N 182 190	ấn tượng
 T37	CH 191 192	.
-T38	Np 194 208	Chiếc Mercedes
 T39	CH 209 210	-
-T40	Nc 211 215	Benz
+T40	Np 211 215	Benz
 T41	Np 216 219	GLE
 T42	P 220 223	này
 T43	A 224 231	độc đáo
@@ -51,8 +50,6 @@ T50	N 258 262	thép
 T51	CH 263 264	,
 T52	R 265 268	vừa
 T53	V 269 273	được
-T54	V 274 278	nâng
-T55	V 279 282	cấp
 T56	P 283 285	cả
 T57	N 286 289	nội
 T58	Cc 290 292	và
@@ -69,7 +66,7 @@ T68	E 351 353	từ
 T69	Np 354 360	TopCar
 T70	V 361 364	đem
 T71	R 365 368	lại
-T72	V 369 377	diện mạo
+T72	N 369 377	diện mạo
 T73	A 378 385	mạnh mẽ
 T74	CH 386 387	,
 T75	N 388 396	thể thao
@@ -78,19 +75,12 @@ T77	E 401 404	cho
 T78	N 405 407	xe
 T79	CH 408 409	,
 T80	V 410 413	gồm
-T81	V 414 417	cản
-T82	A 418 423	trước
 T83	CH 424 425	,
 T84	N 426 429	nắp
-T85	N 430 432	ca
-T86	CH 433 434	-
-T87	N 435 437	pô
 T88	CH 438 439	,
 T89	N 440 442	ốp
 T90	N 443 447	sườn
 T91	CH 448 449	,
-T92	V 450 453	cản
-T93	A 454 457	sau
 T94	E 458 461	với
 T95	N 462 464	bộ
 T96	N 465 475	khuếch tán
@@ -130,13 +120,12 @@ T129	N 650 654	hàng
 T130	CH 655 656	,
 T131	E 657 660	với
 T132	N 661 668	màu sắc
-T133	N 669 675	lạ mắt
+T133	A 669 675	lạ mắt
 T134	CH 676 677	.
 T135	N 678 686	Vật liệu
 T136	V 687 690	gồm
 T137	Np 691 700	Alcantara
 T138	CH 701 702	,
-T139	N 703 711	da Nappa
 T140	CH 712 713	,
 T141	N 714 716	gỗ
 T142	A 717 724	cao cấp
@@ -151,5 +140,13 @@ T150	R 765 768	lại
 T151	N 769 771	vẻ
 T152	A 772 775	đẹp
 T153	A 776 786	sang trọng
-T154	N 787 794	cổ điển
+T154	A 787 794	cổ điển
 T155	CH 795 796	.
+T38	Nc 194 199	Chiếc
+T156	Np 200 208	Mercedes
+T54	Np 274 282	nâng cấp
+T55	N 414 423	cản trước
+T81	N 430 437	ca - pô
+T82	N 450 457	cản sau
+T85	N 703 705	da
+T86	Np 706 711	Nappa
