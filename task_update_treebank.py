@@ -43,6 +43,7 @@ def make_treebank_file(brat_annotation_file, treebank_folder="."):
     df.to_csv(temp_file, sep="\t", header=False, index=False, encoding="utf-8", line_terminator="\n",
               columns=["word", "tag"], quoting=QUOTE_NONE)
     file_id = re.match("p_(.*).ann", basename(brat_annotation_file)).group(1)
+    print "Process file %s" % file_id
     check_missing_token(df, file_id)
     output_file = join(treebank_folder, "%s.conll" % file_id)
     transform_line(temp_file, output_file)

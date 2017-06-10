@@ -1,0 +1,675 @@
+Ngân hàng	N
+Chính sách	N
+xã hội	N
+đối chiếu	V
+nợ	N
+qua	E
+tin nhắn	N
+miễn phí	A
+Ngân hàng	N
+Chính sách	N
+xã hội	N
+(	CH
+NHCSXH	Np
+)	CH
+đã	R
+ban hành	V
+văn bản	N
+số	N
+5611	M
+/	CH
+NHCS	Np
+-	CH
+CNTT	Np
+về	E
+việc	N
+Triển khai	V
+dịch vụ	N
+đối chiếu	V
+nợ	N
+qua	E
+tin nhắn	N
+.	CH
+
+Mục đích	N
+của	E
+văn bản	N
+này	P
+nhằm	V
+triển khai	V
+Dịch vụ	N
+tin nhắn	N
+đối chiếu	V
+thông tin	N
+dư	A
+nợ	V
+tiền	N
+vay	V
+,	CH
+số dư	V
+tiền	N
+gửi	V
+đến	E
+khách hàng	N
+của	E
+NHCSXH	Np
+,	CH
+giúp	V
+khách hàng	N
+của	E
+NHCSXH	Np
+thuận tiện	A
+trong	E
+việc	N
+đối chiếu	V
+nợ	N
+với	E
+Ngân hàng	N
+mà	C
+không	R
+phải	A
+mất	V
+thời gian	N
+đến	E
+Ngân hàng	N
+;	CH
+đồng thời	R
+góp phần	V
+nâng cao	V
+hiệu quả	N
+công tác	N
+quản lý	V
+nợ	N
+,	CH
+hạn chế	V
+phát sinh	V
+những	L
+sai phạm	N
+trong	E
+hoạt động	V
+tín dụng	N
+chính sách	N
+.	CH
+
+Giải ngân	V
+vốn	N
+cho	E
+hộ	N
+nghèo	A
+,	CH
+đối tượng	N
+chính sách	N
+tại	E
+điểm	N
+giao dịch	V
+xã	N
+Chuyên Ngoại	Np
+,	CH
+huyện	N
+Duy Tiên	Np
+,	CH
+tỉnh	N
+Hà Nam	Np
+.	CH
+
+Ảnh	N
+:	CH
+Trần Việt	Np
+/	CH
+TTXVN	Ny
+Việc	Nc
+NHCSXH	Np
+gửi	V
+tin nhắn	N
+đối chiếu	V
+nợ	N
+đến	E
+khách hàng	N
+được	R
+triển khai	V
+theo	E
+đợt	N
+và	Cc
+khách hàng	N
+không	R
+mất	V
+phí	N
+khi	N
+nhận	V
+được	R
+tin nhắn	N
+.	CH
+
+Đối tượng	N
+gửi	V
+tin nhắn	N
+,	CH
+bao gồm	V
+:	CH
+Thứ	N
+nhất	M
+,	CH
+khách hàng	N
+còn	R
+dư	A
+nợ	V
+tiền	N
+vay	V
+,	CH
+có	V
+số dư	N
+tài khoản	V
+tiền	N
+gửi	V
+của	E
+tổ viên	N
+Tổ	N
+tiết kiệm	V
+và	Cc
+vay	V
+vốn	N
+.	CH
+
+Trường hợp	N
+khách hàng	N
+có	V
+số dư	N
+tài khoản	V
+tiền	N
+gửi	V
+của	E
+tổ viên	N
+Tổ	N
+tiết kiệm	V
+và	Cc
+vay	V
+vốn	N
+dưới	E
+100.000	M
+đồng	Nu
+và	Cc
+không	R
+có	V
+số	N
+dư	A
+tiền	N
+vay	V
+thì	C
+không	R
+thực hiện	V
+đối chiếu	V
+qua	E
+tin	N
+nhắn	V
+.	CH
+
+Thứ hai	N
+,	CH
+khách hàng	N
+có	V
+số	N
+dư	A
+tiền	N
+gửi	V
+tiết kiệm	N
+có	V
+kỳ hạn	N
+và	Cc
+không	R
+kỳ hạn	V
+tại	E
+điểm	N
+giao dịch	V
+xã	N
+và	Cc
+đã	R
+cung cấp	V
+số điện thoại	N
+.	CH
+
+Về	V
+hình thức	N
+gửi	V
+tin nhắn	N
+:	CH
+NHCSXH	Np
+sẽ	R
+gửi	V
+tin nhắn	N
+đối chiếu	V
+số	N
+dư	A
+tiền	N
+gửi	V
+,	CH
+số dư	V
+tiền	N
+vay	V
+đến	E
+số điện thoại	N
+của	E
+khách hàng	N
+đã	R
+đăng ký	V
+với	E
+thông tin	N
+“	CH
+Nơi	N
+gửi	V
+”	CH
+(	CH
+from	N
+)	CH
+trên	E
+tin nhắn	N
+là	C
+“	CH
+NHCSXH	Np
+”	CH
+.	CH
+
+Thời điểm	N
+số liệu	N
+đối chiếu	V
+:	CH
+Số liệu	N
+chốt	V
+tại	E
+thời điểm	N
+sau	E
+khi	N
+hoàn thành	V
+công việc	N
+cuối	A
+ngày	N
+31/12/2016	V
+.	CH
+
+Đối với	E
+thời gian	N
+gửi	V
+tin nhắn	N
+cho	E
+khách hàng	N
+:	CH
+NHCSXH	Np
+sẽ	R
+gửi	V
+tin nhắn	N
+đến	E
+khách hàng	N
+từ	E
+ngày	N
+9	M
+-	CH
+10/02/2017	N
+Cấu trúc	N
+nội dung	N
+tin nhắn	N
+:	CH
+Den	N
+hh	N
+:	CH
+MM	N
+ngay	R
+dd	N
+/	CH
+mm	N
+/	CH
+yy	N
+Quy khach	N
+co	V
+:	CH
+No	Np
+goc	V
+:	CH
+<	N
+số	N
+tiền	N
+>	CH
+VND	Nu
+;	CH
+Tien gui	N
+:	CH
+<	N
+số	N
+tiền	N
+>	CH
+VND	Nu
+;	CH
+So	V
+tiet	N
+kiem	N
+:	CH
+<	N
+số	N
+tiền	N
+>	CH
+VND	Nu
+.	CH
+
+Dien thoai	N
+lien he	V
+:	CH
+<	N
+sốđiện thoại	N
+liên hệ	V
+của	E
+PGD	Ny
+/	CH
+CN	Ny
+>	CH
+Trong	E
+đó	P
+:	CH
+hh	N
+:	CH
+MM	N
+dd	N
+/	CH
+mm	N
+/	CH
+yy	N
+:	CH
+giờ	N
+,	CH
+phút	N
+,	CH
+ngày	N
+,	CH
+tháng	N
+,	CH
+năm	N
+chốt	M
+số liệu	N
+để	E
+đối chiếu	V
+với	E
+khách hàng	N
+.	CH
+
+Tham số	N
+này	P
+có	V
+giá trị	N
+là	V
+24	M
+:	CH
+00	M
+31/12/16	N
+.	CH
+
+No	N
+goc	V
+:	CH
+là	V
+tổng	N
+nợ	N
+gốc	N
+của	E
+tất cả	P
+các	L
+món	N
+vay	V
+của	E
+khách hàng	N
+.	CH
+
+Tien gui	N
+:	CH
+là	V
+số dư	N
+tài khoản	V
+tiền	N
+gửi	V
+của	E
+tổ viên	N
+Tổ	N
+tiết kiệm	V
+và	Cc
+vay	V
+vốn	N
+.	CH
+
+So	V
+tiet	N
+kiem	N
+:	CH
+là	V
+tổng số	N
+dư	A
+tiền	N
+gửi	V
+tiết kiệm	V
+các	L
+sổ	N
+tiền	N
+gửi	V
+có	V
+kỳ hạn	N
+và	Cc
+tài khoản	V
+tiền	N
+gửi	V
+không	R
+kỳ hạn	N
+của	E
+khách hàng	N
+tại	E
+điểm	N
+giao dịch	V
+xã	N
+.	CH
+
+Lưu ý	V
+:	CH
+Trên	E
+tin nhắn	N
+sẽ	R
+không	R
+có	V
+thông tin	N
+tương ứng	V
+với	E
+số dư	N
+tiền	N
+vay	V
+,	CH
+tiền	N
+gửi	V
+hoặc	Cc
+tiết kiệm	V
+bằng	E
+0	N
+.	CH
+
+Và	Cc
+số	N
+điện thoại	N
+liên hệ	V
+của	E
+Phòng	N
+giao dịch	V
+/	CH
+Chi nhánh	N
+:	CH
+là	V
+số	N
+điện thoại	N
+ghi	V
+trên	E
+biên lai	N
+thu	V
+lãi	N
+,	CH
+thu	V
+tiền	N
+gửi	V
+của	E
+Phòng	N
+giao dịch	V
+/	CH
+Chi nhánh	N
+.	CH
+
+Ví dụ	N
+1	M
+:	CH
+Nội dung	N
+tin nhắn	N
+đối với	E
+khách hàng	N
+còn	R
+dư nợ	A
+,	CH
+dư	A
+tài khoản	V
+tiền	N
+gửi	V
+của	E
+tổ viên	N
+Tổ	Np
+tiết kiệm	V
+và	Cc
+vay	V
+vốn	N
+và	Cc
+dư	A
+tiết kiệm	V
+tại	E
+điểm	N
+giao dịch	V
+xã	N
+(	CH
+147ký	N
+tự	P
+)	CH
+Den	Np
+24	M
+:	CH
+00	M
+ngay	R
+31/12/16	N
+Quy khach	N
+co	V
+:	CH
+No	N
+goc	V
+:	CH
+100.000.000	N
+VND	Nu
+;	CH
+Tien gui	N
+:	CH
+1.200.000	N
+VND	Nu
+;	CH
+So	V
+tiet	N
+kiem	N
+:	CH
+100.000.000	N
+VND	Nu
+.	CH
+
+Dien thoai	N
+lien he	V
+:	CH
+0373.121.099	N
+Ví dụ	N
+2	M
+:	CH
+Nội dung	N
+tin nhắn	N
+đối với	E
+khách hàng	N
+có	V
+dư	A
+nợ	V
+tiền	N
+vay	V
+,	CH
+có	V
+dư	N
+tài khoản	V
+tiền	N
+gửi	V
+của	E
+tổ viên	N
+Tổ	Np
+tiết kiệm	V
+và	Cc
+vay	V
+vốn	N
+(	CH
+118	M
+ký tự	N
+)	CH
+Den	N
+24	M
+:	CH
+00	M
+ngay	R
+31/12/16	N
+Quy khach	N
+co	V
+:	CH
+No	N
+goc	V
+:	CH
+100.000.000	N
+VND	Nu
+;	CH
+Tien gui	N
+:	CH
+1.200.000	N
+VND	Nu
+;	CH
+Dien thoai	N
+lien he	V
+:	CH
+0373.121.099	N
+Ví dụ	N
+3	M
+:	CH
+Nội dung	N
+tin nhắn	N
+đối với	E
+khách hàng	N
+có	V
+dư	A
+tiền	N
+gửi	V
+tại	E
+điểm	N
+giao dịch	V
+xã	N
+(	CH
+100ký	N
+tự	P
+)	CH
+Den	Np
+24	M
+:	CH
+00	M
+ngay	R
+31/12/16	N
+Quy khach	N
+co	V
+:	CH
+So	V
+tiet	N
+kiem	N
+:	CH
+100.000.000	N
+VND	Nu
+.	CH
+
+Dien thoai	N
+lien he	V
+:	CH
+0373.121.099	N
+P	Ny
+.	CH
+
+V	Np

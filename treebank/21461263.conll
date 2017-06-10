@@ -477,7 +477,7 @@ có	V
 tốc độ	N
 tối đa	A
 lên	V
-tới	T
+tới	E
 375	M
 km	Nu
 /	CH
@@ -665,7 +665,7 @@ và	Cc
 vận tốc	N
 tối đa	A
 lên	V
-tới	T
+tới	E
 350	M
 km	Nu
 /	CH
@@ -744,7 +744,7 @@ và	Cc
 tốc độ	N
 tối đa	A
 lên	V
-tới	T
+tới	E
 402	M
 km	Nu
 /	CH
@@ -801,7 +801,7 @@ Audi	Np
 có	V
 hiệu suất	N
 lên	V
-tới	T
+tới	E
 1.000	M
 mã lực	N
 .	CH
@@ -820,7 +820,7 @@ giây	N
 và	Cc
 chỉ	R
 có	V
-khoảng	A
+khoảng	N
 100	M
 chiếc	Nc
 được	V
