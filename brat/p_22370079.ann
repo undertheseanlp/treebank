@@ -5,15 +5,14 @@ T4	N 17 21	tuổi
 T5	V 22 26	chết
 T6	A 27 37	bất thường
 T7	N 38 42	cách
-T8	V 43 50	nhà 1km
-T9	A 52 58	Khoảng
+T9	N 52 58	Khoảng
 T10	M 59 63	5h30
 T11	N 64 68	sáng
 T12	M 69 71	25
 T13	CH 72 73	/
 T14	M 74 75	5
 T15	CH 76 77	,
-T16	Nc 78 83	người
+T16	N 78 83	người
 T17	N 84 87	dân
 T18	N 88 95	khu vực
 T19	N 96 100	quận
@@ -82,7 +81,6 @@ T81	N 468 477	Thời điểm
 T82	V 478 487	phát hiện
 T83	CH 488 489	,
 T84	N 490 493	ông
-T85	V 494 504	Quảng chết
 T86	E 505 510	trong
 T87	N 511 517	tư thế
 T88	V 518 522	ngồi
@@ -131,7 +129,6 @@ T130	Nc 733 736	ông
 T131	Np 737 742	Quảng
 T132	V 743 746	rời
 T133	V 747 751	khỏi
-T134	N 752 762	nhà khoảng
 T135	A 763 766	19h
 T136	N 767 770	tối
 T137	M 771 773	24
@@ -147,7 +144,6 @@ T146	C 796 799	thì
 T147	N 800 808	gia đình
 T148	V 809 813	được
 T149	V 814 823	thông báo
-T150	N 824 833	ông Quảng
 T151	V 834 841	tử vong
 T152	N 842 846	cách
 T153	V 847 854	nhà 1km
@@ -178,7 +174,7 @@ T177	R 969 973	được
 T178	M 974 975	2
 T179	N 976 981	tháng
 T180	CH 982 983	.
-T181	Np 984 988	Hiện
+T181	N 984 988	Hiện
 T182	CH 989 990	,
 T183	N 991 999	gia đình
 T184	R 1000 1004	đang
@@ -199,3 +195,11 @@ T198	V 1097 1100	làm
 T199	A 1101 1103	rõ
 T200	CH 1104 1105	.
 T201	Np 1106 1114	Tấn Việt
+T8	N 43 46	nhà
+T202	N 47 50	1km
+T85	Np 494 499	Quảng
+T203	V 500 504	chết
+T134	N 752 755	nhà
+T204	N 756 762	khoảng
+T150	Nc 824 827	ông
+T205	Np 828 833	Quảng

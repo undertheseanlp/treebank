@@ -1,21 +1,16 @@
 T1	Np 0 11	Real Madrid
 T2	V 12 14	có
-T3	N 15 23	công phá
+T3	V 15 23	công phá
 T4	V 24 28	được
 T5	CH 29 30	'
-T6	Nc 31 34	bức
-T7	N 35 40	tường
 T8	R 41 50	không thể
 T9	V 51 59	xâm phạm
 T10	CH 60 61	'
 T11	Np 62 70	Juventus
 T12	CH 71 72	?
-T13	Np 74 78	Real
-T14	Np 79 85	Madrid
 T15	V 86 91	hướng
 T16	E 92 95	tới
 T17	N 96 104	mục tiêu
-T18	N 105 118	trở thành đội
 T19	A 119 127	đầu tiên
 T20	V 128 133	giành
 T21	N 134 143	danh hiệu
@@ -29,9 +24,7 @@ T28	N 185 188	khi
 T29	Np 189 197	Juventus
 T30	V 198 207	khao khát
 T31	N 208 215	vô địch
-T32	N 216 220	giải
-T33	V 221 224	đấu
-T34	V 225 228	cúp
+T34	N 225 228	cúp
 T35	N 229 231	số
 T36	M 232 233	1
 T37	Np 234 241	châu Âu
@@ -41,5 +34,10 @@ T40	N 249 252	năm
 T41	CH 253 254	.
 T42	Np 256 263	Trí Mai
 T43	CH 264 265	(
-T44	N 266 274	Việt hóa
+T44	Np 266 274	Việt hóa
 T45	CH 275 276	)
+T6	N 31 40	bức tường
+T7	Np 74 85	Real Madrid
+T13	V 105 114	trở thành
+T14	N 115 118	đội
+T18	N 216 224	giải đấu

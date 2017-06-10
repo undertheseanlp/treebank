@@ -1,7 +1,7 @@
 T1	Np 0 7	VietJet
 T2	Np 8 11	Air
 T3	V 12 16	tính
-T4	N 17 25	niêm yết
+T4	V 17 25	niêm yết
 T5	E 26 30	trên
 T6	N 31 34	sàn
 T7	Np 35 43	New York
@@ -29,16 +29,15 @@ T28	V 174 182	niêm yết
 T29	E 183 187	trên
 T30	N 188 191	sàn
 T31	N 192 203	chứng khoán
-T32	N 204 214	nước ngoài
+T32	A 204 214	nước ngoài
 T33	CH 215 216	,
-T34	V 217 230	Bloomberg đưa
 T35	N 231 234	tin
 T36	CH 235 236	.
 T37	L 238 244	Một số
 T38	N 245 248	sàn
 T39	V 249 258	giao dịch
 T40	N 259 270	chứng khoán
-T41	N 271 281	nước ngoài
+T41	A 271 281	nước ngoài
 T42	V 282 289	bao gồm
 T43	Np 290 296	London
 T44	CH 297 298	,
@@ -57,8 +56,6 @@ T56	E 368 371	đến
 T57	N 372 380	cổ phiếu
 T58	E 381 384	của
 T59	N 385 389	hãng
-T60	N 390 394	hàng
-T61	R 395 400	không
 T62	P 401 404	này
 T63	CH 405 406	,
 T64	Nc 407 409	bà
@@ -67,9 +64,9 @@ T66	CH 433 434	,
 T67	N 435 448	Tổng giám đốc
 T68	Np 449 452	VJC
 T69	CH 453 454	,
-T70	N 455 463	cho biết
+T70	V 455 463	cho biết
 T71	CH 464 465	.
-T72	Np 466 471	Người
+T72	Nc 466 471	Người
 T73	V 472 480	sáng lập
 T74	N 481 485	hãng
 T75	N 486 490	hàng
@@ -108,7 +105,7 @@ T107	N 661 671	quyết định
 T108	A 672 681	cuối cùng
 T109	CH 682 683	.
 T110	N 684 692	Kế hoạch
-T111	N 693 701	niêm yết
+T111	V 693 701	niêm yết
 T112	E 702 705	của
 T113	Np 706 709	VJC
 T114	V 710 714	diễn
@@ -119,16 +116,12 @@ T118	N 733 742	Chính phủ
 T119	Np 743 751	Việt Nam
 T120	R 752 756	đang
 T121	V 757 764	xem xét
-T122	N 765 777	cho phép nhà
-T123	V 778 784	đầu tư
-T124	N 785 795	nước ngoài
+T124	A 785 795	nước ngoài
 T125	V 796 804	tham gia
 T126	A 805 808	sâu
 T127	A 809 812	hơn
 T128	E 813 816	vào
 T129	N 817 827	thị trường
-T130	N 828 832	hàng
-T131	R 833 838	không
 T132	E 839 844	trong
 T133	N 845 849	nước
 T134	CH 850 851	,
@@ -155,7 +148,7 @@ T154	N 976 984	kế hoạch
 T155	V 985 989	nâng
 T156	N 990 994	trần
 T157	V 995 1001	sở hữu
-T158	N 1002 1012	nước ngoài
+T158	A 1002 1012	nước ngoài
 T159	V 1013 1016	lên
 T160	M 1017 1019	49
 T161	Nu 1020 1021	%
@@ -175,7 +168,7 @@ T174	V 1082 1091	phê duyệt
 T175	E 1092 1094	do
 T176	N 1095 1100	tỷ lệ
 T177	N 1101 1107	sở hữu
-T178	N 1108 1118	nước ngoài
+T178	A 1108 1118	nước ngoài
 T179	N 1119 1127	hiện nay
 T180	E 1128 1133	trong
 T181	N 1134 1142	lĩnh vực
@@ -192,13 +185,12 @@ T191	N 1189 1197	lĩnh vực
 T192	N 1198 1207	ngân hàng
 T193	CH 1208 1209	.
 T194	V 1210 1217	Trả lời
-T195	N 1218 1237	phỏng vấn Bloomberg
 T196	CH 1238 1239	,
 T197	Nc 1240 1242	bà
 T198	Np 1243 1247	Thảo
 T199	R 1248 1252	cũng
 T200	V 1253 1261	cho biết
-T201	N 1262 1270	niêm yết
+T201	V 1262 1270	niêm yết
 T202	E 1271 1275	trên
 T203	N 1276 1279	sàn
 T204	N 1280 1287	quốc tế
@@ -217,7 +209,7 @@ T216	V 1345 1349	tăng
 T217	N 1350 1361	thanh khoản
 T218	V 1362 1371	giao dịch
 T219	CH 1372 1373	.
-T220	Np 1374 1378	Tổng
+T220	N 1374 1378	Tổng
 T221	N 1379 1387	giám đốc
 T222	Np 1388 1395	VietJet
 T223	V 1396 1399	nói
@@ -256,3 +248,11 @@ T255	A 1572 1579	an toàn
 T256	N 1580 1590	hàng không
 T257	CH 1591 1592	.
 T258	Np 1593 1602	Minh Tuấn
+T34	Np 217 226	Bloomberg
+T259	V 227 230	đưa
+T60	N 390 400	hàng không
+T61	V 765 773	cho phép
+T122	N 774 784	nhà đầu tư
+T123	N 828 838	hàng không
+T130	N 1218 1227	phỏng vấn
+T131	Np 1228 1237	Bloomberg
