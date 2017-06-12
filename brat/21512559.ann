@@ -1,0 +1,119 @@
+T1	N 0 9	Cuộc sống
+T2	E 10 13	của
+T3	L 14 17	các
+T4	N 18 28	Tổng thống
+T5	Np 29 31	Mỹ
+T6	E 32 35	sau
+T7	N 36 39	khi
+T8	V 40 49	mãn nhiệm
+T9	L 51 54	Các
+T10	N 55 65	Tổng thống
+T11	Np 66 68	Mỹ
+T12	R 69 72	đều
+T13	V 73 80	dự tính
+T14	E 81 84	cho
+T15	N 85 94	tương lai
+T16	E 95 98	của
+T17	P 99 103	mình
+T18	E 104 107	sau
+T19	N 108 111	khi
+T20	N 112 115	khi
+T21	V 116 119	rời
+T22	V 120 124	khỏi
+T23	Np 125 134	Nhà Trắng
+T24	CH 135 136	.
+T25	L 138 141	Các
+T26	N 142 152	tổng thống
+T27	Np 153 155	Mỹ
+T28	R 156 159	đều
+T29	V 160 167	dự tính
+T30	E 168 171	cho
+T31	N 172 181	tương lai
+T32	E 182 185	của
+T33	P 186 190	mình
+T34	E 191 194	sau
+T35	N 195 198	khi
+T36	N 199 202	khi
+T37	V 203 206	rời
+T38	V 207 211	khỏi
+T39	N 212 221	nhà Trắng
+T40	CH 222 223	.
+T41	L 224 227	Các
+T42	Z 228 231	cựu
+T43	N 232 242	tổng thống
+T44	Np 243 245	Mỹ
+T45	E 246 249	sau
+T46	N 250 253	khi
+T47	V 254 262	nghỉ hưu
+T48	R 263 269	thường
+T49	V 270 274	dành
+T50	N 275 284	thời gian
+T51	E 285 287	để
+T52	A 288 295	thật sự
+T53	V 296 300	được
+T54	V 301 310	nghỉ ngơi
+T55	CH 311 312	.
+T56	N 313 323	Tổng thống
+T57	Np 324 332	Dwight D
+T58	CH 333 334	.
+T59	Np 335 345	Eisenhower
+T60	V 346 350	dành
+T61	N 351 360	thời gian
+T62	E 361 363	để
+T63	V 364 373	nghỉ ngơi
+T64	E 374 377	tại
+T65	N 378 387	nông trại
+T66	E 388 389	ở
+T67	Np 390 402	Pennsylvania
+T68	CH 403 404	,
+T69	Nc 405 408	ông
+T70	Np 409 417	Gerald R
+T71	CH 418 419	.
+T72	Np 420 424	Ford
+T73	C 425 428	thì
+T74	V 429 434	thích
+T75	V 435 439	đánh
+T76	Nb 440 444	golf
+T77	CH 445 446	,
+T78	Nc 447 450	ông
+T79	Np 451 464	Ronald Reagan
+T80	V 465 470	thích
+T81	V 471 480	chăn nuôi
+T82	E 481 482	ở
+T83	Np 483 497	Nam California
+T84	C 498 501	hay
+T85	Nc 502 505	ông
+T86	Np 506 511	Obama
+T87	V 512 514	đi
+T88	V 515 523	lướt ván
+T89	CH 524 525	,
+T90	V 526 529	tắm
+T91	N 530 534	biển
+T92	E 535 536	ở
+T93	N 537 546	khách sạn
+T94	N 547 550	năm
+T95	P 551 554	sao
+T96	CH 555 556	.
+T97	Np 557 565	Ông Bush
+T98	V 566 572	rời bỏ
+T99	Np 573 583	Washington
+T100	E 584 586	về
+T101	N 587 595	ngôi nhà
+T102	A 596 604	yên tĩnh
+T103	E 605 606	ở
+T104	N 607 616	Texas học
+T105	N 617 625	vẽ tranh
+T106	CH 626 627	,
+T107	C 628 631	còn
+T108	Nc 632 635	ông
+T109	Np 636 645	Roosevelt
+T110	R 646 649	lại
+T111	V 650 656	đam mê
+T112	N 657 664	săn bắn
+T113	CH 665 668	...
+T114	N 669 674	Nguồn
+T115	CH 675 676	:
+T116	Np 677 680	VNE
+T117	CH 681 682	/
+T118	Nc 683 687	Jack
+T119	Np 688 703	Brockway Hà Anh
