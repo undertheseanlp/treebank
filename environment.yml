@@ -1,40 +1,27 @@
 name: underthesea.treebank
 channels:
-- !!python/unicode
-  'defaults'
+- defaults
 dependencies:
-- !!python/unicode
-  'boto=2.46.1=py27_0'
-- !!python/unicode
-  'bz2file=0.98=py27_0'
-- !!python/unicode
-  'gensim=1.0.1=np112py27_0'
-- !!python/unicode
-  'mkl=2017.0.1=0'
-- !!python/unicode
-  'numpy=1.12.1=py27_0'
-- !!python/unicode
-  'pip=9.0.1=py27_1'
-- !!python/unicode
-  'python=2.7.11=5'
-- !!python/unicode
-  'requests=2.13.0=py27_0'
-- !!python/unicode
-  'scipy=0.19.0=np112py27_0'
-- !!python/unicode
-  'setuptools=27.2.0=py27_1'
-- !!python/unicode
-  'six=1.10.0=py27_0'
-- !!python/unicode
-  'smart_open=1.5.2=py27_0'
-- !!python/unicode
-  'vs2008_runtime=9.00.30729.5054=0'
-- !!python/unicode
-  'wheel=0.29.0=py27_0'
+- boto=2.46.1=py27_0
+- bz2file=0.98=py27_0
+- gensim=1.0.1=np112py27_0
+- mkl=2017.0.1=0
+- numpy=1.12.1=py27_0
+- pip=9.0.1=py27_1
+- python=2.7.11=5
+- requests=2.13.0=py27_0
+- scipy=0.19.0=np112py27_0
+- setuptools=27.2.0=py27_1
+- six=1.10.0=py27_0
+- smart_open=1.5.2=py27_0
+- vs2008_runtime=9.00.30729.5054=0
+- wheel=0.29.0=py27_0
 - pip:
   - also==0.0.2
   - click==6.7
   - dirsync==2.2.2
+  - jinja2==2.9.6
+  - markupsafe==1.0
   - pandas==0.20.2
   - python-crfsuite==0.9.1
   - python-dateutil==2.6.0
@@ -44,5 +31,5 @@ dependencies:
   - underscore.py==0.1.6
   - underthesea==1.1.0
   - xlrd==1.0.0
-prefix: !!python/unicode 'C:\ProgramData\Anaconda2\envs\underthesea.treebank'
+prefix: C:\ProgramData\Anaconda2\envs\underthesea.treebank
 
