@@ -2,11 +2,10 @@ T1	V 0 6	Bầu cử
 T2	N 7 14	hạ viện
 T3	Np 15 19	Pháp
 T4	CH 20 21	:
-T5	Np 22 31	Bà Le Pen
 T6	V 32 40	tuyên bố
 T7	V 41 49	tham gia
 T8	N 50 58	tranh cử
-T9	V 60 72	Cựu Chủ tịch
+T9	N 60 72	Cựu Chủ tịch
 T10	N 73 77	đảng
 T11	N 78 85	cực hữu
 T12	N 86 94	Mặt trận
@@ -14,8 +13,6 @@ T13	N 95 103	Quốc gia
 T14	CH 104 105	(
 T15	Np 106 108	FN
 T16	CH 109 110	)
-T17	Np 111 122	Pháp Marine
-T18	Np 123 129	Le Pen
 T19	N 130 134	ngày
 T20	M 135 137	18
 T21	CH 138 139	/
@@ -26,8 +23,6 @@ T25	R 155 157	sẽ
 T26	V 158 166	tham gia
 T27	N 167 171	cuộc
 T28	V 172 178	bầu cử
-T29	V 179 181	hạ
-T30	N 182 186	viện
 T31	Np 187 191	Pháp
 T32	E 192 195	vào
 T33	N 196 201	tháng
@@ -35,10 +30,8 @@ T34	M 202 203	6
 T35	V 204 207	tới
 T36	CH 208 209	.
 T37	N 211 223	Cựu Chủ tịch
-T38	Np 224 228	Đảng
+T38	N 224 228	Đảng
 T39	N 229 236	cực hữu
-T40	Np 237 248	Pháp Marine
-T41	Np 249 255	Le Pen
 T42	CH 256 257	.
 T43	Np 258 261	Ảnh
 T44	CH 262 263	:
@@ -159,7 +152,7 @@ T158	N 916 923	bảo thủ
 T159	V 924 927	làm
 T160	N 928 937	Thủ tướng
 T161	CH 938 939	.
-T162	Np 940 944	Hiện
+T162	N 940 944	Hiện
 T163	Np 945 947	FN
 T164	R 948 951	chỉ
 T165	V 952 955	nắm
@@ -273,3 +266,10 @@ T272	N 1499 1503	đảng
 T273	CH 1504 1505	.
 T274	CH 1506 1507	/
 T275	CH 1508 1509	.
+T5	N 22 24	Bà
+T276	Np 25 31	Le Pen
+T17	Np 111 115	Pháp
+T18	Np 116 129	Marine Le Pen
+T29	N 179 186	hạ viện
+T30	N 237 241	Pháp
+T40	Np 242 255	Marine Le Pen
