@@ -1,0 +1,59 @@
+T1	N 0 11	Trắc nghiệm
+T2	CH 12 13	:
+T3	N 14 17	Bạn
+T4	V 18 20	có
+T5	A 21 31	thông minh
+T6	R 32 35	hơn
+T7	N 36 44	học sinh
+T8	N 45 48	lớp
+T9	M 49 50	6
+T10	CH 51 52	?
+T11	E 54 57	Sau
+T12	N 58 61	khi
+T13	V 62 65	rời
+T14	V 66 70	khỏi
+T15	N 71 74	ghế
+T16	N 75 85	nhà trường
+T17	CH 86 87	,
+T18	P 88 96	chúng ta
+T19	R 97 103	thường
+T20	V 104 108	quên
+T21	R 109 116	hầu hết
+T22	N 117 126	kiến thức
+T23	R 127 129	đã
+T24	V 130 133	học
+T25	CH 134 135	.
+T26	R 136 139	Hãy
+T27	V 140 148	kiểm tra
+T28	N 149 156	trí nhớ
+T29	E 157 160	của
+T30	P 161 165	mình
+T31	E 166 170	bằng
+T32	L 171 177	một số
+T33	N 178 186	bài toán
+T34	E 187 191	dưới
+T35	P 192 195	đây
+T36	CH 196 197	.
+T37	L 198 205	Hầu hết
+T38	N 206 214	học sinh
+T39	N 215 224	phổ thông
+T40	R 225 228	đều
+T41	R 229 235	có thể
+T42	V 236 241	xử lý
+T43	R 242 246	được
+T44	L 247 252	những
+T45	N 253 260	câu hỏi
+T46	P 261 264	này
+T47	V 265 274	không mấy
+T48	A 275 283	khó khăn
+T49	CH 284 285	.
+T50	V 286 293	browser
+T51	N 294 297	not
+T52	V 298 305	support
+T53	N 306 312	iframe
+T54	CH 313 314	.
+T55	Np 315 326	Nguyễn Thảo
+T56	CH 327 328	(
+T57	E 329 333	Theo
+T58	Np 334 345	Bright Side
+T59	CH 346 347	)
