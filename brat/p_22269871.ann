@@ -1,4 +1,4 @@
-T1	N 0 8	Kinh hãi
+T1	V 0 8	Kinh hãi
 T2	N 9 12	cừu
 T3	V 13 16	mọc
 T4	N 17 22	miệng
@@ -9,7 +9,6 @@ T8	N 38 41	tai
 T9	N 43 46	Chủ
 T10	N 47 57	trang trại
 T11	R 58 65	vô cùng
-T12	A 66 74	kinh hãi
 T13	N 75 78	khi
 T14	V 79 88	phát hiện
 T15	N 89 94	miệng
@@ -260,11 +259,7 @@ T259	R 1284 1290	có thể
 T260	R 1291 1293	đã
 T261	V 1294 1296	ăn
 T262	V 1297 1301	phải
-T263	V 1302 1305	hóa
-T264	N 1306 1310	chất
 T265	C 1311 1314	hay
-T266	V 1315 1318	hóc
-T267	N 1319 1322	môn
 T268	P 1323 1325	gì
 T269	P 1326 1328	đó
 T270	E 1329 1334	trong
@@ -299,3 +294,6 @@ T298	P 1481 1483	nó
 T299	V 1484 1486	bị
 T300	A 1487 1494	dị dạng
 T301	CH 1495 1496	.
+T12	V 66 74	kinh hãi
+T263	N 1302 1310	hóa chất
+T264	N 1315 1322	hóc môn
