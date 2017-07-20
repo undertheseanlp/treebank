@@ -1,8 +1,6 @@
 T1	V 0 8	Chia tay
 T2	N 9 18	người yêu
 T3	CH 19 20	,
-T4	N 21 24	hot
-T5	N 25 29	girl
 T6	Np 30 33	Mie
 T7	R 34 38	luôn
 T8	V 39 42	mặc
@@ -83,7 +81,7 @@ T82	N 455 457	áo
 T83	N 458 464	hở vai
 T84	N 465 472	trễ nải
 T85	CH 473 474	.
-T86	Np 475 477	Cô
+T86	N 475 477	Cô
 T87	V 478 480	có
 T88	T 481 483	cả
 T89	M 484 487	một
@@ -100,8 +98,8 @@ T99	V 536 538	Là
 T100	M 539 542	một
 T101	E 543 548	trong
 T102	L 549 554	những
-T103	N 555 558	hot
-T104	A 559 563	girl
+T103	Ab 555 558	hot
+T104	Nb 559 563	girl
 T105	N 564 567	đời
 T106	N 568 571	đầu
 T107	CH 572 573	,
@@ -178,7 +176,7 @@ T177	CH 947 948	"
 T178	V 949 951	để
 T179	R 952 955	lại
 T180	A 956 961	nhiều
-T181	N 962 971	tiếc nuối
+T181	V 962 971	tiếc nuối
 T182	E 972 975	cho
 T183	N 976 981	người
 T184	V 982 988	hâm mộ
@@ -306,3 +304,4 @@ T305	V 1623 1626	cảm
 T306	E 1627 1630	của
 T307	Np 1631 1641	Mie Nguyễn
 T308	CH 1642 1643	.
+T4	N 21 29	hot girl

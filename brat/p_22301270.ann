@@ -1,7 +1,6 @@
 T1	Np 0 8	Hàn Quốc
 T2	V 9 17	cảnh báo
-T3	V 18 29	khả năng nổ
-T4	R 30 32	ra
+T4	V 30 32	ra
 T5	V 33 41	xung đột
 T6	N 42 49	quân sự
 T7	E 50 53	với
@@ -87,7 +86,7 @@ T86	V 547 549	có
 T87	N 550 558	khả năng
 T88	A 559 562	cao
 T89	V 563 566	xảy
-T90	R 567 569	ra
+T90	V 567 569	ra
 T91	V 570 578	xung đột
 T92	N 579 586	quân sự
 T93	E 587 590	tại
@@ -101,7 +100,7 @@ T100	Np 626 629	NLL
 T101	CH 630 631	)
 T102	Cc 632 634	và
 T103	N 635 640	đường
-T104	V 641 651	giới tuyến
+T104	N 641 651	giới tuyến
 T105	N 652 659	quân sự
 T106	CH 660 661	"
 T107	CH 662 663	,
@@ -133,7 +132,6 @@ T132	N 816 823	tên lửa
 T133	CH 824 825	.
 T134	Np 826 831	Triều
 T135	Np 832 836	Tiên
-T136	V 837 846	cuối tuần
 T137	R 847 850	qua
 T138	V 851 856	phóng
 T139	V 857 860	thử
@@ -179,8 +177,6 @@ T178	N 1087 1097	thành viên
 T179	N 1098 1106	Hội đồng
 T180	N 1107 1113	Bảo an
 T181	Np 1114 1127	Liên Hợp Quốc
-T182	N 1128 1131	hôm
-T183	V 1132 1135	qua
 T184	V 1136 1139	họp
 T185	A 1140 1143	kín
 T186	E 1144 1146	về
@@ -200,3 +196,7 @@ T199	Np 1235 1240	HOÀNG
 T200	CH 1241 1242	(
 T201	Np 1243 1252	VnExpress
 T202	CH 1253 1254	)
+T3	N 18 26	khả năng
+T203	V 27 29	nổ
+T136	N 837 846	cuối tuần
+T182	N 1128 1135	hôm qua

@@ -11,13 +11,10 @@ dependencies:
 - python=2.7.11=5
 - requests=2.13.0=py27_0
 - scipy=0.19.0=np112py27_0
-- setuptools=27.2.0=py27_1
 - six=1.10.0=py27_0
 - smart_open=1.5.2=py27_0
-- vs2008_runtime=9.00.30729.5054=0
 - wheel=0.29.0=py27_0
 - pip:
-  - also==0.0.2
   - click==6.7
   - dirsync==2.2.2
   - jinja2==2.9.6
@@ -31,5 +28,3 @@ dependencies:
   - underscore.py==0.1.6
   - underthesea==1.1.0
   - xlrd==1.0.0
-prefix: C:\ProgramData\Anaconda2\envs\underthesea.treebank
-

@@ -5,7 +5,7 @@ T4	Np 19 22	Anh
 T5	A 23 33	thân thiết
 T6	E 34 35	ở
 T7	N 36 43	sự kiện
-T8	N 44 47	sau
+T8	E 44 47	sau
 T9	V 48 56	chia tay
 T10	N 58 66	Hình ảnh
 T11	A 67 70	mới
@@ -136,8 +136,6 @@ T135	CH 737 738	.
 T136	N 739 748	Anh chàng
 T137	R 749 752	còn
 T138	R 753 756	rất
-T139	N 757 759	ga
-T140	N 760 764	lăng
 T141	V 765 768	đưa
 T142	N 769 773	tình
 T143	A 774 776	cũ
@@ -352,3 +350,4 @@ T351	CH 1823 1824	:
 T352	Np 1825 1827	FB
 T353	Np 1828 1837	Hoàng Anh
 T354	CH 1838 1839	.
+T139	A 757 764	ga lăng
