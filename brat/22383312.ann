@@ -1,0 +1,97 @@
+T1	V 0 4	Thêm
+T2	M 5 8	một
+T3	N 9 15	phụ nữ
+T4	V 16 20	phải
+T5	V 21 27	cắt bỏ
+T6	N 28 32	ngực
+T7	E 33 35	vì
+T8	N 36 40	trót
+T9	V 41 44	bơm
+T10	N 45 52	silicon
+T11	N 54 60	Bác sĩ
+T12	Np 61 82	Phạm Trịnh Quốc Khanh
+T13	E 83 86	của
+T14	N 87 96	Bệnh viện
+T15	Np 97 108	Trưng Vương
+T16	V 109 117	cho biết
+T17	CH 118 119	,
+T18	R 120 122	đã
+T19	V 123 129	cắt bỏ
+T20	L 130 137	toàn bộ
+T21	M 138 139	2
+T22	N 140 143	bên
+T23	N 144 148	ngực
+T24	Cc 149 151	và
+T25	N 152 161	bụng trên
+T26	E 162 165	của
+T27	N 166 175	bệnh nhân
+T28	CH 176 177	.
+T29	N 178 181	Khi
+T30	N 182 191	bệnh nhân
+T31	N 192 201	nhập viện
+T32	CH 202 203	,
+T33	N 204 208	chất
+T34	V 209 212	làm
+T35	A 213 216	đầy
+T36	R 217 219	đã
+T37	V 220 224	chảy
+T38	R 225 230	xuống
+T39	N 231 235	ngực
+T40	Cc 236 238	và
+T41	N 239 243	bụng
+T42	CH 244 245	,
+T43	C 246 249	nên
+T44	L 250 253	các
+T45	N 254 260	bác sĩ
+T46	R 261 263	đã
+T47	V 264 266	mổ
+T48	Cc 267 269	và
+T49	V 270 273	nạo
+T50	V 274 277	lấy
+T51	R 278 280	ra
+T52	A 281 287	khoảng
+T53	M 288 291	0,5
+T54	Nu 292 294	kg
+T55	N 295 302	silicon
+T56	E 303 305	từ
+T57	N 306 312	cơ thể
+T58	CH 313 314	.
+T59	C 315 324	Tuy nhiên
+T60	CH 325 326	,
+T61	R 327 330	vẫn
+T62	R 331 340	không thể
+T63	V 341 344	lấy
+T64	V 345 348	hết
+T65	N 349 356	toàn bộ
+T66	CH 357 358	.
+T67	L 359 362	Các
+T68	N 363 369	bác sĩ
+T69	N 370 377	lo ngại
+T70	CH 378 379	,
+T71	N 380 385	lượng
+T72	N 386 393	silicon
+T73	V 394 397	còn
+T74	R 398 401	lại
+T75	R 402 404	sẽ
+T76	V 405 413	tiếp tục
+T77	V 414 417	gây
+T78	V 418 425	hoại tử
+T79	CH 426 427	,
+T80	V 428 430	ăn
+T81	E 431 434	vào
+T82	N 435 437	da
+T83	CH 438 439	,
+T84	C 440 445	do đó
+T85	N 446 455	bệnh nhân
+T86	R 456 462	có thể
+T87	V 463 467	phải
+T88	V 468 476	tiếp tục
+T89	V 477 487	phẫu thuật
+T90	N 488 491	lần
+T91	M 492 493	2
+T92	E 494 496	để
+T93	V 497 500	cắt
+T94	V 501 504	lọc
+T95	CH 505 506	.
+T96	E 508 512	Theo
+T97	Np 513 518	VTC14

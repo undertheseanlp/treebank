@@ -1,0 +1,127 @@
+T1	N 0 3	Khi
+T2	Nc 4 9	chàng
+T3	N 10 17	cầu thủ
+T4	N 18 26	đánh rơi
+T5	N 27 30	kẹo
+T6	N 31 37	cao su
+T7	N 39 47	Ấn tượng
+T8	N 48 51	khi
+T9	V 52 62	chứng kiến
+T10	Nc 63 68	chàng
+T11	N 69 76	cầu thủ
+T12	V 77 81	dùng
+T13	N 82 90	kỹ thuật
+T14	E 91 93	để
+T15	V 94 99	xử lý
+T16	Nc 100 105	miếng
+T17	N 106 109	kẹo
+T18	N 110 116	cao su
+T19	R 117 121	đang
+T20	V 122 125	rơi
+T21	CH 126 127	.
+T22	Np 129 143	Felix Passlack
+T23	CH 144 145	,
+T24	N 146 153	cầu thủ
+T25	M 154 156	18
+T26	N 157 161	tuổi
+T27	E 162 165	của
+T28	N 166 175	đội tuyển
+T29	Np 176 193	Borussia Dortmund
+T30	N 194 198	nước
+T31	Np 199 202	Đức
+T32	V 203 206	gây
+T33	N 207 215	ấn tượng
+T34	E 216 219	cho
+T35	N 220 234	cộng đồng mạng
+T36	E 235 238	bởi
+T37	N 239 242	màn
+T38	V 243 252	tung hứng
+T39	Nc 253 258	miếng
+T40	N 259 262	kẹo
+T41	N 263 269	cao su
+T42	V 270 272	lỡ
+T43	V 273 276	rớt
+T44	R 277 287	giữa chừng
+T45	CH 288 289	,
+T46	V 290 294	được
+T47	V 295 299	tung
+T48	R 300 303	lên
+T49	N 304 312	mạng hồi
+T50	N 313 317	cuối
+T51	N 318 323	tháng
+T52	M 324 325	1
+T53	X 326 333	vừa qua
+T54	CH 334 335	.
+T55	Np 336 339	Màn
+T56	V 340 349	tung hứng
+T57	V 350 357	kéo dài
+T58	N 358 364	khoảng
+T59	M 365 367	10
+T60	N 368 372	giây
+T61	V 373 380	tiết lộ
+T62	Np 381 395	Felix Passlack
+T63	V 396 398	là
+T64	M 399 402	một
+T65	N 403 413	chàng trai
+T66	N 414 426	vừa khéo léo
+T67	R 427 430	vừa
+T68	V 431 440	điển trai
+T69	CH 441 442	,
+T70	C 443 445	dù
+T71	V 446 453	ăn uống
+T72	R 454 457	hơi
+T73	CH 458 461	...
+T74	V 462 465	mất
+T75	V 466 473	vệ sinh
+T76	N 474 480	một tí
+T77	CH 481 482	.
+T78	Np 483 486	Bạn
+T79	R 487 491	cũng
+T80	R 492 494	sẽ
+T81	V 495 497	có
+T82	N 498 506	nhận xét
+T83	A 507 515	tương tự
+T84	N 516 519	khi
+T85	V 520 523	xem
+T86	N 524 528	clip
+T87	N 529 537	đáng yêu
+T88	P 538 541	này
+T89	CH 542 543	:
+T90	A 544 551	Bất ngờ
+T91	CH 552 553	,
+T92	Np 554 562	Passlack
+T93	R 563 568	không
+T94	A 569 573	phải
+T95	C 574 576	là
+T96	N 577 584	cầu thủ
+T97	A 585 593	duy nhất
+T98	V 594 596	có
+T99	N 597 600	màn
+T100	V 601 611	trình diễn
+T101	E 612 615	với
+T102	N 616 619	kẹo
+T103	N 620 626	cao su
+T104	CH 627 628	.
+T105	V 629 643	Cùng thời điểm
+T106	CH 644 645	,
+T107	N 646 653	cầu thủ
+T108	Np 654 667	Dimitri Payet
+T109	N 668 671	đội
+T110	Np 672 680	West Ham
+T111	E 681 684	của
+T112	N 685 695	Ngoại hạng
+T113	N 696 699	Anh
+T114	R 700 704	cũng
+T115	V 705 707	có
+T116	N 708 711	màn
+T117	V 712 721	tung hứng
+T118	E 722 725	với
+T119	N 726 729	kẹo
+T120	CH 730 731	.
+T121	Np 732 735	Màn
+T122	V 736 740	tung
+T123	N 741 744	kẹo
+T124	E 745 748	của
+T125	Np 749 762	Dimitri Payet
+T126	CH 763 764	:
+T127	Np 765 773	Minh Tuệ
