@@ -36,7 +36,8 @@ if __name__ == '__main__':
     folder = join(dirname(__file__), "raw", "vinews")
     files = set(listdir(folder))
     brat_folder = join(dirname(__file__), "brat")
-    annotated_files = get_annotated_files(brat_folder)
+    brat_final_folder = join(dirname(__file__), "brat_final")
+    annotated_files = get_annotated_files(brat_folder) | get_annotated_files(brat_final_folder)
     un_annotated_files = files - annotated_files
     for file in un_annotated_files:
         input_file = join(folder, file)

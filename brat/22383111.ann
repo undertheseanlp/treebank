@@ -1,0 +1,132 @@
+T1	Np 0 2	Mỹ
+T2	V 3 15	bàn giao tàu
+T3	N 16 26	tuần duyên
+T4	N 27 31	loại
+T5	A 32 35	lớn
+T6	E 36 39	cho
+T7	Np 40 48	Việt Nam
+T8	N 50 61	Đại sứ quán
+T9	Np 62 64	Mỹ
+T10	E 65 68	tại
+T11	Np 69 77	Việt Nam
+T12	N 78 82	ngày
+T13	M 83 85	26
+T14	CH 86 87	-
+T15	M 88 89	5
+T16	V 90 93	cho
+T17	V 94 98	biết
+T18	N 99 108	lực lượng
+T19	N 109 119	Tuần duyên
+T20	Np 120 122	Mỹ
+T21	R 123 125	đã
+T22	V 126 138	bàn giao tàu
+T23	N 139 149	tuần duyên
+T24	N 150 159	trọng tải
+T25	A 160 163	lớn
+T26	E 164 167	cho
+T27	N 168 176	Cảnh sát
+T28	N 177 181	biển
+T29	Np 182 190	Việt Nam
+T30	E 191 194	tại
+T31	N 195 199	buổi
+T32	N 200 202	lễ
+T33	E 203 204	ở
+T34	Np 205 220	Honolulu Hawaii
+T35	CH 221 222	-
+T36	Np 223 225	Mỹ
+T37	N 226 229	hôm
+T38	M 230 232	25
+T39	CH 233 234	-
+T40	M 235 236	5
+T41	CH 237 238	.
+T42	N 240 243	Tàu
+T43	P 244 247	này
+T44	R 248 252	được
+T45	V 253 256	đổi
+T46	N 257 260	tên
+T47	V 261 263	là
+T48	Np 264 267	CSB
+T49	V 268 272	8020
+T50	CH 273 274	,
+T51	V 275 279	giúp
+T52	V 280 284	nâng
+T53	A 285 288	cao
+T54	N 289 297	năng lực
+T55	N 298 307	nhận thức
+T56	E 308 310	về
+T57	L 311 314	các
+T58	N 315 321	vấn đề
+T59	N 322 330	hàng hải
+T60	E 331 334	của
+T61	N 335 343	Cảnh sát
+T62	N 344 348	biển
+T63	Np 349 357	Việt Nam
+T64	CH 358 359	,
+T65	V 360 370	tăng cường
+T66	N 371 379	năng lực
+T67	E 380 385	trong
+T68	N 386 390	việc
+T69	V 391 400	thực hiện
+T70	L 401 404	các
+T71	N 405 414	hoạt động
+T72	V 415 423	thực thi
+T73	N 424 428	luật
+T74	N 429 437	hàng hải
+T75	CH 438 439	,
+T76	V 440 448	tìm kiếm
+T77	Cc 449 451	và
+T78	V 452 455	cứu
+T79	N 456 459	nạn
+T80	Cc 460 462	và
+T81	L 463 466	các
+T82	N 467 476	hoạt động
+T83	V 477 484	ứng phó
+T84	A 485 493	nhân đạo
+T85	CH 494 495	.
+T86	N 496 505	Chính phủ
+T87	Np 506 508	Mỹ
+T88	V 509 520	chuyển giao
+T89	E 521 524	cho
+T90	N 525 533	Cảnh sát
+T91	N 534 538	biển
+T92	Np 539 547	Việt Nam
+T93	V 548 557	thông qua
+T94	N 558 570	Chương trình
+T95	V 571 574	bán
+T96	V 575 583	trang bị
+T97	N 584 594	quốc phòng
+T98	N 595 602	dư thừa
+T99	CH 603 604	(
+T100	Np 605 608	EDA
+T101	CH 609 610	)
+T102	CH 611 612	.
+T103	N 613 624	Trung tướng
+T104	Np 625 641	Nguyễn Quang Đạm
+T105	CH 642 643	-
+T106	N 644 651	sĩ quan
+T107	V 652 659	chỉ huy
+T108	N 660 668	Cảnh sát
+T109	N 669 673	biển
+T110	Np 674 682	Việt Nam
+T111	Cc 683 685	và
+T112	N 686 698	Chuẩn Đô đốc
+T113	Np 699 708	Michael J
+T114	CH 709 710	.
+T115	Np 711 718	Haycock
+T116	CH 719 720	-
+T117	N 721 727	trợ lý
+T118	V 728 743	tham mưu trưởng
+T119	E 744 746	về
+T120	N 747 756	quân dụng
+T121	Cc 757 759	và
+T122	N 760 766	cán bộ
+T123	N 767 779	chuyên trách
+T124	N 780 789	quân dụng
+T125	N 790 800	Tuần duyên
+T126	Np 801 807	Mỹ Ảnh
+T127	CH 808 809	:
+T128	Np 810 821	ĐẠI SỨ QUÁN
+T129	Np 822 824	MỸ
+T130	Ny 825 826	D
+T131	CH 827 828	.
+T132	Np 829 833	Ngọc

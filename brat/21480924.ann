@@ -1,0 +1,170 @@
+T1	N 0 9	Thủ tướng
+T2	Np 10 13	Lào
+T3	V 14 17	tới
+T4	Np 18 24	Hà Nội
+T5	N 26 33	Hôm nay
+T6	CH 34 35	,
+T7	N 36 45	Thủ tướng
+T8	Np 46 52	CHDCND
+T9	Np 53 76	Lào Thongloun Sisoulith
+T10	V 77 84	dẫn đầu
+T11	Nc 85 89	đoàn
+T12	N 90 98	đại biểu
+T13	N 99 108	chính phủ
+T14	Np 109 112	Lào
+T15	E 113 116	tới
+T16	Np 117 125	Việt Nam
+T17	V 126 133	tham dự
+T18	Cc 134 136	và
+T19	N 137 141	đồng
+T20	N 142 149	chủ trì
+T21	N 150 152	kỳ
+T22	V 153 156	họp
+T23	N 157 160	lần
+T24	N 161 164	thứ
+T25	M 165 167	39
+T26	N 168 174	Ủy ban
+T27	Z 175 179	liên
+T28	N 180 189	Chính phủ
+T29	Np 190 192	VN
+T30	CH 193 194	-
+T31	Np 195 198	Lào
+T32	R 199 203	được
+T33	V 204 211	tổ chức
+T34	E 212 215	tại
+T35	Np 216 222	Hà Nội
+T36	CH 223 224	,
+T37	E 225 229	theo
+T38	N 230 233	lời
+T39	V 234 237	mời
+T40	E 238 241	của
+T41	N 242 251	Thủ tướng
+T42	Np 252 268	Nguyễn Xuân Phúc
+T43	CH 269 270	.
+T44	N 272 281	Thủ tướng
+T45	Np 282 298	Nguyễn Xuân Phúc
+T46	V 299 306	hội đàm
+T47	E 307 310	với
+T48	N 311 320	Thủ tướng
+T49	Np 321 343	Lào Thoonglun Sisulith
+T50	N 344 349	tháng
+T51	M 350 352	10
+T52	CH 353 354	/
+T53	N 355 359	2016
+T54	E 360 363	tại
+T55	Np 364 370	Hà Nội
+T56	CH 371 372	.
+T57	Np 373 376	Ảnh
+T58	CH 377 378	:
+T59	Np 379 382	VGP
+T60	Np 383 387	Cùng
+T61	V 388 390	đi
+T62	E 391 394	với
+T63	N 395 404	Thủ tướng
+T64	Np 405 408	Lào
+T65	V 409 411	có
+T66	N 412 425	Phó Thủ tướng
+T67	CH 426 427	,
+T68	L 428 431	các
+T69	N 432 441	Bộ trưởng
+T70	CH 442 443	:
+T71	N 444 453	Tài chính
+T72	CH 454 455	,
+T73	N 456 464	Kế hoạch
+T74	V 465 471	Đầu tư
+T75	CH 472 473	,
+T76	N 474 485	Công thương
+T77	CH 486 487	,
+T78	N 488 498	Công chính
+T79	Cc 499 501	và
+T80	V 502 509	Vận tải
+T81	CH 510 511	,
+T82	N 512 520	Giáo dục
+T83	Cc 521 523	và
+T84	N 524 532	Thể thao
+T85	CH 533 534	,
+T86	N 535 545	Năng lượng
+T87	Cc 546 548	và
+T88	Np 549 551	Mỏ
+T89	CH 552 555	...
+T90	N 556 565	Thủ tướng
+T91	Np 566 569	Lào
+T92	V 570 577	tham dự
+T93	Cc 578 580	và
+T94	N 581 585	đồng
+T95	N 586 593	chủ trì
+T96	N 594 596	kỳ
+T97	V 597 600	họp
+T98	N 601 604	lần
+T99	N 605 608	thứ
+T100	M 609 611	39
+T101	N 612 618	Ủy ban
+T102	Z 619 623	liên
+T103	N 624 633	Chính phủ
+T104	Np 634 636	VN
+T105	CH 637 638	-
+T106	Np 639 642	Lào
+T107	E 643 646	tại
+T108	Np 647 653	Hà Nội
+T109	N 654 658	ngày
+T110	M 659 660	8
+T111	CH 661 662	/
+T112	M 663 664	2
+T113	CH 665 666	.
+T114	M 667 670	Hai
+T115	N 671 674	bên
+T116	V 675 684	tiến hành
+T117	N 685 687	kỳ
+T118	V 688 691	họp
+T119	V 692 696	nhằm
+T120	V 697 705	tiếp tục
+T121	V 706 716	khẳng định
+T122	V 717 724	ưu tiên
+T123	E 725 730	trong
+T124	N 731 741	chính sách
+T125	A 742 751	đối ngoại
+T126	C 752 754	là
+T127	R 755 760	không
+T128	V 761 766	ngừng
+T129	V 767 777	phát triển
+T130	N 778 781	mối
+T131	N 782 789	quan hệ
+T132	A 790 798	hữu nghị
+T133	N 799 811	truyền thống
+T134	CH 812 813	,
+T135	V 814 822	đoàn kết
+T136	A 823 831	đặc biệt
+T137	Cc 832 834	và
+T138	V 835 842	hợp tác
+T139	A 843 852	toàn diện
+T140	CH 853 854	,
+T141	V 855 865	tăng cường
+T142	Nc 866 868	sự
+T143	V 869 876	tin cậy
+T144	N 877 886	chính trị
+T145	E 887 891	giữa
+T146	M 892 895	hai
+T147	N 896 900	nước
+T148	CH 901 902	,
+T149	V 903 913	thống nhất
+T150	V 914 921	chỉ đạo
+T151	V 922 932	triển khai
+T152	L 933 936	các
+T153	N 937 947	thỏa thuận
+T154	N 948 951	cấp
+T155	A 952 955	cao
+T156	CH 956 957	,
+T157	V 958 966	thúc đẩy
+T158	N 967 974	quan hệ
+T159	V 975 982	hợp tác
+T160	E 983 987	giữa
+T161	M 988 991	hai
+T162	N 992 996	nước
+T163	R 997 1002	không
+T164	V 1003 1008	ngừng
+T165	V 1009 1019	phát triển
+T166	E 1020 1025	trong
+T167	N 1026 1035	thời gian
+T168	V 1036 1039	tới
+T169	CH 1040 1041	.
+T170	Np 1042 1049	Thái An
