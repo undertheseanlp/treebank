@@ -292,7 +292,7 @@ QĐ	Ny
 –	CH
 UBND	Ny
 ngày	N
-16/7/2015	N
+16/7/2015	M
 do	E
 UBND	Ny
 tỉnh	N
@@ -561,13 +561,13 @@ của	E
 Nghị định số	N
 99	M
 /	CH
-2010	N
+2010	M
 /	CH
 NĐ	Np
 -	CH
 CP	Np
 ngày	N
-24/9/2010	N
+24/9/2010	M
 của	E
 Chính phủ	N
 về	E
@@ -578,7 +578,8 @@ môi trường	N
 rừng	N
 ,	CH
 Ban	N
-quản lý Vườn	N
+quản lý	V
+Vườn	N
 đã	R
 giao	V
 cho	E
@@ -768,15 +769,15 @@ trong	E
 23	M
 ,	CH
 Nghị định	N
-117	N
+117	M
 /	CH
-2010	N
+2010	M
 /	CH
 NĐ	Np
 -	CH
 CP	Np
 ngày	N
-24/12/2010	N
+24/12/2010	M
 của	E
 Chính phủ	N
 về	E
@@ -827,7 +828,7 @@ của	E
 Nghị định số	N
 99	M
 /	CH
-2010	N
+2010	M
 /	CH
 NĐ	Np
 -	CH
@@ -844,7 +845,8 @@ rừng	N
 thì	C
 Ban	N
 quản lý	V
-Vườn tự	N
+Vườn	N
+tự	P
 thỏa thuận	V
 với	E
 đơn vị	N
@@ -868,7 +870,7 @@ của	E
 PLVN	Np
 ,	CH
 Quyết định số	N
-1947	N
+1947	M
 /	CH
 QĐ	Np
 –	CH
@@ -1122,14 +1124,15 @@ Quảng Bình	Np
 .	CH
 
 Ban	N
-quản lý Vườn	N
+quản lý	V
+Vườn	N
 bị	V
 mất	V
 quyền	N
 ?	CH
 “	CH
 Quyết định số	V
-1947	N
+1947	M
 /	CH
 QĐ	Np
 –	CH
@@ -1156,7 +1159,8 @@ trải nghiệm	N
 ”	CH
 do	E
 Phó Chủ tịch	N
-Trần Tiến Dũng ký	N
+Trần Tiến Dũng	Np
+ký	V
 ,	CH
 đã	R
 chỉ định Công ty	V

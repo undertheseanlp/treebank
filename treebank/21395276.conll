@@ -115,10 +115,10 @@ tự chọn	A
 ,	CH
 xổ số	N
 điện toán	N
-123	N
+123	M
 ,	CH
 xổ số	N
-6x36	N
+6x36	M
 ,	CH
 xổ số	N
 Thần tài	Np
@@ -135,7 +135,7 @@ phong phú	A
 .	CH
 
 Xổ số	N
-123	N
+123	M
 và	Cc
 xổ số	V
 Thần tài	N
@@ -148,7 +148,7 @@ ngày	N
 
 Riêng	T
 xổ số	N
-6x36	N
+6x36	M
 mở	V
 thưởng	V
 thứ	N
@@ -204,7 +204,7 @@ JACKPOT	Np
 MEGA	Np
 6	M
 /	CH
-45	N
+45	M
 của	E
 Vietlott	Np
 .	CH
@@ -266,15 +266,15 @@ xổ số	N
 Mega	Np
 6	M
 /	CH
-45	N
+45	M
 được	R
 mở	V
 thưởng	V
 bắt đầu từ	N
-18h	N
+18h	M
 cho	E
 tới	E
-18h30	V
+18h30	M
 vào	E
 các	L
 ngày	N
@@ -295,7 +295,7 @@ xổ số	V
 điện toán	N
 Vietlott	Np
 ngày	N
-5/2/2017	V
+5/2/2017	M
 Kết quả	N
 xổ	V
 sổ	N
@@ -308,7 +308,7 @@ sau	N
 Kết quả	N
 xổ số	N
 điện toán	N
-123	N
+123	M
 là	V
 2	M
 26	M
@@ -318,10 +318,10 @@ xổ số	N
 Thần tài	N
 4	M
 là	V
-3781	N
+3781	M
 Kết quả	N
 xổ số	N
-6x36	N
+6x36	M
 là	V
 07	M
 08	M

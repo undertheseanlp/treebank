@@ -18,13 +18,13 @@ nhất	R
 năm	N
 2016	M
 -	CH
-2017	N
+2017	M
 thuộc	V
 về	E
 các	L
 siêu xe	N
 phiên bản	N
-2017	N
+2017	M
 bao gồm	V
 :	CH
 Aston Martin	Np
@@ -102,7 +102,7 @@ Aston Martin	Np
 MA	Np
 -	CH
 RB	Np
-00	V
+00	M
 có	V
 số lượng	N
 sản xuất	V
@@ -192,7 +192,8 @@ của	E
 siêu xe	N
 được	R
 nạm	V
-220 viên	N
+220	M
+viên	N
 kim cương	N
 hoặc	Cc
 đá	V
@@ -246,14 +247,14 @@ tăng	V
 kép	N
 V12	Np
 ,	CH
-6.0	N
+6.0	M
 L	Ny
 cung cấp	V
 sức mạnh	N
 lên	V
 tới	E
-750	N
-mã lực	V
+750	M
+mã lực	Nu
 .	CH
 
 Theo	E
@@ -289,7 +290,7 @@ khối	N
 động cơ	N
 W16	Np
 ,	CH
-8.0	N
+8.0	M
 L	Ny
 (	CH
 sức mạnh	N
@@ -305,8 +306,8 @@ cung cấp	V
 hiệu suất	N
 lên	V
 tới	E
-1.500	N
-mã lực	V
+1.500	M
+mã lực	Nu
 .	CH
 
 Siêu xe	V
@@ -378,7 +379,7 @@ tăng	V
 kép	N
 V5	Np
 ,	CH
-8.0	N
+8.0	M
 L	Ny
 và	Cc
 được	V
@@ -398,8 +399,8 @@ sức mạnh	N
 tổng hợp	A
 lên	V
 tới	E
-1.822	N
-mã lực	V
+1.822	M
+mã lực	Nu
 .	CH
 
 Theo	E
@@ -465,12 +466,12 @@ tăng	V
 kép	N
 V8	Np
 ,	CH
-5.9	N
+5.9	M
 L	Ny
 ,	CH
 cung cấp	V
 sức mạnh	N
-1.100	N
+1.100	M
 mã lực	N
 ,	CH
 có	V
@@ -528,7 +529,7 @@ trang bị	V
 xăng	N
 V8	Np
 ,	CH
-6.2	N
+6.2	M
 L	Ny
 và	Cc
 được	V
@@ -546,7 +547,7 @@ tổng hợp	A
 lên	V
 tới	E
 2.080	N
-mã lực	V
+mã lực	N
 .	CH
 
 Arash	Np
@@ -563,7 +564,7 @@ từ	E
 trong	E
 khoảng	N
 thời gian	N
-2.8	V
+2.8	M
 giây	N
 .	CH
 
@@ -641,8 +642,8 @@ cung cấp	V
 hiệu suất	N
 lên	V
 tới	E
-950	N
-mã lực	V
+950	M
+mã lực	N
 .	CH
 
 Siêu xe	N
@@ -737,7 +738,7 @@ từ	E
 km	Nu
 trong	E
 thời gian	N
-2.7	N
+2.7	M
 giây	V
 và	Cc
 đạt	V
@@ -793,7 +794,7 @@ twin	N
 turbo	N
 V8	Np
 ,	CH
-4.2	N
+4.2	M
 L	Ny
 từ	E
 Audi	Np
@@ -812,10 +813,11 @@ tăng tốc	V
 từ	E
 0	M
 -	CH
-100km	N
+100	M
+km	Nu
 trong	E
 thời gian	N
-2.9	V
+2.9	M
 giây	N
 và	Cc
 chỉ	R

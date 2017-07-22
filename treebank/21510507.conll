@@ -282,7 +282,7 @@ hoàn thành	V
 công việc	N
 cuối	A
 ngày	N
-31/12/2016	V
+31/12/2016	M
 .	CH
 
 Đối với	E
@@ -302,7 +302,7 @@ từ	E
 ngày	N
 9	M
 -	CH
-10/02/2017	N
+10/02/2017	M
 Cấu trúc	N
 nội dung	N
 tin nhắn	N
@@ -396,7 +396,7 @@ là	V
 24	M
 :	CH
 00	M
-31/12/16	N
+31/12/16	M
 .	CH
 
 No	N
@@ -480,7 +480,7 @@ gửi	V
 hoặc	Cc
 tiết kiệm	V
 bằng	E
-0	N
+0	M
 .	CH
 
 Và	Cc
@@ -541,41 +541,41 @@ tại	E
 giao dịch	V
 xã	N
 (	CH
-147ký	N
-tự	P
+147	M
+ký tự	N
 )	CH
 Den	Np
 24	M
 :	CH
 00	M
 ngay	R
-31/12/16	N
+31/12/16	M
 Quy khach	N
 co	V
 :	CH
 No	N
 goc	V
 :	CH
-100.000.000	N
+100.000.000	M
 VND	Nu
 ;	CH
 Tien gui	N
 :	CH
-1.200.000	N
+1.200.000	M
 VND	Nu
 ;	CH
 So	V
 tiet	N
 kiem	N
 :	CH
-100.000.000	N
+100.000.000	M
 VND	Nu
 .	CH
 
 Dien thoai	N
 lien he	V
 :	CH
-0373.121.099	N
+0373.121.099	M
 Ví dụ	N
 2	M
 :	CH
@@ -610,25 +610,25 @@ Den	N
 :	CH
 00	M
 ngay	R
-31/12/16	N
+31/12/16	M
 Quy khach	N
 co	V
 :	CH
 No	N
 goc	V
 :	CH
-100.000.000	N
+100.000.000	M
 VND	Nu
 ;	CH
 Tien gui	N
 :	CH
-1.200.000	N
+1.200.000	M
 VND	Nu
 ;	CH
 Dien thoai	N
 lien he	V
 :	CH
-0373.121.099	N
+0373.121.099	M
 Ví dụ	N
 3	M
 :	CH
@@ -645,15 +645,15 @@ tại	E
 giao dịch	V
 xã	N
 (	CH
-100ký	N
-tự	P
+100	M
+ký tự	N
 )	CH
 Den	Np
 24	M
 :	CH
 00	M
 ngay	R
-31/12/16	N
+31/12/16	M
 Quy khach	N
 co	V
 :	CH
@@ -661,14 +661,14 @@ So	V
 tiet	N
 kiem	N
 :	CH
-100.000.000	N
+100.000.000	M
 VND	Nu
 .	CH
 
 Dien thoai	N
 lien he	V
 :	CH
-0373.121.099	N
+0373.121.099	M
 P	Ny
 .	CH
 

@@ -1,0 +1,442 @@
+Lần	N
+đầu tiên	A
+mổ	V
+khối u	N
+gan	N
+lớn	A
+tại	E
+bệnh viện	N
+tuyến	N
+quận	N
+Bệnh viện	N
+quận	N
+2	M
+(	CH
+TP	Ny
+.	CH
+
+HCM	Np
+)	CH
+cho biết	V
+nơi	N
+đây	P
+vừa	R
+thực hiện	V
+thành công	V
+ca mổ	N
+cắt	V
+khối u	N
+gan	N
+lớn	A
+cho	E
+một	M
+bệnh nhân	N
+lớn tuổi	A
+.	CH
+
+Ngày	N
+18	M
+-	CH
+5	M
+,	CH
+bác sĩ	N
+CKII	Np
+Phan Văn Đức	Np
+,	CH
+Phó Giám đốc	V
+bệnh viện	N
+quận	N
+2	M
+,	CH
+cho biết	N
+bệnh nhân	N
+N	Ny
+.	CH
+
+T	Np
+.	CH
+
+D	Np
+(	CH
+77	M
+tuổi	N
+,	CH
+ngụ	V
+TP	Ny
+.	CH
+
+HCM	Np
+)	CH
+vào	E
+viện	N
+khám	V
+tiểu	N
+đường cùng	V
+các	L
+triệu chứng	N
+mệt mỏi	A
+,	CH
+đau	V
+vùng	N
+hạ	V
+sườn	N
+phải	V
+.	CH
+
+Qua	Np
+khám	V
+lâm sàng	N
+và	Cc
+làm	V
+các	L
+xét nghiệm	N
+cận	A
+lâm sàng	A
+như	C
+siêu âm	N
+,	CH
+chụp	V
+CT	Np
+Scan	Np
+,	CH
+các	L
+bác sĩ	N
+phát hiện	V
+gan	N
+phải	V
+của	E
+bệnh nhân	N
+có	V
+khối u	N
+.	CH
+
+Sau	E
+khi	N
+chuyển	V
+bệnh nhân	N
+chụp	V
+MRI	Np
+tại	E
+bệnh viện	N
+ĐH	Ny
+Y dược	N
+,	CH
+kết quả	N
+cho	V
+thấy	V
+bệnh nhân	N
+bị	V
+ung thư	N
+gan	V
+nguyên phát	N
+.	CH
+
+BS	Ny
+Đức	Np
+cho biết	A
+,	CH
+do	E
+đặc thù	N
+của	E
+chức năng	N
+gan	N
+với	E
+lượng	N
+máu	N
+chảy	V
+qua	E
+một	M
+ngày	N
+rất	R
+lớn	A
+nên	C
+ung thư	N
+gan	N
+thường	R
+diễn tiến	V
+rất	R
+nhanh	A
+,	CH
+khả năng	N
+di căn	V
+tạo	V
+ung thư	N
+thứ phát	N
+rất	R
+cao	A
+.	CH
+
+Theo	E
+y	N
+văn	N
+,	CH
+nếu	C
+không	R
+được	V
+can thiệp	V
+kịp thời	A
+,	CH
+bệnh nhân	N
+thường	R
+tử vong	V
+sau	E
+khi	N
+mắc	V
+bệnh	N
+từ	E
+6	M
+tháng	N
+đến	T
+1	M
+năm	N
+.	CH
+
+Nếu	C
+được	V
+can thiệp	V
+sớm	A
+,	CH
+khối u	N
+chưa	R
+di căn	V
+thì	C
+khả năng	N
+sống	V
+của	E
+bệnh nhân	N
+sẽ	R
+kéo dài	V
+hơn	R
+.	CH
+
+Các	L
+bác sĩ	N
+đang	R
+phẫu thuật	V
+lấy	V
+khối u	N
+gan	N
+cho	E
+bệnh nhân	N
+.	CH
+
+Ảnh	Np
+:	CH
+HÀ	Np
+PHƯỢNG	Np
+.	CH
+
+Với	E
+trường hợp	N
+của	E
+bệnh nhân	N
+D	Np
+,	CH
+khối u	N
+xuất phát	V
+từ	E
+gan	N
+,	CH
+chưa	R
+di căn	V
+nên	C
+các	L
+bác sĩ	N
+bệnh viện	N
+quận	N
+2	M
+đã	R
+hội chẩn	V
+với	E
+bệnh viện	N
+Đại học	N
+Y dược	N
+TP	Ny
+.	CH
+
+HCM	Np
+,	CH
+bệnh viện Nhân dân	N
+Gia Định	Np
+,	CH
+bệnh viện	N
+Ung bướu	N
+TP	Ny
+.	CH
+
+HCM	Np
+và	Cc
+quyết định	V
+mổ	V
+lấy	V
+khối u	N
+.	CH
+
+Tuy nhiên	C
+,	CH
+cái	Nc
+khó	A
+của	E
+ca	N
+phẫu thuật	V
+chính	T
+là	V
+bệnh nhân	N
+đã	R
+lớn tuổi	A
+,	CH
+tiền sử	N
+có	V
+nhiều	A
+bệnh	N
+nền	N
+như	C
+cao	A
+huyết áp	N
+,	CH
+tiểu	V
+đường	N
+typ	N
+2	M
+nhiều	A
+năm	N
+nên	C
+sẽ	R
+khó khăn	A
+trong	E
+gây	V
+mê	V
+hồi sức	V
+.	CH
+
+Thêm	V
+vào	E
+đó	P
+,	CH
+đây	P
+là	V
+ca mổ	N
+khó	A
+do	E
+phải	V
+cắt	V
+gan	N
+nên	C
+có thể	R
+sẽ	R
+khiến	V
+bệnh nhân	N
+mất	V
+nhiều	A
+máu	N
+.	CH
+
+Ngày	Np
+15	M
+-	CH
+5	M
+,	CH
+bệnh nhân	N
+D	Ny
+.	CH
+
+đã	R
+được	V
+phẫu thuật	V
+tại	E
+bệnh viện	N
+quận	N
+2	M
+.	CH
+
+Sau	E
+ba	M
+tiếng	N
+phẫu thuật	V
+,	CH
+các	L
+bác sĩ	N
+đã	R
+cắt	V
+gần	A
+½	M
+gan	N
+phải	V
+,	CH
+lấy	V
+ra	R
+khối u	N
+lớn	A
+,	CH
+kích thước	N
+gần	A
+bằng	E
+quả	N
+trứng	N
+ngỗng	N
+.	CH
+
+Hiện	Np
+bệnh nhân	N
+đã	R
+tỉnh táo	A
+và	Cc
+đang	R
+được	V
+tiếp tục	V
+theo dõi	V
+sau	N
+mổ	V
+.	CH
+
+Đây	P
+là	V
+ca mổ	N
+u	N
+gan	N
+đầu tiên	A
+được	V
+thực hiện	V
+ở	E
+bệnh viện	N
+hạng	N
+2	M
+,	CH
+tuyến	N
+quận huyện	N
+.	CH
+
+BS	Ny
+Đức	Np
+cho biết	V
+,	CH
+bệnh viện	N
+hiện	N
+đang	R
+chờ	V
+kết quả	N
+giải phẫu	V
+bệnh	N
+,	CH
+đợi	V
+kết quả	N
+phân tích	V
+tế bào	N
+để	E
+xem	V
+là	C
+ung thư	N
+dạng	N
+nào	P
+,	CH
+mức độ	N
+biệt	A
+hóa	V
+ra sao	X
+để	E
+có	V
+phác đồ	N
+điều trị	V
+hợp lý	A
+.	CH
+
