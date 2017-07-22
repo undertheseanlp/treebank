@@ -1,19 +1,19 @@
 T1	N 0 3	Khi
-T2	Nc 4 9	chàng
+T2	N 4 9	chàng
 T3	N 10 17	cầu thủ
-T4	N 18 26	đánh rơi
+T4	V 18 26	đánh rơi
 T5	N 27 30	kẹo
 T6	N 31 37	cao su
 T7	N 39 47	Ấn tượng
 T8	N 48 51	khi
 T9	V 52 62	chứng kiến
-T10	Nc 63 68	chàng
+T10	N 63 68	chàng
 T11	N 69 76	cầu thủ
 T12	V 77 81	dùng
 T13	N 82 90	kỹ thuật
 T14	E 91 93	để
 T15	V 94 99	xử lý
-T16	Nc 100 105	miếng
+T16	N 100 105	miếng
 T17	N 106 109	kẹo
 T18	N 110 116	cao su
 T19	R 117 121	đang
@@ -36,7 +36,7 @@ T35	N 220 234	cộng đồng mạng
 T36	E 235 238	bởi
 T37	N 239 242	màn
 T38	V 243 252	tung hứng
-T39	Nc 253 258	miếng
+T39	N 253 258	miếng
 T40	N 259 262	kẹo
 T41	N 263 269	cao su
 T42	V 270 272	lỡ
@@ -46,13 +46,12 @@ T45	CH 288 289	,
 T46	V 290 294	được
 T47	V 295 299	tung
 T48	R 300 303	lên
-T49	N 304 312	mạng hồi
 T50	N 313 317	cuối
 T51	N 318 323	tháng
 T52	M 324 325	1
 T53	X 326 333	vừa qua
 T54	CH 334 335	.
-T55	Np 336 339	Màn
+T55	N 336 339	Màn
 T56	V 340 349	tung hứng
 T57	V 350 357	kéo dài
 T58	N 358 364	khoảng
@@ -63,7 +62,6 @@ T62	Np 381 395	Felix Passlack
 T63	V 396 398	là
 T64	M 399 402	một
 T65	N 403 413	chàng trai
-T66	N 414 426	vừa khéo léo
 T67	R 427 430	vừa
 T68	V 431 440	điển trai
 T69	CH 441 442	,
@@ -73,9 +71,9 @@ T72	R 454 457	hơi
 T73	CH 458 461	...
 T74	V 462 465	mất
 T75	V 466 473	vệ sinh
-T76	N 474 480	một tí
+T76	L 474 480	một tí
 T77	CH 481 482	.
-T78	Np 483 486	Bạn
+T78	N 483 486	Bạn
 T79	R 487 491	cũng
 T80	R 492 494	sẽ
 T81	V 495 497	có
@@ -118,10 +116,14 @@ T117	V 712 721	tung hứng
 T118	E 722 725	với
 T119	N 726 729	kẹo
 T120	CH 730 731	.
-T121	Np 732 735	Màn
+T121	N 732 735	Màn
 T122	V 736 740	tung
 T123	N 741 744	kẹo
 T124	E 745 748	của
 T125	Np 749 762	Dimitri Payet
 T126	CH 763 764	:
 T127	Np 765 773	Minh Tuệ
+T49	N 304 308	mạng
+T128	N 309 312	hồi
+T66	R 414 417	vừa
+T129	A 418 426	khéo léo

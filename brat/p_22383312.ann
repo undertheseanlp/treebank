@@ -5,9 +5,9 @@ T4	V 16 20	phải
 T5	V 21 27	cắt bỏ
 T6	N 28 32	ngực
 T7	E 33 35	vì
-T8	N 36 40	trót
+T8	V 36 40	trót
 T9	V 41 44	bơm
-T10	N 45 52	silicon
+T10	Nb 45 52	silicon
 T11	N 54 60	Bác sĩ
 T12	Np 61 82	Phạm Trịnh Quốc Khanh
 T13	E 83 86	của
@@ -22,20 +22,18 @@ T21	M 138 139	2
 T22	N 140 143	bên
 T23	N 144 148	ngực
 T24	Cc 149 151	và
-T25	N 152 161	bụng trên
 T26	E 162 165	của
 T27	N 166 175	bệnh nhân
 T28	CH 176 177	.
 T29	N 178 181	Khi
 T30	N 182 191	bệnh nhân
-T31	N 192 201	nhập viện
 T32	CH 202 203	,
 T33	N 204 208	chất
 T34	V 209 212	làm
 T35	A 213 216	đầy
 T36	R 217 219	đã
 T37	V 220 224	chảy
-T38	R 225 230	xuống
+T38	V 225 230	xuống
 T39	N 231 235	ngực
 T40	Cc 236 238	và
 T41	N 239 243	bụng
@@ -52,7 +50,7 @@ T51	R 278 280	ra
 T52	A 281 287	khoảng
 T53	M 288 291	0,5
 T54	Nu 292 294	kg
-T55	N 295 302	silicon
+T55	Nb 295 302	silicon
 T56	E 303 305	từ
 T57	N 306 312	cơ thể
 T58	CH 313 314	.
@@ -66,10 +64,10 @@ T65	N 349 356	toàn bộ
 T66	CH 357 358	.
 T67	L 359 362	Các
 T68	N 363 369	bác sĩ
-T69	N 370 377	lo ngại
+T69	V 370 377	lo ngại
 T70	CH 378 379	,
 T71	N 380 385	lượng
-T72	N 386 393	silicon
+T72	Nb 386 393	silicon
 T73	V 394 397	còn
 T74	R 398 401	lại
 T75	R 402 404	sẽ
@@ -93,5 +91,9 @@ T92	E 494 496	để
 T93	V 497 500	cắt
 T94	V 501 504	lọc
 T95	CH 505 506	.
-T96	E 508 512	Theo
+T96	V 508 512	Theo
 T97	Np 513 518	VTC14
+T25	N 152 156	bụng
+T98	E 157 161	trên
+T31	V 192 196	nhập
+T99	N 197 201	viện
