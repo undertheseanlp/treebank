@@ -21,3 +21,4 @@ if __name__ == '__main__':
     content = template.render(num_documents=num_documents, num_sentences=num_sentences)
     report_file = join(current_directory, "README.md")
     open(report_file, "w").write(content.encode("utf-8"))
+    print("Report is generated successfully in {}".format(report_file))

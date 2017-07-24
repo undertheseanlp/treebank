@@ -18,6 +18,6 @@ if __name__ == '__main__':
     raw_folder = join(dirname(__file__), "raw", "vinews")
     raw_files = os.listdir(raw_folder)
     new_files = set(data_files) - set(raw_files)
-    new_files = list(new_files)[:20]
+    new_files = list(new_files)[:30]
     for file in new_files:
         copy2(join(data_folder, file), raw_folder)
