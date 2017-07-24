@@ -16,7 +16,7 @@ T15	CH 57 58	"
 T16	V 60 68	Kết thúc
 T17	N 69 73	giải
 T18	Np 74 92	Derby City Classic
-T19	V 93 97	2017
+T19	N 93 97	2017
 T20	E 98 101	tại
 T21	Np 102 109	Indiana
 T22	CH 110 111	(
@@ -36,7 +36,6 @@ T35	V 165 167	có
 T36	T 168 171	tới
 T37	M 172 174	20
 T38	N 175 177	cú
-T39	V 178 186	đánh đẹp
 T40	R 187 191	nhất
 T41	N 192 196	giải
 T42	CH 197 198	.
@@ -73,7 +72,6 @@ T72	CH 344 345	,
 T73	C 346 351	nhưng
 T74	N 352 355	tay
 T75	N 356 358	cơ
-T76	N 359 383	huyền thoại Phillippines
 T77	CH 384 385	-
 T78	Np 386 397	Efren Reyes
 T79	R 398 401	vẫn
@@ -83,7 +81,6 @@ T82	V 411 413	có
 T83	T 414 417	tới
 T84	M 418 420	20
 T85	N 421 423	cú
-T86	V 424 432	đánh đẹp
 T87	R 433 437	nhất
 T88	N 438 442	giải
 T89	CH 443 444	,
@@ -160,7 +157,7 @@ T159	N 774 777	ông
 T160	V 778 780	là
 T161	N 781 786	nguồn
 T162	N 787 794	tư liệu
-T163	V 795 801	vô giá
+T163	A 795 801	vô giá
 T164	E 802 805	cho
 T165	L 806 809	các
 T166	N 810 816	cơ thủ
@@ -172,3 +169,9 @@ T171	Np 827 828	H
 T172	CH 829 830	(
 T173	N 831 839	Tổng hợp
 T174	CH 840 841	)
+T39	V 178 182	đánh
+T175	A 183 186	đẹp
+T76	N 359 370	huyền thoại
+T176	Np 371 383	Phillippines
+T86	V 424 428	đánh
+T177	A 429 432	đẹp

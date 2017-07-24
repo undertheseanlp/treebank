@@ -1,16 +1,12 @@
-T1	N 0 9	Thủ tướng
+T1	Np 0 9	Thủ tướng
 T2	Np 10 13	Lào
 T3	V 14 17	tới
 T4	Np 18 24	Hà Nội
 T5	N 26 33	Hôm nay
 T6	CH 34 35	,
-T7	N 36 45	Thủ tướng
-T8	Np 46 52	CHDCND
-T9	Np 53 76	Lào Thongloun Sisoulith
+T7	Np 36 45	Thủ tướng
 T10	V 77 84	dẫn đầu
-T11	Nc 85 89	đoàn
-T12	N 90 98	đại biểu
-T13	N 99 108	chính phủ
+T13	Np 99 108	chính phủ
 T14	Np 109 112	Lào
 T15	E 113 116	tới
 T16	Np 117 125	Việt Nam
@@ -18,8 +14,6 @@ T17	V 126 133	tham dự
 T18	Cc 134 136	và
 T19	N 137 141	đồng
 T20	N 142 149	chủ trì
-T21	N 150 152	kỳ
-T22	V 153 156	họp
 T23	N 157 160	lần
 T24	N 161 164	thứ
 T25	M 165 167	39
@@ -38,35 +32,34 @@ T37	E 225 229	theo
 T38	N 230 233	lời
 T39	V 234 237	mời
 T40	E 238 241	của
-T41	N 242 251	Thủ tướng
+T41	Np 242 251	Thủ tướng
 T42	Np 252 268	Nguyễn Xuân Phúc
 T43	CH 269 270	.
-T44	N 272 281	Thủ tướng
+T44	Np 272 281	Thủ tướng
 T45	Np 282 298	Nguyễn Xuân Phúc
 T46	V 299 306	hội đàm
 T47	E 307 310	với
-T48	N 311 320	Thủ tướng
-T49	Np 321 343	Lào Thoonglun Sisulith
+T48	Np 311 320	Thủ tướng
 T50	N 344 349	tháng
 T51	M 350 352	10
 T52	CH 353 354	/
-T53	N 355 359	2016
+T53	M 355 359	2016
 T54	E 360 363	tại
 T55	Np 364 370	Hà Nội
 T56	CH 371 372	.
-T57	Np 373 376	Ảnh
+T57	N 373 376	Ảnh
 T58	CH 377 378	:
 T59	Np 379 382	VGP
-T60	Np 383 387	Cùng
+T60	A 383 387	Cùng
 T61	V 388 390	đi
 T62	E 391 394	với
-T63	N 395 404	Thủ tướng
+T63	Np 395 404	Thủ tướng
 T64	Np 405 408	Lào
 T65	V 409 411	có
-T66	N 412 425	Phó Thủ tướng
+T66	Np 412 425	Phó Thủ tướng
 T67	CH 426 427	,
 T68	L 428 431	các
-T69	N 432 441	Bộ trưởng
+T69	Np 432 441	Bộ trưởng
 T70	CH 442 443	:
 T71	N 444 453	Tài chính
 T72	CH 454 455	,
@@ -85,9 +78,9 @@ T84	N 524 532	Thể thao
 T85	CH 533 534	,
 T86	N 535 545	Năng lượng
 T87	Cc 546 548	và
-T88	Np 549 551	Mỏ
+T88	N 549 551	Mỏ
 T89	CH 552 555	...
-T90	N 556 565	Thủ tướng
+T90	Np 556 565	Thủ tướng
 T91	Np 566 569	Lào
 T92	V 570 577	tham dự
 T93	Cc 578 580	và
@@ -168,3 +161,9 @@ T167	N 1026 1035	thời gian
 T168	V 1036 1039	tới
 T169	CH 1040 1041	.
 T170	Np 1042 1049	Thái An
+T8	Np 46 56	CHDCND Lào
+T9	Np 57 76	Thongloun Sisoulith
+T11	N 85 98	đoàn đại biểu
+T12	N 150 156	kỳ họp
+T21	Np 321 324	Lào
+T22	Np 325 343	Thoonglun Sisulith

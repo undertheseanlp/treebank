@@ -2,18 +2,14 @@ T1	N 0 8	Hội đồng
 T2	N 9 15	Bảo an
 T3	V 16 25	thông qua
 T4	N 26 36	nghị quyết
-T5	N 37 47	trừng phạt
-T6	Np 48 53	Triều
-T7	Np 54 58	Tiên
+T5	V 37 47	trừng phạt
 T8	N 60 70	Nghị quyết
 T9	A 71 74	mới
 T10	A 75 79	nhất
 T11	V 80 84	nâng
 T12	N 85 92	tổng số
 T13	N 93 102	đối tượng
-T14	Np 103 109	CHDCND
-T15	Np 110 115	Triều
-T16	Np 116 120	Tiên
+T14	Ny 103 109	CHDCND
 T17	E 121 126	trong
 T18	N 127 136	danh sách
 T19	V 137 147	trừng phạt
@@ -21,8 +17,8 @@ T20	R 148 151	lên
 T21	M 152 154	53
 T22	N 155 160	người
 T23	Cc 161 163	và
-T24	N 164 166	46
-T25	V 167 174	tổ chức
+T24	M 164 166	46
+T25	N 167 174	tổ chức
 T26	CH 175 176	.
 T27	Np 178 181	Nga
 T28	Cc 182 184	và
@@ -30,44 +26,40 @@ T29	Np 185 195	Trung Quốc
 T30	R 196 199	đều
 T31	V 200 206	ủng hộ
 T32	N 207 217	nghị quyết
-T33	N 218 228	trừng phạt
+T33	V 218 228	trừng phạt
 T34	A 229 232	mới
 T35	E 233 236	của
 T36	N 237 245	Hội đồng
 T37	N 246 252	Bảo an
 T38	Np 253 267	Liên Hiệp Quốc
 T39	E 268 275	đối với
-T40	Np 276 281	Triều
-T41	Np 282 293	Tiên Yonhap
 T42	V 294 297	đưa
 T43	N 298 301	tin
 T44	N 302 310	Hội đồng
 T45	N 311 317	Bảo an
 T46	Np 318 332	Liên Hiệp Quốc
 T47	N 333 337	ngày
-T48	V 338 341	2.6
-T49	N 342 351	phê chuẩn
+T48	N 338 341	2.6
+T49	V 342 351	phê chuẩn
 T50	N 352 362	Nghị quyết
 T51	N 363 367	2356
 T52	CH 368 369	,
 T53	V 370 373	đưa
 T54	R 374 378	thêm
 T55	M 379 380	4
-T56	V 381 388	tổ chức
+T56	N 381 388	tổ chức
 T57	Cc 389 391	và
 T58	M 392 394	14
 T59	N 395 404	quan chức
-T60	Np 405 410	Triều
-T61	Np 411 415	Tiên
 T62	E 416 419	vào
 T63	N 420 429	danh sách
-T64	N 430 440	trừng phạt
+T64	V 430 440	trừng phạt
 T65	CH 441 442	.
 T66	Np 443 446	Bốn
-T67	V 447 454	tổ chức
+T67	N 447 454	tổ chức
 T68	V 455 462	bao gồm
 T69	N 463 472	Lực lượng
-T70	V 473 480	tên lửa
+T70	N 473 480	tên lửa
 T71	N 481 491	chiến lược
 T72	CH 492 493	,
 T73	N 494 503	ngân hàng
@@ -106,12 +98,10 @@ T105	N 679 685	Bảo an
 T106	N 686 692	áp đặt
 T107	V 693 703	trừng phạt
 T108	V 704 707	lên
-T109	Np 708 713	Triều
-T110	Np 714 718	Tiên
 T111	V 719 728	liên quan
 T112	E 729 732	đến
 T113	N 733 745	chương trình
-T114	V 746 754	hạt nhân
+T114	N 746 754	hạt nhân
 T115	Cc 755 757	và
 T116	N 758 765	tên lửa
 T117	E 766 769	của
@@ -142,8 +132,6 @@ T141	V 896 900	được
 T142	V 901 910	tiến hành
 T143	E 911 914	sau
 T144	N 915 918	khi
-T145	Np 919 924	Triều
-T146	Np 925 929	Tiên
 T147	V 930 935	phóng
 T148	V 936 946	thành công
 T149	N 947 956	hàng loạt
@@ -185,7 +173,7 @@ T184	Np 1155 1161	Moscow
 T185	R 1162 1165	đều
 T186	V 1166 1172	ủng hộ
 T187	N 1173 1183	nghị quyết
-T188	N 1184 1194	trừng phạt
+T188	V 1184 1194	trừng phạt
 T189	P 1195 1198	này
 T190	CH 1199 1200	.
 T191	V 1201 1210	Phát biểu
@@ -198,7 +186,7 @@ T197	CH 1242 1243	,
 T198	N 1244 1250	Đại sứ
 T199	Np 1251 1253	Mỹ
 T200	E 1254 1257	tại
-T201	Np 1258 1261	LHQ
+T201	Ny 1258 1261	LHQ
 T202	Np 1262 1273	Nikki Haley
 T203	V 1274 1284	khẳng định
 T204	Np 1285 1295	Washington
@@ -206,9 +194,7 @@ T205	R 1296 1298	sẽ
 T206	V 1299 1307	tiếp tục
 T207	V 1308 1316	tìm kiếm
 T208	N 1317 1326	giải pháp
-T209	A 1327 1337	ngoại giao
-T210	A 1338 1341	hòa
-T211	N 1342 1346	bình
+T209	V 1327 1337	ngoại giao
 T212	E 1347 1350	cho
 T213	N 1351 1360	tình hình
 T214	Np 1361 1371	Triều Tiên
@@ -221,7 +207,7 @@ T220	L 1394 1399	những
 T221	N 1400 1407	hậu quả
 T222	N 1408 1417	tài chính
 T223	Cc 1418 1420	và
-T224	N 1421 1431	ngoại giao
+T224	V 1421 1431	ngoại giao
 T225	CH 1432 1433	,
 T226	Np 1434 1436	Mỹ
 T227	R 1437 1440	vẫn
@@ -240,3 +226,11 @@ T239	V 1520 1523	cần
 T240	CH 1524 1525	"
 T241	CH 1526 1527	.
 T242	Np 1528 1536	Bảo Vinh
+T6	Np 48 58	Triều Tiên
+T7	Np 110 120	Triều Tiên
+T15	Np 276 286	Triều Tiên
+T16	Np 287 293	Yonhap
+T40	Np 405 415	Triều Tiên
+T41	Np 708 718	Triều Tiên
+T60	Np 919 929	Triều Tiên
+T61	N 1338 1346	hòa bình

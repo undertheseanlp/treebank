@@ -1,10 +1,10 @@
-T1	N 0 11	Thượng viện
+T1	Np 0 11	Thượng viện
 T2	V 12 16	dùng
 T3	N 17 21	cách
 T4	A 22 26	hiếm
 T5	V 27 36	thông qua
 T6	V 37 44	đề xuất
-T7	N 45 52	Nội các
+T7	Np 45 52	Nội các
 T8	E 53 56	của
 T9	Nc 57 60	ông
 T10	Np 61 66	Trump
@@ -13,12 +13,11 @@ T12	M 73 74	7
 T13	CH 75 76	/
 T14	M 77 78	2
 T15	CH 79 80	,
-T16	N 81 92	Thượng viện
+T16	Np 81 92	Thượng viện
 T17	V 93 102	thông qua
 T18	V 103 111	lựa chọn
 T19	N 112 118	tỷ phú
 T20	Np 119 130	Besty DeVos
-T21	V 131 153	làm Bộ trưởng Giáo dục
 T22	E 154 157	sau
 T23	M 158 161	một
 T24	N 162 165	đêm
@@ -31,13 +30,9 @@ T30	N 203 212	chưa từng
 T31	V 213 215	có
 T32	CH 216 217	.
 T33	Nc 219 221	Bà
-T34	Np 222 227	Besty
-T35	Np 228 233	DeVos
 T36	V 234 243	tuyên thệ
-T37	N 244 253	nhậm chức
-T38	N 254 263	Bộ trưởng
-T39	N 264 275	Bộ Giáo dục
-T40	Np 276 288	Theo Reuters
+T37	V 244 253	nhậm chức
+T39	Np 264 275	Bộ Giáo dục
 T41	CH 289 290	,
 T42	E 291 294	sau
 T43	N 295 299	cuộc
@@ -46,7 +41,7 @@ T45	A 311 314	dài
 T46	V 315 320	xuyên
 T47	N 321 324	đêm
 T48	E 325 328	tại
-T49	N 329 340	Thượng viện
+T49	Np 329 340	Thượng viện
 T50	N 341 349	bất phân
 T51	V 350 359	thắng bại
 T52	CH 360 361	,
@@ -62,10 +57,9 @@ T61	V 425 434	thông qua
 T62	V 435 442	đề xuất
 T63	N 443 449	tỷ phú
 T64	Np 450 461	Besty DeVos
-T65	N 462 484	làm Bộ trưởng Giáo dục
 T66	Np 485 487	Mỹ
 T67	E 488 491	của
-T68	N 492 502	Tổng thống
+T68	Np 492 502	Tổng thống
 T69	Np 503 515	Donald Trump
 T70	CH 516 517	.
 T71	N 518 527	Biện pháp
@@ -83,33 +77,31 @@ T82	E 587 589	để
 T83	V 590 598	xác nhận
 T84	M 599 602	một
 T85	N 603 611	ứng viên
-T86	A 612 619	Nội các
+T86	Np 612 619	Nội các
 T87	CH 620 621	.
-T88	Np 622 625	Lần
+T88	N 622 625	Lần
 T89	P 626 629	này
 T90	CH 630 631	,
 T91	E 632 637	trong
-T92	N 638 649	Thượng viện
+T92	Np 638 649	Thượng viện
 T93	M 650 653	100
 T94	N 654 657	ghế
 T95	CH 658 659	,
-T96	N 660 662	46
-T97	N 663 670	Nghị sĩ
+T96	M 660 662	46
+T97	Np 663 670	Nghị sĩ
 T98	V 671 674	đến
 T99	E 675 677	từ
-T100	N 678 682	đảng
-T101	N 683 690	Dân chủ
 T102	CH 691 692	,
 T103	M 693 694	2
-T104	N 695 702	Nghị sĩ
-T105	N 703 716	đảng Cộng hòa
+T104	Np 695 702	Nghị sĩ
+T105	Np 703 716	đảng Cộng hòa
 T106	CH 717 718	,
 T107	M 719 720	2
-T108	N 721 728	Nghị sĩ
+T108	Np 721 728	Nghị sĩ
 T109	A 729 736	độc lập
 T110	V 737 745	phản đối
 T111	V 746 753	đề xuất
-T112	N 754 756	bà
+T112	Nc 754 756	bà
 T113	Np 757 762	DeVos
 T114	E 763 765	vì
 T115	V 766 769	cho
@@ -125,22 +117,19 @@ T124	A 808 810	kỹ
 T125	R 811 815	càng
 T126	E 816 818	để
 T127	V 819 826	dẫn đầu
-T128	N 827 838	Bộ Giáo dục
+T128	Np 827 838	Bộ Giáo dục
 T129	CH 839 840	;
 T130	V 841 844	Còn
 T131	R 845 848	lại
 T132	M 849 851	50
-T133	N 852 859	Nghị sĩ
-T134	N 860 873	Đảng Cộng hòa
+T133	Np 852 859	Nghị sĩ
+T134	Np 860 873	Đảng Cộng hòa
 T135	V 874 880	ủng hộ
 T136	V 881 888	đề xuất
 T137	N 889 897	ứng viên
 T138	CH 898 899	.
 T139	N 900 908	Lãnh đạo
-T140	N 909 913	đảng
-T141	N 914 921	Dân chủ
 T142	E 922 925	tại
-T143	N 926 951	Thượng viện Chuck Schumer
 T144	V 952 961	chỉ trích
 T145	CH 962 963	:
 T146	CH 964 965	“
@@ -149,7 +138,7 @@ T148	V 971 979	bỏ phiếu
 T149	V 980 989	thông qua
 T150	N 990 998	ứng viên
 T151	E 999 1002	tại
-T152	N 1003 1014	Thượng viện
+T152	Np 1003 1014	Thượng viện
 T153	N 1015 1018	lần
 T154	P 1019 1022	này
 T155	R 1023 1028	không
@@ -159,7 +148,7 @@ T158	CH 1044 1045	,
 T159	R 1046 1049	quá
 T160	A 1050 1057	chia rẽ
 T161	Cc 1058 1060	và
-T162	N 1061 1075	Phó Tổng thống
+T162	Np 1061 1075	Phó Tổng thống
 T163	Np 1076 1086	Mike Pence
 T164	R 1087 1089	đã
 T165	V 1090 1094	phải
@@ -170,14 +159,14 @@ T169	A 1118 1127	cuối cùng
 T170	CH 1128 1129	”
 T171	CH 1130 1131	.
 T172	E 1132 1136	Theo
-T173	N 1137 1146	Hiến pháp
+T173	Np 1137 1146	Hiến pháp
 T174	Np 1147 1149	Mỹ
 T175	CH 1150 1151	,
-T176	N 1152 1166	Phó Tổng thống
+T176	Np 1152 1166	Phó Tổng thống
 T177	R 1167 1169	sẽ
 T178	V 1170 1177	giữ ghế
 T179	N 1178 1186	Chủ tịch
-T180	N 1187 1198	Thượng viện
+T180	Np 1187 1198	Thượng viện
 T181	CH 1199 1200	,
 T182	V 1201 1204	nắm
 T183	E 1205 1210	trong
@@ -190,9 +179,9 @@ T189	L 1241 1244	các
 T190	N 1245 1249	cuộc
 T191	V 1250 1259	phê chuẩn
 T192	N 1260 1268	ứng viên
-T193	N 1269 1276	Nội các
+T193	Np 1269 1276	Nội các
 T194	Cc 1277 1281	hoặc
-T195	V 1282 1290	đạo luật
+T195	N 1282 1290	đạo luật
 T196	CH 1291 1292	.
 T197	V 1293 1295	Về
 T198	N 1296 1304	ứng viên
@@ -200,19 +189,15 @@ T199	V 1305 1308	gây
 T200	A 1309 1318	tranh cãi
 T201	CH 1319 1320	,
 T202	Nc 1321 1323	bà
-T203	Np 1324 1329	Besty
-T204	Np 1330 1335	DeVos
 T205	V 1336 1338	là
 T206	N 1339 1341	vợ
 T207	E 1342 1345	của
 T208	Nc 1346 1349	ông
-T209	Np 1350 1354	Dick
-T210	Np 1355 1360	DeVos
 T211	N 1361 1366	người
 T212	V 1367 1374	thừa kế
 T213	CH 1375 1376	,
 T214	Z 1377 1380	cựu
-T215	N 1381 1389	Giám đốc
+T215	Np 1381 1389	Giám đốc
 T216	V 1390 1399	điều hành
 T217	Np 1400 1405	Amway
 T218	CH 1406 1407	,
@@ -249,7 +234,6 @@ T248	CH 1591 1592	,
 T249	N 1593 1598	người
 T250	V 1599 1607	sáng lập
 T251	N 1608 1615	công ty
-T252	V 1616 1631	an ninh Academi
 T253	CH 1632 1633	.
 T254	V 1634 1636	Về
 T255	N 1637 1646	quan điểm
@@ -278,8 +262,6 @@ T277	L 1760 1763	các
 T278	N 1764 1772	Tập đoàn
 T279	V 1773 1782	điều hành
 T280	CH 1783 1784	.
-T281	Np 1785 1794	Phía Đảng
-T282	V 1795 1802	Dân chủ
 T283	N 1803 1810	lo ngại
 T284	CH 1811 1812	,
 T285	Nc 1813 1815	bà
@@ -297,5 +279,24 @@ T296	P 1878 1881	này
 T297	CH 1882 1883	.
 T298	Np 1884 1894	Trang Trần
 T299	CH 1895 1896	(
-T300	Np 1897 1909	Theo Reuters
 T301	CH 1910 1911	)
+T21	V 131 134	làm
+T302	Np 135 153	Bộ trưởng Giáo dục
+T34	Np 222 233	Besty DeVos
+T35	Np 254 263	Bộ trưởng
+T38	V 276 280	Theo
+T40	Np 281 288	Reuters
+T65	V 462 465	làm
+T303	Np 466 484	Bộ trưởng Giáo dục
+T100	Np 678 690	đảng Dân chủ
+T101	Np 909 921	đảng Dân chủ
+T140	Np 926 937	Thượng viện
+T141	Np 938 951	Chuck Schumer
+T143	Np 1324 1335	Besty DeVos
+T203	Np 1350 1360	Dick DeVos
+T204	N 1616 1623	an ninh
+T209	Np 1624 1631	Academi
+T210	Nc 1785 1789	Phía
+T252	Np 1790 1802	Đảng Dân chủ
+T281	E 1897 1901	Theo
+T282	Np 1902 1909	Reuters

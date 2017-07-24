@@ -1,19 +1,13 @@
 T1	N 0 7	Hôm nay
 T2	V 8 11	hết
 T3	N 12 15	hạn
-T4	N 16 24	giam giữ
-T5	V 25 29	nghi
-T6	N 30 34	phạm
-T7	N 35 45	sát hại bé
+T4	V 16 24	giam giữ
 T8	Np 46 55	Nhật Linh
-T9	V 57 61	Nghi
-T10	N 62 66	phạm
 T11	Np 67 83	Shibuya Yasumasa
 T12	R 84 87	vẫn
 T13	V 88 91	giữ
 T14	A 92 99	im lặng
 T15	E 100 105	trước
-T16	N 106 123	cơ quan chức năng
 T17	Cc 124 126	và
 T18	N 127 134	hôm nay
 T19	N 135 138	nhà
@@ -29,7 +23,7 @@ T28	R 186 191	không
 T29	CH 192 193	.
 T30	E 195 199	Theo
 T31	N 200 203	đài
-T32	Np 204 207	NHK
+T32	Ny 204 207	NHK
 T33	E 208 211	của
 T34	Np 212 220	Nhật Bản
 T35	CH 221 222	,
@@ -37,8 +31,8 @@ T36	N 223 231	thời hạn
 T37	N 232 240	giam giữ
 T38	V 241 245	nghi
 T39	N 246 250	phạm
-T40	N 251 258	sát hại
-T41	N 259 261	bé
+T40	V 251 258	sát hại
+T41	Nc 259 261	bé
 T42	Np 262 278	Lê Thị Nhật Linh
 T43	R 279 281	sẽ
 T44	V 282 290	kết thúc
@@ -51,8 +45,6 @@ T50	CH 312 313	.
 T51	E 314 317	Đến
 T52	P 318 321	nay
 T53	CH 322 323	,
-T54	V 324 328	nghi
-T55	N 329 333	phạm
 T56	Np 334 350	Shibuya Yasumasa
 T57	R 351 354	vẫn
 T58	V 355 362	sử dụng
@@ -69,14 +61,13 @@ T68	N 430 438	hình ảnh
 T69	V 439 447	thu thập
 T70	R 448 452	được
 T71	E 453 455	từ
-T72	N 456 462	camera
+T72	Nb 456 462	camera
 T73	N 463 473	hành trình
 T74	E 474 477	của
 T75	N 478 481	ôtô
 T76	V 482 484	đi
 T77	R 485 488	lại
 T78	E 489 494	trước
-T79	N 495 505	cửa nhà bé
 T80	Np 506 515	Nhật Linh
 T81	N 516 519	lúc
 T82	N 520 522	bé
@@ -124,8 +115,6 @@ T123	N 722 730	cảnh sát
 T124	Np 731 735	Nhật
 T125	A 736 746	chính thức
 T126	V 747 755	cáo buộc
-T127	V 756 760	nghi
-T128	N 761 765	phạm
 T129	Np 766 782	Yasumasa Shibuya
 T130	V 783 785	là
 T131	N 786 788	kẻ
@@ -141,7 +130,7 @@ T140	N 825 832	ban đầu
 T141	E 833 836	với
 T142	N 837 848	Shibuya chỉ
 T143	V 849 851	là
-T144	N 852 858	bỏ xác
+T144	V 852 858	bỏ xác
 T145	CH 859 860	.
 T146	N 861 868	Cơ quan
 T147	V 869 877	điều tra
@@ -238,7 +227,6 @@ T237	E 1362 1369	đối với
 T238	V 1370 1374	nghi
 T239	N 1375 1379	phạm
 T240	CH 1380 1381	.
-T241	Np 1382 1401	Bé Lê Thị Nhật Linh
 T242	V 1402 1410	mất tích
 T243	E 1411 1414	vào
 T244	N 1415 1419	sáng
@@ -322,3 +310,15 @@ T321	V 1791 1795	siết
 T322	N 1796 1798	cổ
 T323	CH 1799 1800	.
 T324	Np 1801 1811	Đông Phong
+T7	V 35 42	sát hại
+T325	Nc 43 45	bé
+T5	N 25 34	nghi phạm
+T6	N 57 66	Nghi phạm
+T9	N 106 113	cơ quan
+T10	N 114 123	chức năng
+T16	N 324 333	nghi phạm
+T54	N 495 502	cửa nhà
+T55	Nc 503 505	bé
+T79	N 756 765	nghi phạm
+T127	Np 1385 1401	Lê Thị Nhật Linh
+T128	Nc 1382 1384	Bé

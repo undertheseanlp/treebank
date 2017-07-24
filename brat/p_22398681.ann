@@ -1,6 +1,5 @@
 T1	Np 0 4	Clip
 T2	CH 5 6	:
-T3	N 7 18	Mẹo hữu ích
 T4	N 19 22	khi
 T5	V 23 25	đi
 T6	V 26 33	du lịch
@@ -25,3 +24,5 @@ T24	N 126 132	chuyến
 T25	V 133 135	đi
 T26	A 136 138	xa
 T27	CH 139 140	.
+T3	N 7 10	Mẹo
+T28	A 11 18	hữu ích
