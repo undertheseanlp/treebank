@@ -1,0 +1,506 @@
+76	M
+ứng dụng	N
+iOS	Np
+làm	V
+lộ	N
+thông tin	N
+người dùng	N
+iPhone	Np
+được	R
+đánh giá	V
+là	C
+smartphone	N
+có	V
+khả năng	N
+bảo mật	V
+cao	A
+hơn	R
+so	V
+với	E
+các	L
+đối thủ	N
+,	CH
+nhưng	C
+điều	N
+đó	P
+không	R
+có	V
+nghĩa là	X
+các	L
+ứng dụng	N
+chạy	V
+trên	E
+iPhone	N
+an toàn	A
+.	CH
+
+Một	M
+chuyên gia	N
+an ninh mạng	N
+đã	R
+phát hiện	V
+ra	R
+lỗ hổng	N
+trong	E
+76	M
+ứng dụng	N
+trên	E
+AppStore	Np
+có thể	R
+giúp	V
+tin	N
+tặc	V
+đánh cắp	N
+thông tin	N
+của	E
+người	N
+dùng	V
+iPhone	Np
+.	CH
+
+iPhone	Np
+được	R
+đánh giá	V
+là	C
+smartphone	N
+có	V
+khả năng	N
+bảo mật	V
+cao	A
+hơn	R
+so	V
+với	E
+các	L
+đối thủ	N
+,	CH
+nhưng	C
+điều	N
+đó	P
+không	R
+có	V
+nghĩa là	X
+các	L
+ứng dụng	N
+chạy	V
+trên	E
+iPhone	N
+an toàn	A
+.	CH
+
+Một	M
+chuyên gia	N
+an ninh mạng	N
+đã	R
+phát hiện	V
+ra	R
+lỗ hổng	N
+trong	E
+76	M
+ứng dụng	N
+trên	E
+AppStore	Np
+có thể	R
+giúp	V
+tin	N
+tặc	V
+đánh cắp	N
+thông tin	N
+của	E
+người	N
+dùng	V
+iPhone	Np
+.	CH
+
+Trang tin	N
+BGR	Np
+cho biết	V
+chuyên gia	N
+Will Strafach	Np
+đã	R
+sử dụng	V
+dịch vụ	N
+kiểm tra độ	V
+bảo mật	V
+ứng dụng	N
+do	E
+ông	N
+thiết lập	V
+tại	E
+địa chỉ	N
+verify	Vb
+.	CH
+
+ly	N
+.	CH
+
+Ông	P
+đã	R
+phát hiện	V
+76	M
+ứng dụng	N
+trên	E
+AppStore	Np
+với	E
+hơn	A
+18	M
+triệu	M
+lượt	N
+tải về	V
+có	V
+tồn tại	V
+lỗ hổng	N
+nguy hiểm	A
+.	CH
+
+Lỗ hổng	N
+này	P
+bắt nguồn	V
+từ	E
+một	M
+tính năng	N
+mà	C
+Apple	Np
+đã	R
+đưa	V
+vào	E
+iOS	N
+9	M
+.	CH
+
+Tính năng	N
+này	P
+có	V
+tên gọi là	N
+App Transport Security	Np
+(	CH
+ATS	Np
+)	CH
+.	CH
+
+Nó	P
+có	V
+nhiệm vụ	N
+bảo vệ	V
+an toàn	A
+việc	N
+truyền	V
+dữ liệu	N
+qua	V
+giao thức	N
+HTTPS	Np
+.	CH
+
+Nhưng	C
+một	M
+đoạn mã	N
+bị	V
+cấu hình	V
+sai	A
+nằm	V
+trong	E
+ứng dụng	N
+iOS	Np
+có thể	R
+đánh lừa	N
+ATS	Np
+khiến	V
+nó	P
+nghĩ	V
+việc	N
+kết nối	V
+là	V
+an toàn	A
+.	CH
+
+Tin tặc	V
+với	E
+hiểu biết	N
+về	E
+lỗ hổng	N
+này	P
+có thể	R
+đánh cắp	V
+dữ liệu	N
+trong	E
+iPhone	Np
+qua	V
+kết nối	N
+Wi - Fi	Np
+.	CH
+
+Chuyên gia	N
+Will Strafach	Np
+đã	R
+chia	V
+76	M
+ứng dụng	N
+thành	V
+3	M
+loại	N
+:	CH
+nguy cơ	N
+thấp	A
+(	CH
+33	M
+ứng dụng	N
+)	CH
+,	CH
+nguy cơ	N
+trung bình	A
+(	CH
+24	M
+ứng dụng	N
+)	CH
+và	Cc
+nguy cơ	N
+cao	A
+(	CH
+19	M
+ứng dụng	N
+)	CH
+.	CH
+
+Một	M
+ứng dụng	N
+nguy cơ	N
+cao	A
+có thể	R
+làm	V
+lộ	V
+tài khoản	N
+đăng	V
+nhập	V
+vào	E
+dịch vụ	N
+tài chính	N
+và	Cc
+y tế	N
+của	E
+người	N
+sử dụng	V
+.	CH
+
+Còn	Np
+ứng dụng	V
+nguy cơ	N
+thấp	A
+sẽ	R
+rò rỉ	V
+một	M
+phần	N
+dữ liệu	N
+nhạy cảm	A
+của	E
+thiết bị	N
+,	CH
+bao gồm	V
+địa chỉ	N
+email	Nb
+và	Cc
+tài khoản	N
+đăng	V
+nhập	V
+.	CH
+
+Strafach	Np
+đã	R
+liệt kê	V
+tên	N
+của	E
+33	M
+ứng dụng	N
+có	V
+nguy cơ	N
+thấp	A
+,	CH
+trong	E
+đó	P
+có	V
+một	M
+ứng dụng	N
+quen thuộc	A
+là	V
+Snapchat	Np
+.	CH
+
+Lỗ hổng	V
+trong	E
+tính năng	N
+Snap Upload	Np
+có thể	R
+cung cấp	V
+cho	E
+tin tặc	N
+tên	N
+và	Cc
+mật khẩu	N
+đăng nhập	V
+Snapchat	Np
+.	CH
+
+Danh sách	N
+33	M
+ứng dụng	N
+có thể	R
+xem	V
+tại	E
+đây	P
+.	CH
+
+Những	L
+ứng dụng	N
+có	V
+nguy cơ	N
+trung bình	A
+và	Cc
+nguy cơ	N
+cao	A
+đã	R
+không	R
+được	V
+Strafach	Np
+tiết lộ	V
+vào	E
+thời điểm	N
+này	P
+.	CH
+
+Thay	V
+vào	E
+đó	P
+ông	N
+đã	R
+liên hệ	V
+với	E
+"	CH
+ngân hàng	N
+,	CH
+các	L
+hãng	N
+cung cấp	V
+dịch vụ	N
+y tế	N
+và	Cc
+các	L
+nhà	N
+phát triển	V
+ứng dụng	N
+"	CH
+để	E
+thông báo	V
+cho	E
+họ	P
+về	E
+lỗ hổng	N
+và	Cc
+giúp	V
+họ	P
+khắc phục	V
+.	CH
+
+Lỗ hổng	N
+tương tự	A
+đã	R
+từng	R
+ảnh hưởng	V
+đến	E
+PayPal	Np
+vào	E
+năm	N
+2010	M
+và	Cc
+Experian	Np
+vào	E
+năm	N
+2016	M
+.	CH
+
+Tất nhiên	A
+khai thác	V
+được	V
+điểm	N
+yếu	A
+này	P
+không	R
+phải	A
+là	V
+một	M
+chuyện	N
+đơn giản	A
+.	CH
+
+Tin tặc	N
+cần	V
+có	V
+kiến thức	N
+về	E
+lỗ hổng	N
+bảo mật	V
+,	CH
+có	V
+những	L
+"	CH
+đồ nghề	N
+"	CH
+đặc biệt	A
+,	CH
+và	Cc
+phải	V
+tiếp cận	V
+được	V
+ở	E
+khoảng cách	N
+gần	A
+với	E
+thiết bị	N
+vừa mới	R
+cài đặt	V
+ứng dụng	N
+có	V
+lỗ hổng	N
+.	CH
+
+Strafach	Np
+khuyến cáo	V
+mọi	L
+người	N
+không	R
+nên	V
+kết nối	V
+vào	E
+những	L
+mạng	N
+Wi - Fi	Np
+lạ	A
+để	E
+thực hiện	V
+giao dịch	V
+trực tuyến	A
+,	CH
+chẳng hạn	X
+như	C
+giao dịch	V
+ngân hàng	N
+.	CH
+
+Thay	V
+vào	E
+đó	P
+,	CH
+sử dụng	V
+các	L
+kết nối	N
+3G	N
+hay	C
+4G	N
+sẽ	R
+khiến	V
+tin	N
+tặc	V
+khó lòng	N
+đánh cắp	N
+thông tin	N
+hơn	R
+.	CH
+
+Đăng Khoa	Np

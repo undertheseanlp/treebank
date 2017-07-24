@@ -28,7 +28,7 @@ def check_missing_token(corpus, file_id):
         x = corpus.ix[i + 1, "start"]
         y = corpus.ix[i, "end"]
         d = x - y
-        if d != 1 and d != 2:
+        if d != 1 and d != 2 and d != 0:
             raise Exception("Check Missing Token error in file %s, position <end: %d, next: %d>" % (file_id, y, x))
     print "Check missing token\t: Pass"
 
@@ -52,7 +52,7 @@ def make_treebank_file(brat_annotation_file, treebank_folder="."):
 
 
 if __name__ == '__main__':
-    brat_folder = join(dirname(__file__), "brat")
+    brat_folder = join(dirname(__file__), "brat_final")
     treebank_folder = join(dirname(__file__), "treebank")
     files = listdir(brat_folder)
     files = [join(brat_folder, file) for file in files if file.startswith("p_") and file.endswith(".ann")]
