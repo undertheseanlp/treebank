@@ -1,0 +1,1439 @@
+Kaspersky	Np
+:	CH
+Ít nhất	X
+đã	R
+có	V
+45.000	N
+cuộc	N
+tấn công	V
+bằng	E
+mã	N
+độc	A
+WannaCry	Np
+tại	E
+74	N
+nước	N
+Theo	E
+Kaspersky	Np
+,	CH
+một	M
+đợt	N
+tấn công	V
+“	CH
+bắt cóc	V
+”	CH
+dữ liệu	N
+rộng rãi	A
+nhằm	V
+vào	E
+nhiều	A
+tổ chức	N
+trên	E
+thế giới	N
+đã	R
+xảy	V
+ra	R
+ngày	N
+12/5/2017	N
+.	CH
+
+Kaspersky Lab	Np
+đã	R
+phân tích	V
+dữ liệu	N
+và	Cc
+xác nhận	V
+các	L
+hệ thống	N
+bảo mật	N
+của	E
+hãng	N
+đã	R
+phát hiện	V
+ít nhất	X
+45.000	N
+cuộc	N
+tấn công	V
+tại	E
+74	N
+nước	N
+.	CH
+
+Các	L
+hệ thống	N
+bảo mật	V
+của	E
+Kaspersky	Np
+đã	R
+phát hiện	V
+được	R
+ít nhất	X
+45.000	V
+cuộc	N
+tấn công	V
+tại	E
+74	N
+quốc gia	N
+,	CH
+trong	E
+đó	P
+phần lớn	N
+xảy	V
+ra	R
+tại	E
+Nga	Np
+(	CH
+Ảnh	Np
+:	CH
+Kaspersky	Np
+)	CH
+Việt Nam	Np
+có	V
+tên	N
+trong	E
+Top	Np
+20	M
+nước	N
+bị	V
+ảnh hưởng	V
+nhiều	A
+bởi	E
+WannaCry	Np
+Trong	E
+thông tin	N
+khuyến cáo	V
+người	N
+dùng	V
+cẩn trọng	A
+với	E
+mã	N
+độc	A
+tống tiền	N
+WannaCry	Np
+,	CH
+cùng với	N
+việc	N
+xác nhận	V
+thông tin	N
+các	L
+hệ thống	N
+bảo mật	N
+của	E
+Kaspersky	Np
+đã	R
+phát hiện	V
+được	R
+ít nhất	X
+45.000	N
+cuộc	N
+tấn công	V
+tại	E
+74	N
+quốc gia	N
+,	CH
+trong	E
+đó	P
+phần lớn	N
+xảy	V
+ra	R
+tại	E
+Nga	Np
+,	CH
+hãng	N
+bảo mật	N
+này	P
+cũng	R
+cho biết	V
+mã	N
+độc	A
+tống tiền	N
+WannaCry	Np
+lây nhiễm	V
+vào	E
+máy tính	N
+của	E
+nạn nhân	N
+bằng	E
+cách	N
+khai thác	V
+lỗ hổng	N
+của	E
+Microsoft Windows	Np
+được	R
+mô tả	V
+và	Cc
+vá	V
+lỗi	N
+tại	E
+Microsoft Security Bullentin	Np
+MS17	Np
+-	CH
+010	N
+.	CH
+
+“	CH
+Việc	N
+khai thác	V
+sử dụng	V
+“	CH
+Eternal Blue	Np
+”	CH
+đã	R
+được	V
+công bố	V
+trong	E
+Shadowbrokers dump	N
+vào	E
+ngày	N
+14	M
+/	CH
+4	M
+vừa qua	X
+”	CH
+,	CH
+thông báo	V
+của	E
+Kaspersky	Np
+nêu	V
+.	CH
+
+Chia sẻ	V
+về	E
+cách thức	N
+và	Cc
+quy mô	N
+tấn công	V
+của	E
+mã	N
+độc	A
+WannaCry	Np
+,	CH
+Kaspersky	Np
+cho	V
+hay	V
+:	CH
+“	CH
+Phân tích	V
+của	E
+chúng tôi	P
+cho	V
+thấy	V
+cuộc	Nc
+tấn công	V
+,	CH
+được	V
+gọi là	X
+“	CH
+WannaCry	Np
+”	CH
+,	CH
+được	V
+bắt đầu	V
+thông qua	V
+việc	N
+triển khai	V
+mã	N
+từ	E
+xa	A
+SMBv2	Np
+trong	E
+Microsoft Windows	Np
+.	CH
+
+Khai thác	V
+này	P
+(	CH
+có	V
+tên	N
+mã	N
+là	V
+“	CH
+EternalBlue	Np
+”	CH
+)	CH
+đã	R
+được	V
+làm	V
+sẵn	A
+trên	E
+Internet	Np
+thông qua	V
+Shadowbrokers dump	N
+vào	E
+ngày	N
+14/4/	N
+/	CH
+2017	N
+và	Cc
+được	V
+vá	V
+bởi	E
+Microsoft	Np
+.	CH
+
+Thật	Np
+không	R
+may	A
+,	CH
+có	V
+vẻ	N
+như	C
+nhiều	A
+tổ chức	N
+và	Cc
+người	N
+dùng	V
+chưa	R
+cài đặt	V
+bản	Nc
+vá	N
+này	P
+”	CH
+.	CH
+
+Chuyên gia	N
+Kaspersky	Np
+nhận định	V
+,	CH
+điều	N
+đáng	V
+lo ngại	V
+là	V
+không những	C
+các	L
+máy tính	N
+Windows	Np
+chưa	R
+được	V
+vá	V
+đang	R
+phơi bày	V
+các	L
+dịch vụ	N
+SMB	Np
+của	E
+họ	P
+có thể	R
+bị	V
+tấn công	V
+từ	E
+xa	A
+bằng	E
+khai thác	V
+“	CH
+EternalBlue	Np
+”	CH
+và	Cc
+bị	V
+lây nhiễm	V
+bởi	E
+WannaCry	Np
+,	CH
+mà	C
+kể cả	X
+các	L
+máy tính	N
+không	R
+tồn tại	V
+lỗ hổng	N
+vẫn	R
+có	V
+khả năng	N
+bị	V
+hạ	V
+gục	V
+dễ dàng	A
+.	CH
+
+Tuy nhiên	C
+,	CH
+lỗ hổng	N
+này	P
+được	V
+xem	V
+là	C
+yếu tố	N
+chính	T
+gây	V
+ra	R
+sự	Nc
+bùng nổ	V
+của	E
+WannaCry	Np
+.	CH
+
+Top	Np
+20	M
+quốc gia	N
+,	CH
+vùng	N
+lãnh thổ	N
+bị	V
+ảnh hưởng	V
+nhiều	A
+nhất	R
+bởi	E
+mã	N
+độc	A
+tống tiền	N
+WannaCry	Np
+theo	V
+ghi nhận	N
+của	E
+Kaspersky	Np
+.	CH
+
+Đáng	Np
+chú ý	V
+,	CH
+trong	E
+danh sách	N
+Top	Np
+20	M
+quốc gia	N
+,	CH
+vùng	N
+lãnh thổ	N
+bị	V
+ảnh hưởng	V
+nhiều	A
+nhất	R
+bởi	E
+mã	N
+độc	A
+tống tiền	N
+WannaCry	Np
+có	V
+Việt Nam	Np
+,	CH
+bên cạnh	N
+các	L
+nước	N
+khác	A
+như	C
+Nga	Np
+,	CH
+Ukraine	Np
+,	CH
+Ấn Độ	Np
+,	CH
+Đài Loan	Np
+,	CH
+Tajkistan	Np
+,	CH
+Kazakhstan	Np
+,	CH
+Luxembour	Np
+,	CH
+Trung Quốc	Np
+,	CH
+Romania	Np
+…	CH
+Kaspersky	Np
+cũng	R
+cho biết	V
+:	CH
+“	CH
+Những	L
+ghi nhận	N
+này	P
+có thể	R
+bị	V
+hạn chế	V
+và	Cc
+có thể	R
+chưa	R
+thể hiện	V
+được	R
+bức	Nc
+tranh	N
+toàn cảnh	N
+,	CH
+số lượng	N
+thực tế	N
+có thể	R
+cao	A
+hơn	R
+”	CH
+.	CH
+
+Hãng	Np
+bảo mật	V
+Kaspersky	Np
+lưu ý	V
+,	CH
+“	CH
+số	N
+tiền	N
+cần	V
+thanh toán	V
+sẽ	R
+được	V
+tăng	V
+lên	R
+”	CH
+sau	E
+một	M
+lần	N
+đếm	V
+ngược	A
+cụ thể	A
+,	CH
+cùng với	N
+màn hình	N
+hiển thị	N
+khác	A
+làm	V
+tăng	V
+mức độ	N
+khẩn cấp	A
+để	E
+trả	V
+tiền	N
+,	CH
+đe dọa	V
+rằng	C
+người	N
+dùng	V
+sẽ	R
+hoàn toàn	A
+mất	V
+tập	V
+tin	N
+của	E
+họ	P
+sau	E
+khoảng	N
+thời gian	N
+đã	R
+thông báo	V
+.	CH
+
+“	CH
+Không	R
+phải	V
+tất cả	P
+Ransomware	Np
+đều	R
+cung cấp bộ	V
+đếm	V
+thời gian	N
+này	P
+như	C
+WannaCry	Np
+.	CH
+
+Để	E
+đảm bảo	V
+rằng	C
+người	N
+dùng	V
+không	R
+bỏ lỡ	V
+cảnh báo	N
+,	CH
+công cụ	N
+sẽ	R
+thay đổi	V
+hình	N
+nền	N
+của	E
+người	N
+dùng	V
+bằng	E
+các	L
+hướng dẫn	N
+về	V
+cách	V
+tìm	V
+bộ	Nc
+giải mã	N
+”	CH
+,	CH
+Kaspersky thông tin	N
+.	CH
+
+Người	N
+dùng	V
+cần	V
+chắc chắn	A
+đã	R
+cài đặt	V
+bản	Nc
+vá	N
+MS17	Np
+-	CH
+010	N
+từ	E
+Microsoft	Np
+Kaspersky	Np
+cũng	R
+cho biết	V
+:	CH
+“	CH
+Trước khi	V
+các	L
+thông tin	N
+gây	V
+chấn động	V
+về	E
+mã	N
+độc	A
+này	P
+được	V
+báo chí	N
+đề cập	V
+thì	C
+các	L
+sản phẩm	N
+của	E
+Kaspersky Lab	Np
+đã	R
+phát hiện	V
+và	Cc
+ngăn chặn	V
+thành công	V
+một số lượng	N
+lớn	A
+các	L
+cuộc	N
+tấn công	V
+ransomware	Np
+trên	E
+khắp	A
+thế giới	N
+.	CH
+
+Trong	E
+các	L
+cuộc	Nc
+tấn công	V
+này	P
+,	CH
+dữ liệu	N
+được	V
+mã hóa	V
+với	E
+phần	N
+mở rộng	V
+“	CH
+.	CH
+
+WCRY	Np
+”	CH
+được	R
+thêm	V
+vào	E
+tên	N
+tập	V
+tin	N
+.	CH
+
+Các	L
+giải pháp bảo mật	N
+của	E
+Kaspersky Lab	Np
+đã	R
+phát hiện	V
+được	V
+các	L
+mã	N
+độc	A
+tống tiền	N
+liên quan	V
+đến	E
+WannaCry	Np
+,	CH
+bảo vệ	V
+người	N
+dùng	V
+cá nhân	N
+và	Cc
+doanh nghiệp	N
+an toàn	A
+trước	E
+sự	Nc
+bùng phát	V
+nguy hiểm	A
+”	CH
+.	CH
+
+Theo	E
+Kaspersky	Np
+,	CH
+thành phần	N
+System Watcher	Np
+(	CH
+Giám sát	V
+hệ thống	N
+)	CH
+có	V
+trong	E
+giải pháp	N
+Kaspersky	Np
+Internet Security	Np
+cho	E
+người	N
+dùng	V
+cá nhân	N
+và	Cc
+Kaspersky Security for Business	Np
+là	V
+“	CH
+lá chắn	N
+then chốt	N
+”	CH
+để	E
+bảo vệ	V
+dữ liệu	N
+của	E
+người	N
+dùng	V
+trước	E
+sự	Nc
+tấn công	V
+của	E
+WannaCry	Np
+hay	C
+bất kỳ	A
+phần mềm	N
+tống tiền	N
+nào	P
+.	CH
+
+Thành phần	N
+System Watcher	Np
+có	V
+khả năng	N
+phục hồi	V
+lại	R
+trạng thái	V
+ban đầu	N
+những	L
+thay đổi	V
+được	R
+thực hiện	V
+bởi	E
+phần mềm	N
+tống tiền	V
+trong	E
+trường hợp	N
+một	M
+mẫu	N
+độc hại	A
+đã	R
+vượt	V
+qua	R
+các	L
+lớp	N
+phòng thủ	V
+khác	A
+.	CH
+
+Ngoài ra	X
+,	CH
+công nghệ Intrusion Detection	N
+có	V
+trong	E
+các	L
+giải pháp	N
+của	E
+Kaspersky Lab	Np
+có thể	R
+chặn đứng	V
+sự	Nc
+lây nhiễm	V
+của	E
+WannaCry	Np
+từ	E
+cấp độ	N
+mạng	N
+.	CH
+
+Tên	Np
+các	L
+phát hiện	V
+của	E
+Kaspersky Lab	Np
+liên quan	V
+đến	E
+WannaCry	Np
+,	CH
+gồm	V
+có	V
+:	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Scatter	Np
+.	CH
+
+uf	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Scatter	Np
+.	CH
+
+tr	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Fury	Np
+.	CH
+
+fr	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Gen	Np
+.	CH
+
+djd	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Wanna	Np
+.	CH
+
+b	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Wanna	Np
+.	CH
+
+c	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Wanna	Np
+.	CH
+
+d	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Wanna	Np
+.	CH
+
+f	N
+;	CH
+Trojan	Np
+-	CH
+Ransom	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Zapchast	Np
+.	CH
+
+i	N
+;	CH
+Trojan	Np
+.	CH
+
+Win64	Np
+.	CH
+
+EquationDrug	Np
+.	CH
+
+gen	N
+;	CH
+Trojan	Np
+.	CH
+
+Win32	Np
+.	CH
+
+Generic	Np
+.	CH
+
+Các	L
+phần	N
+mở rộng	V
+mà	C
+mã	N
+độc	A
+nhắm	V
+tới	V
+để	E
+mã hóa	V
+gồm	V
+các	L
+nhóm	N
+định dạng	N
+:	CH
+các	L
+phần	N
+mở rộng	V
+tập	V
+tin	N
+văn phòng	N
+thông thường	A
+được	R
+sử dụng	V
+(	CH
+.	CH
+
+ppt	Nb
+,	CH
+.	CH
+
+doc	Nb
+,	CH
+.	CH
+
+docx	Nb
+,	CH
+.	CH
+
+xlsx	N
+,	CH
+.	CH
+
+sxi	N
+)	CH
+;	CH
+các	L
+định dạng	N
+văn phòng	N
+ít	A
+phổ biến	A
+và	Cc
+đặc thù	N
+của	E
+quốc gia	N
+(	CH
+.	CH
+
+sxw	N
+,	CH
+.	CH
+
+odt	N
+,	CH
+.	CH
+
+hwp	N
+)	CH
+;	CH
+lưu trữ	N
+,	CH
+tập	V
+tin	N
+phương tiện	N
+(	CH
+.	CH
+
+zip	N
+,	CH
+.	CH
+
+rar	N
+,	CH
+.	CH
+
+tar	N
+,	CH
+.	CH
+
+bz2	N
+,	CH
+.	CH
+
+mp4	N
+,	CH
+.	CH
+
+mkv	N
+)	CH
+;	CH
+email	Nb
+và	Cc
+cơ sở	N
+dữ liệu	N
+email	Nb
+(	CH
+.	CH
+
+eml	N
+,	CH
+.	CH
+
+msg	N
+,	CH
+.	CH
+
+ost	N
+,	CH
+.	CH
+
+pst	N
+,	CH
+.	CH
+
+edb	N
+)	CH
+;	CH
+các	L
+tập	N
+tin	N
+cơ sở	N
+dữ liệu	N
+(	CH
+.	CH
+
+sql	N
+,	CH
+.	CH
+
+accdb	N
+,	CH
+.	CH
+
+mdb	N
+,	CH
+.	CH
+
+dbf	N
+,	CH
+.	CH
+
+odb	N
+,	CH
+.	CH
+
+myd	N
+)	CH
+;	CH
+mã	N
+nguồn	N
+và	Cc
+tập	V
+tin	N
+dự án	N
+của	E
+nhà phát triển	N
+(	CH
+.	CH
+
+php	N
+,	CH
+.	CH
+
+java	N
+,	CH
+.	CH
+
+cpp	N
+,	CH
+.	CH
+
+pas	N
+,	CH
+.	CH
+
+asm	N
+)	CH
+;	CH
+khóa	N
+và	Cc
+chứng chỉ	N
+mã hóa	N
+(	CH
+.	CH
+
+key	N
+,	CH
+.	CH
+
+pfx	N
+,	CH
+.	CH
+
+pem	N
+,	CH
+.	CH
+
+p12	N
+,	CH
+.	CH
+
+csr	N
+,	CH
+.	CH
+
+gpg	N
+,	CH
+.	CH
+
+aes	N
+)	CH
+;	CH
+các	L
+tác giả thiết kế	N
+đồ họa	N
+,	CH
+tác giả	N
+và	Cc
+nhiếp ảnh	N
+gia	N
+(	CH
+.	CH
+
+vsd	N
+,	CH
+.	CH
+
+odg	N
+,	CH
+.	CH
+
+raw	N
+,	CH
+.	CH
+
+nf	N
+,	CH
+.	CH
+
+svg	N
+,	CH
+.	CH
+
+psd	N
+)	CH
+;	CH
+và	Cc
+tập	V
+tin	N
+máy	N
+ảo	N
+(	CH
+.	CH
+
+vmx	N
+,	CH
+.	CH
+
+vmdk	N
+,	CH
+.	CH
+
+vdi	N
+)	CH
+.	CH
+
+Các	L
+chuyên gia	N
+của	E
+Kaspersky Lab	Np
+hiện	N
+đang	R
+tiếp tục	V
+làm việc	V
+về	E
+khả năng	N
+tạo	V
+ra	R
+một	M
+công cụ	N
+giải mã	V
+để	E
+giúp đỡ	V
+các	L
+nạn nhân	N
+.	CH
+
+Chúng tôi	P
+sẽ	R
+cập nhật	V
+khi	N
+công cụ	N
+này	P
+sẵn sàng	A
+.	CH
+
+Hoặc	Cc
+cộng đồng	N
+có thể	R
+theo dõi	V
+tại	E
+trang	N
+nomoreransom	N
+.	CH
+
+org	N
+để	E
+tìm kiếm	V
+công cụ	N
+giải mã	N
+phù hợp	V
+.	CH
+
+Nomoreransom	Np
+.	CH
+
+org	N
+một	M
+dự án	N
+phi	Z
+lợi nhuận	N
+được	V
+Kaspersky Lab	Np
+,	CH
+các	L
+tổ chức	N
+an ninh mạng	A
+như	C
+Europol	Np
+,	CH
+Politie	Np
+hợp tác	V
+phát triển	V
+nhằm	E
+cập nhật	V
+miễn phí	V
+tất cả	P
+thông tin	N
+cần thiết	A
+về	E
+các	L
+mã	N
+độc	A
+tống tiền	N
+cũng	R
+như	C
+cung cấp	V
+công cụ	N
+giải mã	N
+tương ứng	V
+.	CH
+
+Chuyên gia	N
+Kaspersky	Np
+khuyến nghị	A
+,	CH
+để	E
+phòng chống	V
+mã	N
+độc	A
+tống tiền	N
+WannaCry	Np
+,	CH
+người	N
+dùng	V
+cần	V
+đảm bảo	V
+rằng	C
+tất cả	P
+các	L
+máy tính	N
+đã	R
+được	V
+cài đặt	V
+phần mềm	N
+bảo mật	V
+và	Cc
+đã	R
+bật	V
+các	L
+thành phần	N
+chống	V
+phần mềm	N
+tống tiền	N
+;	CH
+cài đặt	V
+bản	N
+vá	V
+chính thức	A
+(	CH
+MS17	Np
+-	CH
+010	N
+)	CH
+từ	E
+Microsoft	Np
+nhằm	V
+vá	V
+lỗ hổng	N
+SMB	Np
+Server	Np
+bị	V
+khai thác	V
+trong	E
+cuộc	Nc
+tấn công	V
+này	P
+.	CH
+
+Bên cạnh	N
+đó	P
+,	CH
+với	E
+người	N
+dùng	V
+sử dụng	V
+sản phẩm	N
+của	E
+Kaspersky Lab	Np
+,	CH
+cần	V
+đảm bảo	V
+rằng	C
+các	L
+sản phẩm	N
+của	E
+hãng	N
+đã	R
+bật	V
+thành phần	N
+System Watcher	Np
+(	CH
+trạng thái	N
+Enable	Np
+)	CH
+;	CH
+thực hiện	V
+quét	V
+hệ thống	N
+(	CH
+Critical Area Scan	Np
+)	CH
+có	V
+trong	E
+các	L
+giải pháp	N
+của	E
+Kaspersky Lab	Np
+để	E
+phát hiện	V
+các	L
+lây nhiễm	N
+nhanh	A
+nhất	R
+(	CH
+nếu	C
+không	R
+các	L
+lây nhiễm	N
+sẽ	R
+được	V
+phát hiện	V
+tự động	A
+nhưng	C
+sau	N
+24	M
+giờ	Nu
+)	CH
+.	CH
+
+Trường hợp	N
+phát hiện	V
+có	V
+tấn công	V
+từ	E
+phần mềm	N
+độc hại	N
+thì	C
+cần	V
+"	CH
+reboot	N
+"	CH
+lại	R
+hệ thống	N
+.	CH
+
+Bên cạnh	V
+việc	N
+một	M
+lần	N
+nữa	R
+nhấn mạnh	V
+người	N
+dùng	V
+cần	V
+chắc chắn	A
+đã	R
+cài đặt	V
+bản	Nc
+vá	N
+MS17	Np
+-	CH
+010	N
+từ	E
+Microsoft	Np
+,	CH
+Kaspersky	Np
+cũng	R
+khuyến cáo	V
+người	N
+dùng	V
+cần	V
+tiến hành	V
+sao	P
+lưu	V
+dữ liệu	N
+thường xuyên	A
+vào	E
+các	L
+nơi	N
+lưu trữ	V
+không	R
+kết nối	V
+với	E
+Internet	Np
+.	CH
+
+PV	Np

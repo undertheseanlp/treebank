@@ -1,0 +1,136 @@
+T1	N 0 3	Anh
+T2	R 4 6	sẽ
+T3	V 7 15	phản đối
+T4	N 16 20	việc
+T5	V 21 29	nới lỏng
+T6	L 30 33	các
+T7	N 34 43	biện pháp
+T8	N 44 54	trừng phạt
+T9	V 55 60	chống
+T10	Np 61 64	Nga
+T11	N 66 78	Ngoại trưởng
+T12	Np 79 86	Johnson
+T13	V 87 95	cho biết
+T14	R 96 98	sẽ
+T15	R 99 104	không
+T16	V 105 107	có
+T17	N 108 114	chuyện
+T18	V 115 123	nới lỏng
+T19	L 124 127	các
+T20	N 128 137	biện pháp
+T21	N 138 148	trừng phạt
+T22	V 149 154	chống
+T23	Np 155 158	Nga
+T24	C 159 161	mà
+T25	V 162 165	cần
+T26	V 166 173	duy trì
+T27	N 174 180	áp lực
+T28	E 181 188	đối với
+T29	Np 189 192	Nga
+T30	CH 193 194	.
+T31	N 196 206	Vương quốc
+T32	N 207 210	Anh
+T33	R 211 213	sẽ
+T34	V 214 223	nhấn mạnh
+T35	E 224 227	vào
+T36	N 228 232	việc
+T37	V 233 240	duy trì
+T38	N 241 245	lệnh
+T39	N 246 256	trừng phạt
+T40	V 257 262	chống
+T41	Np 263 266	Nga
+T42	E 267 270	của
+T43	Np 271 273	EU
+T44	CH 274 275	.
+T45	P 276 279	Đây
+T46	V 280 282	là
+T47	V 283 291	tuyên bố
+T48	E 292 295	của
+T49	Nc 296 299	ông
+T50	Np 300 313	Boris Johnson
+T51	CH 314 315	,
+T52	N 316 321	người
+T53	V 322 326	đứng
+T54	N 327 330	đầu
+T55	N 331 333	Bộ
+T56	N 334 344	Ngoại giao
+T57	Np 345 348	Anh
+T58	CH 349 350	,
+T59	E 351 356	trước
+T60	Nc 357 361	cuộc
+T61	V 362 365	họp
+T62	A 366 378	ngoại trưởng
+T63	L 379 382	các
+T64	N 383 391	quốc gia
+T65	N 392 402	thành viên
+T66	Np 403 405	EU
+T67	CH 406 407	.
+T68	N 408 420	Ngoại trưởng
+T69	Np 421 424	Anh
+T70	CH 425 426	-
+T71	Nc 427 430	Ông
+T72	Np 431 444	Boris Johnson
+T73	CH 445 446	.
+T74	Np 447 450	Ảnh
+T75	CH 451 452	:
+T76	Np 453 464	Sputnik Ông
+T77	Np 465 478	Boris Johnson
+T78	V 479 484	lưu ý
+T79	C 485 489	rằng
+T80	P 490 496	tất cả
+T81	L 497 500	các
+T82	N 501 505	nước
+T83	R 506 509	đều
+T84	R 510 513	rất
+T85	A 514 521	lo ngại
+T86	E 522 524	về
+T87	Nc 525 527	sự
+T88	V 528 537	leo thang
+T89	A 538 546	xung đột
+T90	E 547 548	ở
+T91	N 549 553	đông
+T92	Np 554 561	Ukraine
+T93	CH 562 563	.
+T94	E 564 568	Theo
+T95	Nc 569 572	ông
+T96	Np 573 580	Johnson
+T97	CH 581 582	,
+T98	CH 583 584	"
+T99	L 585 588	các
+T100	N 589 594	lý do
+T101	E 595 598	cho
+T102	N 599 603	điều
+T103	P 604 607	này
+T104	V 608 610	là
+T105	A 611 613	đủ
+T106	A 614 621	rõ ràng
+T107	CH 622 623	"
+T108	CH 624 625	.
+T109	CH 626 627	"
+T110	N 628 638	Vương quốc
+T111	Np 639 642	Anh
+T112	R 643 645	sẽ
+T113	V 646 655	nhấn mạnh
+T114	C 656 660	rằng
+T115	R 661 670	không thể
+T116	V 671 673	có
+T117	N 674 678	việc
+T118	V 679 687	nới lỏng
+T119	L 688 691	các
+T120	N 692 701	biện pháp
+T121	N 702 712	trừng phạt
+T122	V 713 718	chống
+T123	Np 719 722	Nga
+T124	CH 723 724	,
+T125	V 725 728	cần
+T126	V 729 736	duy trì
+T127	N 737 743	áp lực
+T128	E 744 751	đối với
+T129	N 752 757	Nga "
+T130	CH 758 759	,
+T131	V 760 763	nói
+T132	N 764 776	ngoại trưởng
+T133	Np 777 780	Anh
+T134	CH 781 782	.
+T135	Np 783 787	Theo
+T136	Np 788 795	Sputnik

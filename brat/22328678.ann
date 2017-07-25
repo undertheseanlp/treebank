@@ -1,0 +1,20 @@
+T1	V 0 3	Kẹt
+T2	N 4 6	xe
+T3	E 7 11	trên
+T4	N 12 15	đèo
+T5	Np 16 22	Cù Hin
+T6	R 24 28	Hàng
+T7	M 29 33	trăm
+T8	N 34 45	phương tiện
+T9	N 46 56	giao thông
+T10	N 57 65	kẹt cứng
+T11	E 66 70	trên
+T12	N 71 74	đèo
+T13	Np 75 81	Cù HIn
+T14	E 82 87	trong
+T15	A 88 93	nhiều
+T16	N 94 97	giờ
+T17	CH 98 99	.
+T18	Np 101 107	Hải An
+T19	CH 108 109	-
+T20	Np 110 117	An Bình
