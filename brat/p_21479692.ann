@@ -2,7 +2,7 @@ T1	N 0 2	Bộ
 T2	N 3 7	Y tế
 T3	V 8 17	tiến hành
 T4	V 18 27	can thiệp
-T5	N 28 36	giải độc
+T5	V 28 36	giải độc
 T6	N 37 40	chì
 T7	E 41 44	cho
 T8	N 45 51	trẻ em
@@ -42,7 +42,7 @@ T41	CH 254 255	.
 T42	CH 256 257	(
 T43	N 258 263	Nguồn
 T44	CH 264 265	:
-T45	Np 266 271	TTXVN
+T45	Ny 266 271	TTXVN
 T46	CH 272 273	/
 T47	Np 274 281	Vietnam
 T48	N 282 283	+
@@ -67,16 +67,16 @@ T66	Cc 370 372	và
 T67	N 373 382	nước tiểu
 T68	E 383 385	để
 T69	V 386 394	đánh giá
-T70	N 395 403	biến đổi
+T70	V 395 403	biến đổi
 T71	N 404 412	vật chất
-T72	N 413 422	di truyền
+T72	V 413 422	di truyền
 T73	CH 423 424	,
 T74	N 425 435	tình trạng
-T75	A 436 439	oxy
+T75	Nb 436 439	oxy
 T76	V 440 443	hóa
 T77	CH 444 445	,
 T78	V 446 451	chống
-T79	N 452 455	oxy
+T79	Nb 452 455	oxy
 T80	N 456 459	hóa
 T81	E 460 461	ở
 T82	N 462 468	trẻ em
@@ -102,13 +102,13 @@ T101	V 576 583	bao gồm
 T102	V 584 593	khai thác
 T103	N 594 596	mỏ
 T104	CH 597 598	,
-T105	N 599 608	luyện kim
+T105	V 599 608	luyện kim
 T106	CH 609 610	,
 T107	L 611 614	các
 T108	N 615 624	hoạt động
 T109	V 625 633	sản xuất
 T110	Cc 634 636	và
-T111	N 637 644	tái chế
+T111	V 637 644	tái chế
 T112	CH 645 646	,
 T113	E 647 648	ở
 T114	L 649 655	một số
@@ -130,7 +130,6 @@ T129	N 721 730	đối tượng
 T130	A 731 739	đặc biệt
 T131	A 740 742	dễ
 T132	V 743 745	bị
-T133	V 746 759	tổn thương do
 T134	N 760 768	độc tính
 T135	E 769 772	của
 T136	N 773 776	chì
@@ -226,7 +225,6 @@ T225	N 1337 1347	nghiên cứu
 T226	V 1348 1352	được
 T227	N 1353 1357	viện
 T228	V 1358 1366	lựa chọn
-T229	V 1367 1380	thực hiện tại
 T230	L 1381 1387	một số
 T231	N 1388 1395	địa bàn
 T232	C 1396 1399	như
@@ -247,7 +245,7 @@ T246	E 1474 1477	đến
 T247	N 1478 1482	việc
 T248	V 1483 1494	khai khoáng
 T249	CH 1495 1496	,
-T250	N 1497 1510	luyện kim màu
+T250	V 1497 1510	luyện kim màu
 T251	CH 1511 1512	,
 T252	V 1513 1520	chế tạo
 T253	Cc 1521 1523	và
@@ -307,5 +305,9 @@ T306	E 1837 1841	Theo
 T307	Np 1842 1852	Thùy Giang
 T308	CH 1853 1854	(
 T309	Np 1855 1862	Vietnam
-T310	N 1863 1864	+
+T310	CH 1863 1864	+
 T311	CH 1865 1866	)
+T133	V 746 756	tổn thương
+T312	E 757 759	do
+T229	V 1367 1376	thực hiện
+T313	E 1377 1380	tại

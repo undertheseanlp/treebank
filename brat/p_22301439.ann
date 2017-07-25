@@ -10,7 +10,6 @@ T9	N 37 39	đồ
 T10	N 40 49	tình địch
 T11	E 50 53	của
 T12	N 54 56	bố
-T13	N 58 65	Thấy mẹ
 T14	V 66 74	đánh đập
 T15	CH 75 76	,
 T16	V 77 80	lột
@@ -27,7 +26,6 @@ T26	N 127 129	mẹ
 T27	V 130 135	ngừng
 T28	R 136 139	lại
 T29	CH 140 141	.
-T30	N 143 150	Thấy mẹ
 T31	V 151 159	đánh đập
 T32	CH 160 161	,
 T33	V 162 165	lột
@@ -44,7 +42,7 @@ T43	N 212 214	mẹ
 T44	V 215 220	ngừng
 T45	R 221 224	lại
 T46	CH 225 226	.
-T47	Np 227 232	Video
+T47	Nb 227 232	Video
 T48	V 233 241	đăng tải
 T49	E 242 246	trên
 T50	Np 247 255	LiveLeak
@@ -63,8 +61,6 @@ T62	CH 317 318	/
 T63	M 319 320	5
 T64	E 321 324	tại
 T65	M 325 328	một
-T66	N 329 333	quán
-T67	N 334 338	cafe
 T68	Np 339 348	Starbucks
 T69	CH 349 350	.
 T70	E 351 355	Theo
@@ -76,14 +72,11 @@ T75	V 370 374	rình
 T76	E 375 377	từ
 T77	N 378 383	trước
 T78	Cc 384 386	và
-T79	V 387 390	bắt
-T80	R 391 399	quả tang
 T81	N 400 405	chồng
 T82	R 406 410	đang
 T83	V 411 415	ngồi
 T84	V 416 420	uống
-T85	N 421 425	cafe
-T86	N 426 440	cùng nhân tình
+T85	Nb 421 425	cafe
 T87	CH 441 442	,
 T88	N 443 445	cô
 T89	P 446 449	này
@@ -91,8 +84,8 @@ T90	R 450 454	liền
 T91	V 455 458	lao
 T92	E 459 462	tới
 T93	V 463 467	đánh
-T94	N 468 475	túi bụi
-T95	A 476 485	tình địch
+T94	A 468 475	túi bụi
+T95	N 476 485	tình địch
 T96	CH 486 487	,
 T97	V 488 492	ngồi
 T98	V 493 496	lên
@@ -108,7 +101,7 @@ T107	A 542 547	nhiều
 T108	N 548 553	người
 T109	N 554 564	xung quanh
 T110	CH 565 566	.
-T111	Np 567 571	Điều
+T111	N 567 571	Điều
 T112	V 572 576	đáng
 T113	V 577 580	nói
 T114	C 581 583	là
@@ -116,7 +109,6 @@ T115	Nc 584 586	cô
 T116	N 587 594	con gái
 T117	A 595 599	ruột
 T118	E 600 603	của
-T119	Nc 604 609	người
 T120	N 610 612	vợ
 T121	R 613 615	đã
 T122	V 616 620	đứng
@@ -127,6 +119,13 @@ T126	N 640 642	mẹ
 T127	V 643 647	dừng
 T128	R 648 651	lại
 T129	CH 652 653	.
-T130	Ny 654 655	H
-T131	CH 656 657	.
-T132	Np 658 661	Nam
+T13	V 58 62	Thấy
+T133	N 63 65	mẹ
+T30	V 143 147	Thấy
+T134	N 148 150	mẹ
+T66	N 329 338	quán cafe
+T67	V 387 399	bắt quả tang
+T79	C 426 430	cùng
+T80	N 431 440	nhân tình
+T86	N 604 609	người
+T119	Np 654 661	H . Nam

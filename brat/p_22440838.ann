@@ -1,17 +1,15 @@
-T1	N 0 5	Dâm ô
+T1	V 0 5	Dâm ô
 T2	N 6 13	con gái
 T3	Cc 14 16	và
-T4	V 17 24	cháu họ
+T4	N 17 24	cháu họ
 T5	N 25 28	bạn
 T6	V 29 33	nhậu
 T7	V 35 43	Lợi dụng
 T8	N 44 47	lúc
-T9	V 48 59	chủ nhà đưa
 T10	N 60 63	bạn
 T11	V 64 68	nhậu
 T12	V 69 71	về
 T13	CH 72 73	,
-T14	N 74 80	Mến dụ
 T15	N 81 88	con gái
 T16	Cc 89 91	và
 T17	N 92 99	cháu họ
@@ -20,18 +18,16 @@ T19	P 106 109	này
 T20	E 110 113	tới
 T21	A 114 117	gần
 T22	E 118 120	để
-T23	V 121 138	thực hiện hành vi
-T24	N 139 144	dâm ô
+T24	V 139 144	dâm ô
 T25	CH 145 146	.
 T26	M 148 154	Ngày 2
 T27	CH 155 156	-
 T28	M 157 158	6
 T29	CH 159 160	,
-T30	N 161 176	Công an Đại Lộc
 T31	CH 177 178	(
 T32	Np 179 188	Quảng Nam
 T33	CH 189 190	)
-T34	N 191 199	cho biết
+T34	V 191 199	cho biết
 T35	R 200 202	đã
 T36	V 203 210	khởi tố
 T37	Cc 211 213	và
@@ -68,9 +64,9 @@ T67	Np 343 346	Mến
 T68	V 347 351	sang
 T69	V 352 354	hà
 T70	Nc 355 358	ông
-T71	Np 359 362	ĐNV
+T71	Ny 359 362	ĐNV
 T72	CH 363 364	(
-T73	Np 365 367	SN
+T73	Ny 365 367	SN
 T74	A 368 372	1973
 T75	CH 373 374	,
 T76	V 375 378	trú
@@ -90,7 +86,7 @@ T89	V 433 437	nhậu
 T90	R 438 442	xong
 T91	CH 443 444	,
 T92	Nc 445 448	ông
-T93	Np 449 450	V
+T93	Ny 449 450	V
 T94	CH 451 452	.
 T95	V 453 456	đưa
 T96	M 457 460	hai
@@ -103,7 +99,7 @@ T102	Np 482 485	Mến
 T103	V 486 490	ngồi
 T104	R 491 494	lại
 T105	CH 495 496	.
-T106	V 497 504	Lúc này
+T106	A 497 504	Lúc này
 T107	N 505 512	con gái
 T108	M 513 515	10
 T109	N 516 520	tuổi
@@ -113,7 +109,7 @@ T112	M 532 533	9
 T113	N 534 538	tuổi
 T114	E 539 542	của
 T115	Nc 543 546	ông
-T116	Np 547 548	V
+T116	Ny 547 548	V
 T117	CH 549 550	.
 T118	V 551 557	đi học
 T119	V 558 560	về
@@ -132,8 +128,7 @@ T131	P 608 611	này
 T132	E 612 615	đến
 T133	N 616 624	bên cạnh
 T134	Cc 625 627	và
-T135	V 628 645	thực hiện hành vi
-T136	N 646 651	dâm ô
+T136	V 646 651	dâm ô
 T137	CH 652 653	.
 T138	N 654 663	Chiều tối
 T139	A 664 668	cùng
@@ -164,3 +159,13 @@ T163	Np 785 788	Mến
 T164	E 789 792	với
 T165	N 793 810	cơ quan chức năng
 T166	CH 811 812	.
+T9	N 48 55	chủ nhà
+T167	V 56 59	đưa
+T14	Np 74 77	Mến
+T168	V 78 80	dụ
+T23	V 121 130	thực hiện
+T169	N 131 138	hành vi
+T30	N 161 168	Công an
+T170	Np 169 176	Đại Lộc
+T135	V 628 637	thực hiện
+T171	V 638 645	hành vi

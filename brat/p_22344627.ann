@@ -2,7 +2,7 @@ T1	R 0 4	Hàng
 T2	M 5 9	chục
 T3	N 10 22	nữ công nhân
 T4	V 23 26	may
-T5	N 27 36	nhập viện
+T5	V 27 36	nhập viện
 T6	E 37 40	sau
 T7	N 41 47	bữa ăn
 T8	N 48 52	trưa
@@ -17,11 +17,10 @@ T16	E 92 95	của
 T17	M 96 99	một
 T18	N 100 111	nhà máy may
 T19	E 112 113	ở
-T20	N 114 129	Nghệ An bắt đầu
 T21	V 130 132	bị
 T22	V 133 140	nôn mửa
 T23	CH 141 142	,
-T24	N 143 150	đau đầu
+T24	V 143 150	đau đầu
 T25	C 151 154	nên
 T26	V 155 159	phải
 T27	V 160 169	nhập viện
@@ -36,7 +35,6 @@ T35	Nc 196 199	ông
 T36	Np 200 212	Lý Khắc Tuấn
 T37	CH 213 214	,
 T38	N 215 221	cán bộ
-T39	N 222 239	Phòng Y tế thị xã
 T40	Np 240 248	Thái Hòa
 T41	CH 249 250	(
 T42	Np 251 258	Nghệ An
@@ -58,8 +56,6 @@ T57	Np 338 348	Hitexvinam
 T58	CH 349 350	(
 T59	V 351 354	đặt
 T60	E 355 358	tại
-T61	N 359 362	khu
-T62	N 363 374	công nghiệp
 T63	Np 375 383	Nghĩa Mỹ
 T64	CH 384 385	)
 T65	V 386 388	có
@@ -72,8 +68,6 @@ T71	R 423 427	đang
 T72	V 428 432	được
 T73	V 433 440	cấp cứu
 T74	E 441 444	tại
-T75	N 445 454	Bệnh viện
-T76	N 455 462	Đa khoa
 T77	Np 463 470	Tây Bắc
 T78	Np 471 478	Nghệ An
 T79	CH 479 480	,
@@ -81,9 +75,6 @@ T80	E 481 485	theo
 T81	N 486 493	tin tức
 T82	E 494 498	trên
 T83	N 499 502	báo
-T84	Np 503 507	Zing
-T85	CH 508 509	.
-T86	Ny 510 512	vn
 T87	CH 513 514	.
 T88	E 515 519	Theo
 T89	N 520 529	thông tin
@@ -100,10 +91,10 @@ T99	A 567 572	nhiều
 T100	N 573 582	công nhân
 T101	V 583 592	xuất hiện
 T102	N 593 604	triệu chứng
-T103	N 605 608	nôn
-T104	N 609 611	ói
+T103	V 605 608	nôn
+T104	V 609 611	ói
 T105	CH 612 613	,
-T106	N 614 621	đau đầu
+T106	V 614 621	đau đầu
 T107	C 622 625	rồi
 T108	V 626 634	ngất xỉu
 T109	CH 635 636	.
@@ -132,11 +123,8 @@ T131	N 765 773	sức khỏe
 T132	E 774 777	tại
 T133	N 778 787	bệnh viện
 T134	CH 788 789	.
-T135	Np 790 793	Ảnh
+T135	N 790 793	Ảnh
 T136	CH 794 795	:
-T137	Np 796 800	Zing
-T138	CH 801 802	.
-T139	Ny 803 805	vn
 T140	CH 806 807	.
 T141	E 808 812	Theo
 T142	N 813 819	bác sĩ
@@ -150,9 +138,6 @@ T149	N 855 859	mạch
 T150	R 860 864	đang
 T151	V 865 868	nằm
 T152	E 869 870	ở
-T153	Np 871 875	Khoa
-T154	V 876 883	hồi sức
-T155	V 884 891	cấp cứu
 T156	CH 892 893	.
 T157	L 894 899	Những
 T158	N 900 909	công nhân
@@ -187,8 +172,6 @@ T186	N 1054 1062	công tác
 T187	V 1063 1070	cấp cứu
 T188	Cc 1071 1073	và
 T189	V 1074 1081	yêu cầu
-T190	N 1082 1091	Bệnh viện
-T191	N 1092 1099	Đa khoa
 T192	Np 1100 1107	Tây Bắc
 T193	V 1108 1117	tiếp nhận
 T194	N 1118 1127	bệnh nhân
@@ -211,15 +194,13 @@ T210	V 1226 1234	điều tra
 T211	N 1235 1246	nguyên nhân
 T212	N 1247 1254	vụ việc
 T213	CH 1255 1256	.
-T214	Np 1257 1261	Được
+T214	N 1257 1261	Được
 T215	V 1262 1266	biết
 T216	CH 1267 1268	,
 T217	N 1269 1280	nhà máy may
 T218	V 1281 1290	xuất khẩu
 T219	Np 1291 1301	Hitexvinam
 T220	E 1302 1303	ở
-T221	N 1304 1325	Cụm Công nghiệp Nghĩa
-T222	Np 1326 1328	Mỹ
 T223	V 1329 1331	đi
 T224	V 1332 1335	vào
 T225	V 1336 1345	hoạt động
@@ -236,8 +217,8 @@ T235	CH 1391 1392	.
 T236	N 1393 1400	Nhà máy
 T237	V 1401 1403	có
 T238	N 1404 1413	diện tích
-T239	N 1414 1417	4,5
-T240	N 1418 1424	héc ta
+T239	M 1414 1417	4,5
+T240	Nu 1418 1424	héc ta
 T241	CH 1425 1426	,
 T242	E 1427 1430	với
 T243	A 1431 1436	nhiều
@@ -245,16 +226,27 @@ T244	N 1437 1447	dây chuyền
 T245	A 1448 1451	may
 T246	CH 1452 1453	,
 T247	N 1454 1460	quy mô
-T248	V 1461 1466	3.000
+T248	M 1461 1466	3.000
 T249	N 1467 1475	lao động
 T250	CH 1476 1477	.
 T251	Np 1478 1487	Công Danh
 T252	CH 1488 1489	(
 T253	V 1490 1498	tổng hợp
 T254	E 1499 1503	theo
-T255	N 1504 1512	báo Zing
-T256	CH 1513 1514	.
-T257	N 1515 1517	vn
 T258	CH 1518 1519	,
 T259	Np 1520 1530	Giao Thông
 T260	CH 1531 1532	)
+T20	Np 114 121	Nghệ An
+T261	V 122 129	bắt đầu
+T39	Np 222 232	Phòng Y tế
+T262	N 233 239	thị xã
+T61	Np 359 374	khu công nghiệp
+T62	Np 445 462	Bệnh viện Đa khoa
+T75	Np 503 512	Zing . vn
+T76	Np 796 805	Zing . vn
+T84	Np 871 891	Khoa hồi sức cấp cứu
+T85	Np 1082 1099	Bệnh viện Đa khoa
+T86	Np 1304 1319	Cụm Công nghiệp
+T137	Np 1320 1328	Nghĩa Mỹ
+T138	N 1504 1507	báo
+T139	Np 1508 1517	Zing . vn
