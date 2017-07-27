@@ -1,4 +1,3 @@
-T1	N 0 16	Nữ sinh Học viện
 T2	N 17 26	Ngân hàng
 T3	Np 27 33	Hà Nội
 T4	V 34 41	tử vong
@@ -13,7 +12,6 @@ T12	CH 97 98	,
 T13	R 99 101	đã
 T14	V 102 104	có
 T15	M 105 106	1
-T16	N 107 125	trường hợp tử vong
 T17	E 126 128	do
 T18	N 129 143	sốt xuất huyết
 T19	E 144 148	trên
@@ -47,7 +45,7 @@ T46	N 290 297	dụng cụ
 T47	V 298 302	chứa
 T48	N 303 307	nước
 T49	N 308 311	nơi
-T50	N 312 320	sản sinh
+T50	V 312 320	sản sinh
 T51	N 321 325	muỗi
 T52	V 326 329	gây
 T53	N 330 344	sốt xuất huyết
@@ -72,9 +70,6 @@ T71	Np 465 471	Dengue
 T72	CH 472 473	,
 T73	Nc 474 478	loại
 T74	N 479 490	huyết thanh
-T75	Nb 491 496	virus
-T76	N 497 501	typs
-T77	M 502 503	1
 T78	Cc 504 506	và
 T79	V 507 514	tử vong
 T80	E 515 517	do
@@ -87,13 +82,10 @@ T86	P 550 552	đó
 T87	CH 553 554	,
 T88	N 555 564	Trung tâm
 T89	N 565 569	Y tế
-T90	N 570 588	dự phòng thành phố
 T91	CH 589 590	,
 T92	N 591 600	Trung tâm
 T93	N 601 605	Y tế
 T94	N 606 610	quận
-T95	Np 611 615	Đống
-T96	V 616 623	Đa cùng
 T97	E 624 627	với
 T98	N 628 634	phường
 T99	Np 635 645	Trung Liệt
@@ -108,10 +100,8 @@ T107	V 699 703	diệt
 T108	N 704 710	bọ gậy
 T109	CH 711 712	;
 T110	V 713 717	phun
-T111	Z 718 721	hóa
-T112	N 722 726	chất
 T113	CH 727 728	;
-T114	N 729 741	truyền thông
+T114	V 729 741	truyền thông
 T115	E 742 746	bằng
 T116	N 747 750	loa
 T117	N 751 763	truyền thanh
@@ -140,8 +130,6 @@ T139	R 868 872	cũng
 T140	R 873 875	đã
 T141	V 876 883	tổ chức
 T142	V 884 888	phun
-T143	Z 889 892	hóa
-T144	N 893 897	chất
 T145	N 898 902	diện
 T146	A 903 907	rộng
 T147	Cc 908 910	và
@@ -189,7 +177,7 @@ T188	E 1163 1166	tại
 T189	N 1167 1176	cộng đồng
 T190	CH 1177 1178	.
 T191	E 1179 1183	Theo
-T192	N 1184 1191	báo cáo
+T192	V 1184 1191	báo cáo
 T193	E 1192 1195	của
 T194	N 1196 1205	trung tâm
 T195	CH 1206 1207	,
@@ -241,7 +229,6 @@ T240	N 1433 1436	khu
 T241	N 1437 1443	ký túc
 T242	N 1444 1446	xá
 T243	E 1447 1450	của
-T244	N 1451 1465	Trường Đại học
 T245	Np 1466 1477	Luật Hà Nội
 T246	CH 1478 1479	-
 T247	N 1480 1483	nơi
@@ -374,3 +361,16 @@ T373	Cc 2117 2119	và
 T374	N 2120 2130	lăng quăng
 T375	CH 2131 2132	.
 T376	Np 2133 2143	Khánh Ngọc
+T1	N 0 7	Nữ sinh
+T377	N 8 16	Học viện
+T16	N 107 117	trường hợp
+T378	V 118 125	tử vong
+T75	N 491 503	virus typs 1
+T76	V 570 578	dự phòng
+T77	N 579 588	thành phố
+T90	Np 611 618	Đống Đa
+T95	V 619 623	cùng
+T96	N 718 726	hóa chất
+T111	N 889 897	hóa chất
+T112	N 1451 1457	Trường
+T143	N 1458 1465	Đại học

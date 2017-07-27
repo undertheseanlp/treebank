@@ -1,19 +1,14 @@
-T1	N 0 8	Cắt giảm
 T2	N 9 16	giấy tờ
 T3	E 17 22	trong
-T4	N 23 25	34
+T4	M 23 25	34
 T5	N 26 33	thủ tục
 T6	V 34 44	kinh doanh
-T7	N 46 48	Bộ
-T8	Ny 49 51	KH
-T9	CH 52 53	&
-T10	Ny 54 56	ĐT
 T11	R 57 60	vừa
 T12	V 61 68	công bố
 T13	N 69 76	dự thảo
 T14	N 77 87	Nghị quyết
 T15	E 88 91	của
-T16	N 92 101	Chính phủ
+T16	Np 92 101	Chính phủ
 T17	E 102 104	về
 T18	N 105 117	đơn giản hóa
 T19	N 118 125	thủ tục
@@ -37,7 +32,7 @@ T36	N 226 235	phương án
 T37	N 236 244	cắt giảm
 T38	N 245 252	giấy tờ
 T39	E 253 258	trong
-T40	N 259 261	34
+T40	M 259 261	34
 T41	N 262 269	thủ tục
 T42	CH 270 271	.
 T43	E 272 277	Trong
@@ -68,10 +63,8 @@ T67	V 400 404	chia
 T68	CH 405 406	/
 T69	V 407 411	tách
 T70	CH 412 413	/
-T71	A 414 417	hợp
-T72	A 418 422	nhất
 T73	CH 423 424	/
-T74	Nc 425 433	sáp nhập
+T74	V 425 433	sáp nhập
 T75	Ny 434 436	DN
 T76	CH 437 438	,
 T77	N 439 449	chuyển đổi
@@ -89,7 +82,7 @@ T88	V 501 510	liên quan
 T89	E 511 514	đến
 T90	N 515 525	hợp tác xã
 T91	CH 526 527	,
-T92	N 528 531	năm
+T92	M 528 531	năm
 T93	N 532 539	thủ tục
 T94	V 540 546	đầu tư
 T95	V 547 549	ra
@@ -132,17 +125,9 @@ T131	CH 770 773	...
 T132	V 774 781	Đăng ký
 T133	N 782 794	doanh nghiệp
 T134	E 795 798	tại
-T135	Ny 799 804	Sở KH
-T136	Ny 805 806	&
-T137	Ny 807 809	ĐT
-T138	Ny 810 812	TP
-T139	CH 813 814	.
-T140	Np 815 818	HCM
 T141	CH 819 820	.
-T142	Np 821 824	Ảnh
+T142	N 821 824	Ảnh
 T143	CH 825 826	:
-T144	Np 827 832	QUỲNH
-T145	Np 833 836	NHƯ
 T146	E 837 842	Trong
 T147	L 843 850	hầu hết
 T148	N 851 858	thủ tục
@@ -160,19 +145,12 @@ T159	C 926 929	như
 T160	V 930 933	nộp
 T161	N 934 941	bản sao
 T162	CH 942 943	/
-T163	Nc 944 947	bản
-T164	V 948 952	chụp
-T165	V 953 963	chứng minh
-T166	N 964 972	nhân dân
 T167	CH 973 974	,
-T168	N 975 978	thẻ
-T169	N 979 987	căn cước
 T170	Cc 988 992	hoặc
 T171	N 993 1001	hộ chiếu
 T172	CH 1002 1003	.
 T173	E 1004 1008	Theo
 T174	N 1009 1018	phương án
-T175	N 1019 1027	cắt giảm
 T176	CH 1028 1029	,
 T177	R 1030 1033	sắp
 T178	V 1034 1037	tới
@@ -213,3 +191,15 @@ T212	N 1207 1209	số
 T213	N 1210 1219	định danh
 T214	N 1220 1227	cá nhân
 T215	CH 1228 1229	.
+T1	V 0 3	Cắt
+T216	V 4 8	giảm
+T7	Np 46 56	Bộ KH & ĐT
+T8	V 414 422	hợp nhất
+T9	Np 799 809	Sở KH & ĐT
+T10	Np 810 818	TP . HCM
+T71	Np 827 836	QUỲNH NHƯ
+T72	N 944 952	bản chụp
+T135	N 953 972	chứng minh nhân dân
+T136	N 975 987	thẻ căn cước
+T137	V 1019 1022	cắt
+T138	V 1023 1027	giảm

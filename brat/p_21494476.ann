@@ -1,7 +1,6 @@
 T1	N 0 3	Tòa
-T2	N 4 16	phúc thẩm Mỹ
 T3	V 17 24	xem xét
-T4	N 25 33	lệnh cấm
+T4	V 25 33	lệnh cấm
 T5	V 34 41	nhập cư
 T6	E 42 45	của
 T7	N 46 56	Tổng thống
@@ -17,7 +16,7 @@ T16	M 92 93	2
 T17	V 94 103	thông báo
 T18	R 104 106	sẽ
 T19	V 107 109	ra
-T20	N 110 120	phán quyết
+T20	V 110 120	phán quyết
 T21	A 121 124	sớm
 T22	R 125 129	nhất
 T23	A 130 136	có thể
@@ -43,7 +42,7 @@ T42	V 248 255	dự kiến
 T43	R 256 258	ra
 T44	V 259 269	phán quyết
 T45	E 270 272	về
-T46	N 273 281	lệnh cấm
+T46	V 273 281	lệnh cấm
 T47	V 282 289	nhập cư
 T48	E 290 293	của
 T49	N 294 304	Tổng thống
@@ -57,7 +56,7 @@ T56	M 333 334	1
 T57	N 335 339	ngày
 T58	V 340 349	lắng nghe
 T59	L 350 353	các
-T60	N 354 362	lập luận
+T60	V 354 362	lập luận
 T61	E 363 365	về
 T62	N 366 370	việc
 T63	V 371 379	lệnh cấm
@@ -88,9 +87,9 @@ T87	N 486 493	câu hỏi
 T88	Cc 494 496	và
 T89	V 497 506	lắng nghe
 T90	L 507 510	các
-T91	N 511 521	giải trình
+T91	V 511 521	giải trình
 T92	E 522 524	về
-T93	N 525 533	lệnh cấm
+T93	V 525 533	lệnh cấm
 T94	V 534 541	nhập cư
 T95	E 542 545	của
 T96	Nc 546 549	ông
@@ -113,12 +112,11 @@ T112	E 635 638	cho
 T113	N 639 648	chính phủ
 T114	V 649 659	giải trình
 T115	E 660 662	về
-T116	N 663 672	việc liệu
 T117	N 673 684	chính quyền
 T118	Nc 685 688	ông
 T119	Np 689 694	Trump
 T120	V 695 697	có
-T121	V 698 708	bằng chứng
+T121	N 698 708	bằng chứng
 T122	C 709 713	rằng
 T123	L 714 719	những
 T124	N 720 725	người
@@ -149,7 +147,6 @@ T148	N 860 864	việc
 T149	M 865 868	một
 T150	N 869 878	thẩm phán
 T151	E 879 880	ở
-T152	N 881 892	Seattle tạm
 T153	V 893 897	dừng
 T154	N 898 906	lệnh cấm
 T155	V 907 909	có
@@ -163,8 +160,8 @@ T162	Nc 939 944	người
 T163	Np 945 947	Mỹ
 T164	V 948 957	biểu tình
 T165	V 958 966	phản đối
-T166	N 967 975	lệnh cấm
-T167	N 976 985	nhập cảnh
+T166	V 967 975	lệnh cấm
+T167	V 976 985	nhập cảnh
 T168	E 986 989	của
 T169	Nc 990 993	ông
 T170	Np 994 999	Trump
@@ -184,7 +181,7 @@ T183	M 1041 1042	2
 T184	V 1043 1052	thông báo
 T185	R 1053 1055	sẽ
 T186	V 1056 1058	ra
-T187	N 1059 1069	phán quyết
+T187	V 1059 1069	phán quyết
 T188	A 1070 1073	sớm
 T189	R 1074 1078	nhất
 T190	A 1079 1085	có thể
@@ -209,7 +206,7 @@ T208	N 1183 1185	sỹ
 T209	N 1186 1190	quan
 T210	N 1191 1199	cảnh sát
 T211	Cc 1200 1202	và
-T212	V 1203 1218	cảnh sát trưởng
+T212	N 1203 1218	cảnh sát trưởng
 T213	E 1219 1222	tại
 T214	N 1223 1229	thủ đô
 T215	Np 1230 1240	Washington
@@ -220,7 +217,6 @@ T219	M 1250 1251	2
 T220	CH 1252 1253	,
 T221	N 1254 1264	Tổng thống
 T222	Np 1265 1270	Trump
-T223	V 1271 1279	viện dẫn
 T224	N 1280 1284	luật
 T225	Cc 1285 1287	và
 T226	V 1288 1291	cho
@@ -228,7 +224,6 @@ T227	C 1292 1296	rằng
 T228	N 1297 1305	sắc lệnh
 T229	E 1306 1309	của
 T230	N 1310 1313	ông
-T231	V 1314 1332	tuân thủ hiến pháp
 T232	CH 1333 1334	:
 T233	CH 1335 1336	"
 T234	P 1337 1340	Đây
@@ -276,8 +271,6 @@ T275	E 1550 1555	trong
 T276	N 1556 1564	sắc lệnh
 T277	CH 1565 1566	”
 T278	CH 1567 1568	.
-T279	Np 1569 1573	Cuộc
-T280	V 1574 1587	chiến pháp lý
 T281	N 1588 1596	hiện nay
 T282	V 1597 1606	tập trung
 T283	E 1607 1610	vào
@@ -330,6 +323,18 @@ T329	Np 1860 1869	Phạm Huân
 T330	CH 1870 1871	-
 T331	Np 1872 1878	Vũ Hợp
 T332	CH 1879 1880	/
-T333	Np 1881 1884	VOV
+T333	Ny 1881 1884	VOV
 T334	CH 1885 1886	-
 T335	Np 1887 1897	Washington
+T2	V 4 13	phúc thẩm
+T336	Np 14 16	Mỹ
+T116	N 663 667	việc
+T337	V 668 672	liệu
+T152	Np 881 888	Seattle
+T338	A 889 892	tạm
+T231	V 1314 1322	tuân thủ
+T339	N 1323 1332	hiến pháp
+T223	V 1271 1275	viện
+T340	V 1276 1279	dẫn
+T279	N 1569 1579	Cuộc chiến
+T280	N 1580 1587	pháp lý

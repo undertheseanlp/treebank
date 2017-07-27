@@ -1,11 +1,11 @@
-T1	N 0 3	Anh
+T1	Np 0 3	Anh
 T2	R 4 6	sẽ
 T3	V 7 15	phản đối
 T4	N 16 20	việc
 T5	V 21 29	nới lỏng
 T6	L 30 33	các
 T7	N 34 43	biện pháp
-T8	N 44 54	trừng phạt
+T8	V 44 54	trừng phạt
 T9	V 55 60	chống
 T10	Np 61 64	Nga
 T11	N 66 78	Ngoại trưởng
@@ -71,9 +71,8 @@ T70	CH 425 426	-
 T71	Nc 427 430	Ông
 T72	Np 431 444	Boris Johnson
 T73	CH 445 446	.
-T74	Np 447 450	Ảnh
+T74	N 447 450	Ảnh
 T75	CH 451 452	:
-T76	Np 453 464	Sputnik Ông
 T77	Np 465 478	Boris Johnson
 T78	V 479 484	lưu ý
 T79	C 485 489	rằng
@@ -118,7 +117,7 @@ T117	N 674 678	việc
 T118	V 679 687	nới lỏng
 T119	L 688 691	các
 T120	N 692 701	biện pháp
-T121	N 702 712	trừng phạt
+T121	V 702 712	trừng phạt
 T122	V 713 718	chống
 T123	Np 719 722	Nga
 T124	CH 723 724	,
@@ -132,5 +131,7 @@ T131	V 760 763	nói
 T132	N 764 776	ngoại trưởng
 T133	Np 777 780	Anh
 T134	CH 781 782	.
-T135	Np 783 787	Theo
+T135	E 783 787	Theo
 T136	Np 788 795	Sputnik
+T76	Np 453 460	Sputnik
+T137	Nc 461 464	Ông
