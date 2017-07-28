@@ -29,7 +29,11 @@ def check_missing_token(corpus, file_id):
         y = corpus.ix[i, "end"]
         d = x - y
         if d != 1 and d != 2 and d != 0:
-            raise Exception("[Error]: Missing token error in file p_%s, position <end: %d, next: %d>" % (file_id, y, x))
+            content = "[Error]: Token error in file p_%s, position <end: %d, next: %d>\n" % (file_id, y, x)
+            content += "   %s\n" % corpus.ix[i, "word"]
+            content += "-> %s\n" % corpus.ix[i+1, "word"]
+            content += "   %s\n" % corpus.ix[i+2, "word"]
+            raise Exception(content)
     print "Check missing token\t: Pass"
 
 

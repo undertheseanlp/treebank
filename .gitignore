@@ -151,3 +151,4 @@ pyvenv.cfg
 pip-selfcheck.json
 **.swp
 **/.stats_cache
+/tmp
