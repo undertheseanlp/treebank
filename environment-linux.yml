@@ -15,9 +15,6 @@ dependencies:
 - smart_open=1.5.2=py27_0
 - wheel=0.29.0=py27_0
 - pip:
-  - click==6.7
-  - dirsync==2.2.2
-  - jinja2==2.9.6
   - markupsafe==1.0
   - pandas==0.20.2
   - python-crfsuite==0.9.1
