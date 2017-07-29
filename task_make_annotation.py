@@ -9,7 +9,7 @@ def auto_annotation(input_file, output_folder="."):
     texts = open(input_file).read().strip().decode("utf-8").split("\n")
     content = u"\n".join([u" ".join(word_sent(text)) for text in texts])
     output_text_file = join(output_folder, "%s.txt" % file_id)
-    io.open(output_text_file, "w", encoding="utf-8").write(content)
+    io.open(output_text_file, "w", encoding="utf-8", newline="\n").write(content)
 
     start = 0
     end = 0
@@ -24,7 +24,6 @@ def auto_annotation(input_file, output_folder="."):
             ann_file.write(u"T%d\t%s %d %d\t%s\n" % (token_id, tag, start, end, word))
             token_id += 1
             start = end + 1
-        start += 1
 
 
 def get_annotated_files(brat_folder):

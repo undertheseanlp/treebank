@@ -46,7 +46,7 @@ def make_treebank_file(brat_annotation_file, treebank_folder="."):
     temp_file = "tmp"
     df.to_csv(temp_file, sep="\t", header=False, index=False, encoding="utf-8", line_terminator="\n",
               columns=["word", "tag"], quoting=QUOTE_NONE)
-    file_id = re.match("p_(.*).ann", basename(brat_annotation_file)).group(1)
+    file_id = re.match("(.*).ann", basename(brat_annotation_file)).group(1)
     print "Process file %s" % file_id
     check_missing_token(df, file_id)
     # output_file = join(treebank_folder, "%s.conll" % file_id)
@@ -59,6 +59,6 @@ if __name__ == '__main__':
     brat_folder = join(dirname(__file__), "brat")
     treebank_folder = join(dirname(__file__), "treebank")
     files = listdir(brat_folder)
-    files = [join(brat_folder, file) for file in files if file.startswith("p_") and file.endswith(".ann")]
+    files = [join(brat_folder, file) for file in files if file.endswith(".ann")]
     for file in files:
         make_treebank_file(file, treebank_folder)
