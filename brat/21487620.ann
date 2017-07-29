@@ -1,0 +1,110 @@
+T1	N 0 10	Tổng thống
+T2	Np 11 16	Trump
+T3	V 17 25	đánh giá
+T4	A 26 29	cao
+T5	V 30 38	đóng góp
+T6	V 39 44	chống
+T7	Np 45 47	IS
+T8	E 48 51	của
+T9	Np 52 62	Thổ Nhĩ Kỳ
+T10	N 64 74	Tổng thống
+T11	Np 75 77	Mỹ
+T12	Np 78 90	Donald Trump
+T13	CH 91 92	.
+T14	CH 93 94	(
+T15	N 95 100	Nguồn
+T16	CH 101 102	:
+T17	Np 103 106	AFP
+T18	CH 107 108	/
+T19	Np 109 114	TTXVN
+T20	CH 115 116	)
+T21	E 117 121	Theo
+T22	Np 122 129	Reuters
+T23	CH 130 131	,
+T24	N 132 141	thông tin
+T25	E 142 144	từ
+T26	Np 145 154	Nhà Trắng
+T27	E 155 158	cho
+T28	V 159 162	hay
+T29	CH 163 164	,
+T30	E 165 170	trong
+T31	M 171 174	một
+T32	N 175 179	cuộc
+T33	V 180 188	điện đàm
+T34	N 189 193	ngày
+T35	M 194 195	7
+T36	CH 196 197	/
+T37	M 198 199	2
+T38	CH 200 201	,
+T39	N 202 212	Tổng thống
+T40	Np 213 215	Mỹ
+T41	Np 216 228	Donald Trump
+T42	R 229 231	đã
+T43	Z 232 235	tái
+T44	V 236 246	khẳng định
+T45	CH 247 248	"
+T46	Nc 249 251	sự
+T47	V 252 258	ủng hộ
+T48	E 259 262	của
+T49	Np 263 265	Mỹ
+T50	E 266 273	đối với
+T51	Np 274 284	Thổ Nhĩ Kỳ
+T52	E 285 288	với
+T53	N 289 296	tư cách
+T54	V 297 299	là
+T55	M 300 303	một
+T56	N 304 311	đối tác
+T57	N 312 322	chiến lược
+T58	Cc 323 325	và
+T59	V 326 328	là
+T60	M 329 332	một
+T61	N 333 342	đồng minh
+T62	Np 343 347	NATO
+T63	CH 348 349	.
+T64	CH 350 351	"
+T65	E 352 357	Trong
+T66	M 358 361	một
+T67	V 362 370	tuyên bố
+T68	CH 371 372	,
+T69	Np 373 382	Nhà Trắng
+T70	V 383 392	nhấn mạnh
+T71	C 393 397	rằng
+T72	N 398 408	Tổng thống
+T73	Np 409 414	Trump
+T74	R 415 419	cũng
+T75	V 420 426	đề cập
+T76	E 427 430	đến
+T77	CH 431 432	"
+T78	V 433 440	cam kết
+T79	A 441 446	chung
+T80	E 447 450	của
+T81	M 451 454	hai
+T82	N 455 459	nước
+T83	V 460 464	nhằm
+T84	V 465 474	chiến đấu
+T85	V 475 480	chống
+T86	N 481 490	chủ nghĩa
+T87	V 491 499	khủng bố
+T88	E 500 504	dưới
+T89	L 505 508	mọi
+T90	N 509 518	hình thức
+T91	CH 519 520	"
+T92	Cc 521 523	và
+T93	V 524 532	đánh giá
+T94	A 533 536	cao
+T95	L 537 542	những
+T96	N 543 551	đóng góp
+T97	E 552 555	của
+T98	Np 556 566	Thổ Nhĩ Kỳ
+T99	E 567 572	trong
+T100	N 573 583	cuộc chiến
+T101	V 584 589	chống
+T102	N 590 594	nhóm
+T103	N 595 603	Nhà nước
+T104	A 604 612	Hồi giáo
+T105	CH 613 614	(
+T106	Np 615 617	IS
+T107	CH 618 619	)
+T108	CH 620 621	.
+T109	CH 622 623	/
+T110	CH 624 625	.
