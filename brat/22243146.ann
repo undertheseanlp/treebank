@@ -1,0 +1,138 @@
+T1	Np 0 8	Hàn Quốc
+T2	V 9 19	phát triển
+T3	N 20 23	pin
+T4	N 24 32	mặt trời
+T5	V 33 35	có
+T6	N 36 40	tính
+T7	N 41 48	thẩm mỹ
+T8	A 49 52	cao
+T9	M 53 56	Một
+T10	N 57 61	nhóm
+T11	N 62 83	nhà khoa học Hàn Quốc
+T12	R 84 86	đã
+T13	V 87 97	phát triển
+T14	Nc 98 101	tấm
+T15	N 102 105	pin
+T16	N 106 116	năng lượng
+T17	N 117 125	mặt trời
+T18	R 126 132	có thể
+T19	V 133 137	phát
+T20	R 138 140	ra
+T21	A 141 146	nhiều
+T22	N 147 154	màu sắc
+T23	N 155 162	đẹp mắt
+T24	CH 163 164	,
+T25	V 165 167	mở
+T26	N 168 173	đường
+T27	E 174 177	cho
+T28	Nc 178 182	dòng
+T29	N 183 191	sản phẩm
+T30	N 192 202	năng lượng
+T31	A 203 207	sạch
+T32	P 208 211	này
+T33	V 212 214	có
+T34	N 215 219	tính
+T35	A 220 228	ứng dụng
+T36	N 229 236	thẩm mỹ
+T37	A 237 240	cao
+T38	CH 241 242	.
+T39	N 243 247	Ngày
+T40	M 248 250	11
+T41	CH 251 252	/
+T42	M 253 254	5
+T43	CH 255 256	,
+T44	N 257 270	Viện Khoa học
+T45	Cc 271 273	và
+T46	N 274 282	Kỹ thuật
+T47	Np 283 291	Hàn Quốc
+T48	CH 292 293	(
+T49	Np 294 298	KIST
+T50	CH 299 300	)
+T51	V 301 310	thông báo
+T52	N 311 315	nhóm
+T53	N 316 326	chuyên gia
+T54	E 327 329	do
+T55	N 330 353	nhà khoa học Min Byoung
+T56	CH 354 355	-
+T57	N 356 360	koun
+T58	N 361 368	dẫn đầu
+T59	R 369 371	đã
+T60	V 372 382	phát triển
+T61	Nc 383 387	loại
+T62	N 388 391	pin
+T63	N 392 402	năng lượng
+T64	N 403 411	mặt trời
+T65	N 412 419	tên gọi
+T66	Np 420 424	CIGS
+T67	CH 425 426	.
+T68	L 427 432	Những
+T69	Nc 433 436	tấm
+T70	N 437 440	pin
+T71	Np 441 445	CIGS
+T72	V 446 448	có
+T73	N 449 451	vỏ
+T74	N 452 455	bao
+T75	N 456 461	ngoài
+T76	E 462 466	bằng
+T77	N 467 471	kính
+T78	V 472 476	mang
+T79	A 477 482	nhiều
+T80	N 483 490	màu sắc
+T81	A 491 498	đẹp mắt
+T82	C 499 502	như
+T83	A 503 506	tím
+T84	CH 507 508	,
+T85	N 509 517	xanh lam
+T86	CH 518 521	...
+T87	Np 522 536	Ông Min Byoung
+T88	CH 537 538	-
+T89	N 539 543	koun
+T90	V 544 552	cho biết
+T91	L 553 556	các
+T92	Nc 557 560	tấm
+T93	N 561 564	pin
+T94	P 565 568	này
+T95	R 569 575	có thể
+T96	V 576 580	được
+T97	V 581 588	sử dụng
+T98	V 589 596	phục vụ
+T99	E 597 600	cho
+T100	A 601 606	nhiều
+T101	N 607 615	mục đích
+T102	N 616 627	công nghiệp
+T103	CH 628 629	,
+T104	N 630 636	đơn cử
+T105	C 637 640	như
+T106	V 641 644	làm
+T107	L 645 648	các
+T108	Nc 649 652	tấm
+T109	N 653 664	kính cửa sổ
+T110	E 665 668	với
+T111	A 669 674	nhiều
+T112	N 675 682	màu sắc
+T113	Cc 683 685	và
+T114	V 686 690	biến
+T115	N 691 697	cửa sổ
+T116	L 698 701	các
+T117	N 702 705	tòa
+T118	V 706 715	nhà thành
+T119	L 716 719	các
+T120	N 720 723	máy
+T121	N 724 739	phát quang điện
+T122	CH 740 741	.
+T123	V 742 752	Nghiên cứu
+T124	V 753 757	được
+T125	V 758 765	công bố
+T126	E 766 771	trong
+T127	N 772 779	tạp chí
+T128	N 780 790	khoa học "
+T129	L 791 794	Các
+T130	N 795 801	bề mặt
+T131	Cc 802 804	và
+T132	N 805 813	vật liệu
+T133	N 814 822	ứng dụng
+T134	Np 823 826	ACS
+T135	CH 827 828	"
+T136	CH 829 830	.
+T137	CH 831 832	/
+T138	CH 833 834	.
