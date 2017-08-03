@@ -1,0 +1,661 @@
+Tấn công	V
+mạng	N
+quy mô	N
+lớn	A
+chưa từng	N
+thấy	V
+,	CH
+99	M
+nước	N
+là	V
+nạn nhân	N
+Theo	E
+hãng tin	N
+CNN	Np
+,	CH
+bệnh viện	N
+,	CH
+các	L
+doanh nghiệp	N
+lớn	A
+và	Cc
+văn phòng	N
+chính phủ	N
+nhiều	A
+nước	N
+trên	E
+thế giới	N
+đã	R
+bị	V
+một	M
+đợt	N
+tấn công	V
+mạng	N
+lớn	A
+tấn công	V
+.	CH
+
+Máy tính	N
+của	E
+các	L
+đơn vị	N
+này	P
+bị	V
+một	M
+phần mềm	N
+độc hại	A
+kiểm soát	V
+cho	E
+đến	E
+khi	N
+nạn nhân	N
+trả	V
+tiền	N
+chuộc	V
+.	CH
+
+Công ty	N
+an ninh	N
+mạng	N
+Avast	Np
+cho biết	N
+,	CH
+họ	P
+đã	R
+xác định	V
+75.000	M
+vụ	N
+tấn công	V
+do	E
+phần mềm	N
+độc hại	A
+gây	V
+ra	R
+ở	E
+99	M
+quốc gia	N
+trên	E
+thế giới	N
+,	CH
+qua	E
+đó	P
+trở thành	V
+một	M
+trong	E
+những	L
+vụ	N
+tấn công	V
+mạng	N
+lớn	A
+nhất	A
+và	Cc
+ảnh hưởng	V
+nặng nề	A
+nhất	A
+trong	E
+lịch sử	N
+.	CH
+
+99	M
+quốc gia	N
+đã	R
+bị	V
+phần mềm	V
+độc hại	A
+do	E
+cơ quan	N
+tình báo	N
+Mỹ	Np
+tạo	V
+ra	R
+tấn công	V
+.	CH
+
+Avast	Np
+cho biết	V
+,	CH
+phần lớn	N
+các	L
+cuộc	N
+tấn công	V
+diễn	V
+ra	R
+ở	E
+Nga	Np
+,	CH
+Ukraine	Np
+và	Cc
+Đài Loan	Np
+.	CH
+
+Tuy nhiên	C
+các	L
+bệnh viện	N
+ở	E
+Anh	Np
+,	CH
+trường	N
+đại học	N
+Trung Quốc	Np
+và	Cc
+các	L
+tập đoàn	N
+lớn	A
+như	C
+FedEx	Np
+cho biết	V
+họ	P
+cũng	R
+bị	V
+các	L
+phần mềm	N
+này	P
+xâm nhập	V
+.	CH
+
+Cơ quan	V
+Cảnh sát	N
+Châu Âu	Np
+(	CH
+Europol	Np
+)	CH
+cho biết	A
+,	CH
+đây	P
+là	V
+cuộc	N
+tấn công	V
+lớn	A
+“	CH
+với	E
+quy mô	N
+chưa từng	N
+có	V
+và	Cc
+một	M
+chiến dịch	N
+toàn cầu	N
+nhằm	V
+điều tra	V
+vụ việc	N
+cần	V
+phải	V
+được	V
+tiến hành	V
+”	CH
+.	CH
+
+Phần mềm	N
+độc hại	N
+này	P
+có	V
+tên	N
+WannaCry	Np
+,	CH
+sau	E
+khi	N
+xâm nhập	V
+vào	E
+máy tính	N
+sẽ	R
+khóa	V
+toàn bộ	L
+các	L
+dữ liệu	N
+bên	N
+trong	A
+và	Cc
+yêu cầu	V
+chủ nhân	N
+của	E
+nó	P
+phải	R
+trả	V
+tiền	N
+để	E
+có thể	R
+kiểm soát	V
+máy tính	N
+.	CH
+
+Tháng	N
+trước	A
+,	CH
+phần mềm	N
+này	P
+bị	V
+rò rỉ	V
+ra	V
+bên	N
+ngoài	N
+và	Cc
+được	V
+cho	V
+là	C
+do	E
+Cơ quan	N
+An ninh	N
+Quốc gia	N
+Mỹ	Np
+(	CH
+NSA	Np
+)	CH
+tạo	V
+ra	R
+.	CH
+
+Phần mềm	N
+này	P
+xâm nhập	V
+vào	E
+các	L
+máy tính	N
+trên	E
+thế giới	N
+nhờ	V
+một	M
+lỗ hổng	N
+an ninh	N
+trên	E
+hệ điều hành	N
+Windows	Np
+mà	C
+hãng	N
+Microsoft	Np
+đã	R
+công bố	V
+bản vá	N
+nhằm	V
+sửa	V
+chữa	V
+lỗi	N
+vào	E
+tháng	N
+3	M
+vừa qua	X
+.	CH
+
+Máy tính	N
+nào	P
+chưa	R
+cập nhật	V
+hệ điều hành	N
+đều	R
+đứng	V
+trước	E
+nguy cơ	N
+bị	V
+xâm nhập	V
+cao	A
+.	CH
+
+Sau	E
+vụ	N
+tấn công	V
+này	P
+,	CH
+Microsoft	Np
+cho biết	V
+họ	P
+đã	R
+công bố	V
+một	M
+bản vá	N
+mới	R
+dành	V
+cho	E
+các	L
+hệ điều hành	N
+cũ	A
+hơn	A
+như	C
+Windows	Np
+XP	Np
+,	CH
+Windows	Np
+8	M
+và	Cc
+Windows Server	Np
+2003	M
+.	CH
+
+“	CH
+Chủ nhân	N
+của	E
+các	L
+máy tính	N
+bị	V
+xâm nhập	V
+có	V
+thời hạn	N
+6	M
+tiếng	Nu
+đồng hồ	N
+để	E
+trả	V
+tiền	N
+,	CH
+và	Cc
+cứ	R
+mỗi	L
+giờ	N
+khoản	N
+tiền	N
+chuộc	V
+lại	R
+tăng	V
+lên	V
+”	CH
+,	CH
+ông	Nc
+Kurt Baumgartner	Np
+,	CH
+trưởng	N
+bộ phận	N
+nghiên cứu	V
+của	E
+hãng	N
+Kaspersky	Np
+cho biết	V
+.	CH
+
+“	CH
+Phần lớn	L
+người	N
+dùng	V
+đều	R
+đã	R
+trả	V
+ít nhất	X
+300USD	N
+trong	E
+giờ	N
+đầu tiên	A
+”	CH
+.	CH
+
+Đã	R
+có	V
+16	M
+bệnh viện	N
+ở	E
+Anh	Np
+bị	V
+phần mềm	N
+này	P
+tấn công	V
+,	CH
+một vài	L
+trong	E
+số	N
+đó	P
+đã	R
+buộc	V
+phải	V
+ngừng	V
+làm	V
+thủ tục	N
+cho	E
+các	L
+bệnh nhân	N
+.	CH
+
+Trong	E
+một	M
+thông cáo	N
+báo chí	N
+,	CH
+NHS	Np
+cho	V
+biết	V
+hiện	N
+không	R
+có	V
+bằng chứng	N
+nào	P
+cho	V
+thấy	V
+thông tin	N
+của	E
+bệnh nhân	N
+đã	R
+bị	V
+tiết lộ	V
+ra	V
+bên	N
+ngoài	N
+.	CH
+
+Tại	E
+Trung Quốc	Np
+,	CH
+công ty	N
+an ninh	N
+mạng	N
+Qihoo360	Np
+đã	R
+áp dụng	V
+tình trạng	N
+“	CH
+báo động	V
+đỏ	A
+”	CH
+sau	E
+khi	N
+nhiều	A
+trường	N
+đại học	N
+và	Cc
+người	N
+dùng	V
+trên	E
+cả	P
+nước	N
+đã	R
+bị	V
+phần mềm	V
+độc hại	A
+tấn công	V
+.	CH
+
+Truyền thông	N
+Trung Quốc	Np
+cho biết	V
+máy tính	N
+ở	E
+các	L
+trạm	N
+xăng	N
+đều	R
+ngừng	V
+hoạt động	V
+,	CH
+buộc	V
+khách hàng	N
+phải	V
+trả	V
+bằng	E
+tiền mặt	N
+.	CH
+
+Công ty	N
+viễn thông	N
+Telefonica	Np
+của	E
+Tây Ban Nha	Np
+cũng	R
+là	V
+một	M
+trong	E
+số	N
+những	L
+nạn nhân	N
+của	E
+phần mềm	N
+độc hại	A
+này	P
+.	CH
+
+Cùng	C
+lúc	N
+đó	P
+,	CH
+hãng	N
+FedEx	Np
+cho biết	V
+họ	P
+đang	R
+“	CH
+bắt gặp	V
+các	L
+vấn đề	N
+cản trở	V
+hoạt động	V
+của	E
+các	L
+thiết bị	N
+dùng	V
+Windows	Np
+do	E
+phần mềm	N
+độc hại	A
+gây	V
+ra	V
+”	CH
+và	Cc
+đang	R
+cố gắng	V
+khắc phục	V
+các	L
+vấn đề	N
+này	P
+trong	E
+thời gian	N
+sớm	A
+nhất	R
+.	CH
+
+Bộ Nội vụ	N
+Nga	Np
+cũng	R
+đưa	V
+ra	R
+tuyên bố	V
+rằng	C
+máy tính	N
+của	E
+cơ quan	N
+này	P
+đã	R
+bị	V
+tấn công	V
+.	CH
+
+Họ	P
+cho	V
+biết	V
+có	V
+1	M
+%	CH
+số	N
+máy tính	N
+đã	R
+bị	V
+WannaCry	Np
+xâm nhập	V
+,	CH
+song	C
+phần mềm	N
+này	P
+đã	R
+bị	V
+“	CH
+cách ly	V
+”	CH
+và	Cc
+hiện	N
+các	L
+chuyên gia	N
+máy tính	N
+đang	R
+tìm	V
+cách	N
+tiêu diệt	V
+nó	P
+.	CH
+
+Thêm	V
+vào	E
+đó	P
+,	CH
+tập đoàn	N
+viễn thông	N
+Nga	Np
+Megafon	Np
+cũng	R
+bị	V
+phần mềm	N
+này	P
+xâm nhập	V
+,	CH
+song	C
+tình hình	N
+nay	P
+đã	R
+được	V
+kiểm soát	V
+.	CH
+
+Bộ	N
+An ninh	N
+Nội địa	N
+Mỹ	Np
+mới	R
+đây	P
+đã	R
+khuyến khích	V
+người	N
+dùng	V
+máy tính	N
+nâng	V
+cấp	N
+hệ điều hành	N
+của	E
+mình	P
+.	CH
+
+“	CH
+Chúng tôi	P
+đang	R
+chia sẻ	V
+thông tin	N
+liên quan	V
+đến	E
+vụ việc	N
+này	P
+và	Cc
+sẵn sàng	A
+hỗ trợ	V
+kỹ thuật	N
+cho	E
+bất kỳ	A
+tổ chức	V
+đoàn thể	N
+nào	P
+ở	E
+Mỹ	Np
+cũng	R
+như	C
+trên	E
+thế giới	N
+”	CH
+,	CH
+bộ	N
+này	P
+cho biết	N
+.	CH
+
+Anh Tuấn	Np
+(	CH
+lược dịch	V
+)	CH
