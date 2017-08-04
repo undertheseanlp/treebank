@@ -1,0 +1,136 @@
+T1	V 0 8	Khám phá
+T2	N 9 18	quy trình
+T4	Np 36 50	Bugatti Chiron
+T5	C 51 54	Nếu
+T6	N 55 58	bạn
+T7	V 59 61	là
+T8	N 62 67	người
+T9	V 68 73	thích
+T10	V 74 82	tìm hiểu
+T11	E 83 85	về
+T12	N 86 95	công nghệ
+T13	V 96 106	nghiên cứu
+T14	Cc 107 109	và
+T15	V 110 120	phát triển
+T16	N 121 127	xe hơi
+T17	CH 128 129	,
+T18	A 130 138	đặc biệt
+T19	C 139 141	là
+T20	L 142 147	những
+T21	N 148 153	chiếc
+T22	N 154 161	siêu xe
+T23	CH 162 163	,
+T24	C 164 167	thì
+T25	N 168 172	đoạn
+T26	N 173 177	clip
+T27	E 178 182	dưới
+T28	P 183 186	đây
+T29	R 187 190	rất
+T30	V 191 195	đáng
+T31	V 196 199	xem
+T32	CH 200 201	.
+T33	N 202 209	Kế thừa
+T35	R 229 231	đã
+T36	V 232 237	chiếm
+T37	V 238 242	được
+T38	N 243 251	trái tim
+T39	Cc 252 254	và
+T40	N 255 261	trí óc
+T41	E 262 265	của
+T42	L 266 271	những
+T43	N 272 277	người
+T44	V 278 284	hâm mộ
+T45	E 285 289	trên
+T46	A 290 294	khắp
+T47	N 295 303	thế giới
+T48	CH 304 305	,
+T49	R 306 309	lại
+T50	M 310 313	một
+T51	N 314 317	lần
+T52	R 318 321	nữa
+T53	N 322 330	thế giới
+T54	R 331 333	sẽ
+T55	R 334 337	lại
+T56	V 338 342	phải
+T57	V 343 351	mong chờ
+T58	Np 352 366	Bugatti Chiron
+T59	M 367 371	2018
+T60	A 372 375	đầy
+T61	N 376 382	tốc độ
+T62	CH 383 384	.
+T63	N 385 389	Được
+T64	V 390 398	trang bị
+T65	N 399 406	động cơ
+T66	Np 407 410	W16
+T67	M 411 414	8.0
+T68	Nu 415 418	lít
+T69	V 419 423	chạy
+T70	E 424 428	bằng
+T71	M 429 432	bốn
+T72	N 433 436	máy
+T73	V 437 441	tăng
+T74	V 442 444	áp
+T75	CH 445 446	,
+T76	Np 447 461	Bugatti Chiron
+T77	V 462 464	có
+T78	N 465 474	công suất
+T79	M 475 480	1.500
+T80	A 481 487	mã lực
+T81	C 488 493	nhưng
+T82	R 494 502	thậm chí
+T83	R 503 506	còn
+T84	A 507 515	ấn tượng
+T85	R 516 519	hơn
+T86	V 520 522	so
+T87	E 523 526	với
+T88	N 527 533	con số
+T89	A 534 542	khổng lồ
+T90	P 543 545	đó
+T91	V 546 548	là
+T92	L 549 554	những
+T93	N 555 563	thiết kế
+T94	E 564 567	của
+T95	N 568 573	chiếc
+T96	N 574 576	xe
+T97	Nb 577 581	Clip
+T98	E 582 586	dưới
+T99	P 587 590	đây
+T100	R 591 593	đã
+T101	V 594 602	cung cấp
+T102	E 603 606	cho
+T103	P 607 615	chúng ta
+T104	V 616 618	có
+T105	M 619 622	một
+T106	N 623 626	cái
+T107	V 627 631	nhìn
+T108	A 632 635	sâu
+T109	A 636 639	hơn
+T110	E 640 642	về
+T111	N 643 648	chiếc
+T112	N 649 651	xe
+T113	E 652 655	của
+T114	N 656 668	nhà sản xuất
+T115	Np 669 673	Pháp
+T116	R 674 676	đã
+T117	V 677 684	tiết lộ
+T118	E 685 688	tại
+T119	Np 689 706	Geneva Motor Show
+T120	N 707 710	năm
+T121	V 711 716	ngoái
+T122	E 717 722	trước
+T123	N 723 726	khi
+T124	V 727 734	bắt đầu
+T125	V 735 737	đi
+T126	E 738 741	vào
+T127	V 742 750	sản xuất
+T128	CH 751 752	.
+T129	CH 753 754	/
+T130	CH 755 756	.
+T131	Ny 757 760	CTV
+T132	Np 761 768	Hải Phú
+T133	CH 769 770	/
+T134	N 771 779	VOV . VN
+T34	N 210 221	huyền thoại
+T135	Np 222 228	Veyron
+T3	V 19 27	sản xuất
+T136	N 28 35	siêu xe

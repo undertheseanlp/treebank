@@ -1,0 +1,75 @@
+T1	V 0 2	Bị
+T2	V 3 5	gí
+T3	N 6 10	súng
+T4	N 11 18	uy hiếp
+T5	CH 19 20	,
+T6	N 21 26	người
+T7	N 27 29	mẹ
+T8	R 30 33	vẫn
+T9	V 34 37	lao
+T10	E 38 41	vào
+T11	V 42 45	cứu
+T12	N 46 49	con
+T13	Nb 50 56	Camera
+T14	N 57 64	an ninh
+T15	E 65 68	tại
+T16	M 69 72	một
+T17	N 73 81	cửa hàng
+T18	V 82 85	ghi
+T19	R 86 89	lại
+T20	V 90 101	khoảnh khắc
+T21	N 102 107	người
+T22	N 108 110	mẹ
+T23	V 111 113	bị
+T24	M 114 115	2
+T25	N 116 119	tên
+T26	V 120 124	cướp
+T27	V 125 129	dùng
+T28	N 130 134	súng
+T29	N 135 142	uy hiếp
+T30	C 143 148	nhưng
+T31	R 149 152	vẫn
+T32	V 153 156	lao
+T33	E 157 160	vào
+T35	E 176 178	để
+T36	V 179 182	cứu
+T37	N 183 186	đứa
+T38	N 187 190	con
+T39	M 191 192	2
+T40	N 193 197	tuổi
+T41	E 198 202	trên
+T42	N 203 207	ô tô
+T43	CH 208 209	.
+T44	N 210 217	Vụ việc
+T45	V 218 221	xảy
+T46	V 222 224	ra
+T47	N 225 231	khoảng
+T48	N 232 234	9h
+T49	N 235 238	tối
+T50	N 239 243	ngày
+T51	M 244 246	31
+T52	CH 247 248	/
+T53	M 249 250	5
+T54	X 251 258	vừa qua
+T55	E 259 262	tại
+T56	N 263 267	phía
+T57	A 268 273	trước
+T58	M 274 277	một
+T59	N 278 286	cửa hàng
+T60	V 287 290	bán
+T61	N 291 294	kem
+T62	E 295 296	ở
+T63	Np 297 303	Sumaré
+T64	CH 304 305	,
+T65	Np 306 315	Sao Paolo
+T66	CH 316 317	,
+T67	Np 318 324	Brazil
+T68	CH 325 326	.
+T72	CH 333 334	.
+T73	CH 335 336	(
+T74	E 337 341	theo
+T75	Np 342 350	Liveleak
+T76	CH 351 352	)
+T69	Np 327 332	H . N
+T34	V 161 169	tấn công
+T70	P 170 175	chúng
