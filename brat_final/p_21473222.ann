@@ -1,0 +1,146 @@
+T1	V 0 5	Xử lý
+T2	N 6 12	nghiêm
+T3	N 13 15	vụ
+T4	V 16 19	đua
+T5	N 20 22	xe
+T6	N 23 32	phân khối
+T7	A 33 36	lớn
+T8	V 37 40	gây
+T9	N 41 48	tai nạn
+T10	M 49 52	Một
+T11	N 53 57	nhóm
+T12	N 58 68	thanh niên
+T13	V 69 76	tổ chức
+T14	V 77 80	đua
+T15	N 81 83	xe
+T16	N 84 93	phân khối
+T17	A 94 97	lớn
+T18	A 98 107	trái phép
+T19	V 108 111	gây
+T20	N 112 119	tai nạn
+T21	E 120 123	tại
+T22	Np 124 134	Bình Thuận
+T23	CH 135 136	.
+T24	E 137 141	Theo
+T25	N 142 146	Cổng
+T26	Ny 147 151	TTĐT
+T27	N 152 156	tỉnh
+T28	Np 157 167	Bình Thuận
+T29	CH 168 169	,
+T30	N 170 174	ngày
+T31	M 175 176	3
+T32	CH 177 178	/
+T33	M 179 180	2
+T34	CH 181 182	,
+T35	E 183 187	trên
+T36	N 188 199	mạng xã hội
+T37	CH 200 201	(
+T38	Np 202 210	facebook
+T39	CH 211 212	)
+T40	V 213 215	có
+T41	Nb 216 220	clip
+T42	V 221 229	phản ánh
+T43	L 230 236	một số
+T44	N 237 247	thanh niên
+T45	V 248 255	tổ chức
+T46	V 256 259	đua
+T47	N 260 262	xe
+T48	N 263 268	mô tô
+T49	A 269 278	trái phép
+T50	E 279 283	trên
+T51	N 284 289	tuyến
+T52	N 290 295	đường
+T53	Np 296 305	Hòa Thắng
+T54	CH 306 307	-
+T55	Np 308 315	Hòa Phú
+T56	CH 316 317	(
+T57	A 318 321	gần
+T58	Np 322 331	Bàu Trắng
+T59	CH 332 333	,
+T60	N 334 336	xã
+T61	Np 337 346	Hòa Thắng
+T62	CH 347 348	,
+T63	N 349 354	huyện
+T64	Np 355 363	Bắc Bình
+T65	CH 364 365	)
+T66	Cc 366 368	và
+T67	V 369 372	gây
+T68	C 373 376	nên
+T69	N 377 384	tai nạn
+T70	CH 385 386	.
+T71	P 387 390	Đây
+T72	V 391 393	là
+T73	N 394 401	hành vi
+T74	V 402 409	vi phạm
+T75	N 410 419	pháp luật
+T76	CH 420 421	.
+T77	E 422 425	Qua
+T78	V 426 433	xem xét
+T79	CH 434 435	,
+T80	N 436 444	Chủ tịch
+T81	Ny 445 449	UBND
+T82	N 450 454	tỉnh
+T83	Np 455 465	Bình Thuận
+T84	V 466 473	yêu cầu
+T85	N 474 481	Công an
+T86	N 482 486	tỉnh
+T87	V 487 494	chỉ đạo
+T88	L 495 498	các
+T89	N 499 516	cơ quan chức năng
+T90	V 517 526	tiến hành
+T91	V 527 534	xem xét
+T92	Cc 535 537	và
+T93	V 538 543	xử lý
+T94	A 544 550	nghiêm
+T95	N 551 558	hành vi
+T96	E 559 563	trên
+T97	V 564 568	theo
+T98	N 569 577	quy định
+T99	N 578 587	pháp luật
+T100	CH 588 589	.
+T101	R 590 599	Đồng thời
+T102	V 600 608	phối hợp
+T103	E 609 612	với
+T104	L 613 616	các
+T105	N 617 627	địa phương
+T106	V 628 638	tăng cường
+T107	V 639 647	công tác
+T108	V 648 656	tuần tra
+T109	CH 657 658	,
+T110	V 659 668	kiểm soát
+T111	CH 669 670	,
+T112	V 671 676	xử lý
+T113	A 677 683	nghiêm
+T114	L 684 689	những
+T115	N 690 697	hành vi
+T116	V 698 701	đua
+T117	N 702 704	xe
+T118	A 705 714	trái phép
+T119	X 715 722	nhất là
+T120	L 723 726	các
+T121	N 727 732	tuyến
+T122	N 733 738	đường
+T123	V 739 743	được
+T124	N 744 752	Nhà nước
+T125	V 753 759	đầu tư
+T126	CH 760 761	,
+T127	V 762 769	mở rộng
+T128	V 770 772	có
+T129	N 773 779	mật độ
+T130	N 780 785	người
+T131	V 786 794	tham gia
+T132	N 795 805	giao thông
+T133	A 806 810	thấp
+T134	CH 811 812	.
+T135	N 813 820	Kết quả
+T136	V 821 830	thực hiện
+T137	V 831 838	báo cáo
+T138	Ny 839 843	UBND
+T139	N 844 848	tỉnh
+T140	E 849 854	trước
+T141	N 855 859	ngày
+T142	M 860 862	15
+T143	CH 863 864	/
+T144	M 865 866	2
+T145	V 867 870	tới
+T146	CH 871 872	.

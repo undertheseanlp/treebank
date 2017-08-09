@@ -1,0 +1,45 @@
+T1	N 0 3	Nhà
+T2	E 4 8	giữa
+T3	N 9 15	Thủ đô
+T4	V 16 20	biến
+T5	V 21 26	thành
+T6	N 27 30	hầm
+T7	E 31 34	sau
+T8	N 35 40	dự án
+T9	N 41 50	đường sắt
+T10	Np 51 55	Nhổn
+T11	CH 56 57	-
+T14	A 68 73	Nhiều
+T15	N 74 81	nhà dân
+T16	E 82 85	tại
+T17	N 86 89	khu
+T18	N 90 93	đất
+T19	Np 94 97	DD1
+T20	CH 98 99	(
+T21	N 100 102	tổ
+T22	M 103 104	3
+T23	CH 105 106	,
+T24	N 107 113	phường
+T25	Np 114 125	Xuân Phương
+T26	CH 126 127	,
+T27	N 128 136	quận Nam
+T30	CH 145 146	,
+T31	Np 147 153	Hà Nội
+T32	CH 154 155	)
+T33	V 156 158	bị
+T34	V 159 163	biến
+T35	V 164 169	thành
+T36	N 170 173	hầm
+T37	N 174 177	khi
+T38	N 178 181	cốt
+T39	N 182 185	nền
+T40	N 186 191	đường
+T41	N 192 201	quy hoạch
+T42	A 202 205	cao
+T43	R 206 209	hơn
+T44	T 210 212	cả
+T45	Nu 213 216	mét
+T46	CH 217 218	.
+T47	Np 219 227	Hữu Dánh
+T12	Np 58 67	Ga Hà Nội
+T13	Np 137 144	Từ Liêm
