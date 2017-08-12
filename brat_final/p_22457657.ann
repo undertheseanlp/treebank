@@ -1,0 +1,52 @@
+T1	M 0 3	Hai
+T2	N 4 9	tuyến
+T3	N 10 15	đường
+T4	M 16 20	chục
+T5	M 21 26	nghìn
+T6	M 27 29	tỷ
+T7	Nu 30 34	đồng
+T8	R 35 38	sắp
+T9	V 39 43	được
+T10	V 44 52	xây dựng
+T11	E 53 54	ở
+T12	Np 55 61	Hà Nội
+T13	Np 62 71	Hoàng Cầu
+T14	CH 72 73	-
+T15	Np 74 82	Voi Phục
+T16	CH 83 84	(
+T17	N 85 93	Vành đai
+T18	M 94 95	1
+T19	CH 96 97	)
+T20	CH 98 99	;
+T21	Np 100 114	Tây Thăng Long
+T22	V 115 117	là
+T23	M 118 121	hai
+T24	N 122 127	tuyến
+T25	N 128 138	huyết mạch
+T26	V 139 141	có
+T27	N 142 146	tổng
+T28	N 147 150	mức
+T29	V 151 157	đầu tư
+T30	T 158 160	cả
+T31	M 161 165	chục
+T32	M 166 171	nghìn
+T33	M 172 174	tỷ
+T34	Nu 175 179	đồng
+T35	R 180 183	sắp
+T36	V 184 188	được
+T37	V 189 197	xây dựng
+T38	E 198 199	ở
+T39	N 200 206	thủ đô
+T40	CH 207 208	.
+T41	N 209 212	Ảnh
+T42	V 213 216	cắt
+T43	E 217 219	từ
+T44	Nb 220 224	clip
+T45	CH 225 226	.
+T46	E 227 231	Theo
+T47	Np 232 242	Tiến Thành
+T48	CH 243 244	-
+T49	Np 245 250	Bá Đô
+T50	CH 251 252	(
+T51	Ny 253 256	VNE
+T52	CH 257 258	)
