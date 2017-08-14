@@ -1,0 +1,466 @@
+Hà Nội	Np
+triển khai	V
+xây dựng	V
+hệ thống	N
+giao thông	N
+thông minh	A
+Công ty	N
+Hệ thống	N
+thông tin	N
+FPT	Np
+(	CH
+Tập đoàn	N
+FPT	Np
+)	CH
+vừa	R
+đề xuất	V
+xây dựng	V
+hệ thống	N
+giao thông	N
+thông minh	A
+cho	E
+thành phố	N
+Hà Nội	Np
+với	E
+9	M
+thành phần	N
+,	CH
+gồm	V
+10	M
+hạng mục	N
+.	CH
+
+Công ty	N
+Hệ thống	N
+thông tin	N
+FPT	Np
+(	CH
+Tập đoàn	N
+FPT	Np
+)	CH
+vừa	R
+đề xuất	V
+xây dựng	V
+hệ thống	N
+giao thông	N
+thông minh	A
+cho	E
+thành phố	N
+Hà Nội	Np
+với	E
+9	M
+thành phần	N
+,	CH
+gồm	V
+10	M
+hạng mục	N
+và	Cc
+đã	R
+được	V
+UBND	Np
+thành phố	N
+Hà Nội	Np
+thống nhất	V
+triển khai	V
+.	CH
+
+Hệ thống	N
+giao thông	N
+thông minh	A
+này	P
+được	V
+xây dựng	V
+dựa	V
+trên	E
+nền tảng	N
+cốt lõi	N
+là	V
+hệ thống	N
+Trung tâm	N
+Chỉ huy	V
+điều hành	V
+giao thông	N
+thông minh	A
+(	CH
+một	M
+trong	E
+những	L
+hợp phần	N
+của	E
+hệ thống	N
+Trung tâm	N
+Giám sát	V
+điều hành	V
+tập trung	V
+của	E
+Hà Nội	Np
+)	CH
+và	Cc
+9	M
+thành phần	N
+(	CH
+10	M
+hạng mục	N
+)	CH
+như	C
+:	CH
+Trung tâm	N
+chỉ huy	V
+điều hành	V
+;	CH
+hệ thống	N
+giám sát	V
+và	Cc
+thu thập	V
+thông tin	N
+giao thông	N
+;	CH
+hệ thống	N
+thông tin	N
+giao thông	N
+;	CH
+hệ thống	N
+điều khiển	V
+giao thông	N
+;	CH
+hệ thống	N
+bảo đảm	V
+an ninh	N
+,	CH
+an toàn	A
+;	CH
+hệ thống	N
+quản lý	V
+tình huống	N
+khẩn cấp	A
+;	CH
+hệ thống	N
+quản lý	V
+kết cấu	N
+hạ tầng	N
+giao thông	N
+.	CH
+
+Theo	E
+đề xuất	V
+của	E
+FPT	Np
+,	CH
+trong	E
+năm	N
+2017	M
+sẽ	R
+triển khai	V
+4	M
+hợp phần	N
+hệ thống	N
+giám sát	V
+và	Cc
+thu thập	V
+thông tin	N
+giao thông	N
+;	CH
+hệ thống	N
+thông tin	N
+giao thông	N
+;	CH
+hệ thống	N
+quản lý	V
+kết cấu	N
+hạ tầng	N
+giao thông	N
+;	CH
+hệ thống	N
+quản lý	V
+vận tải	V
+hành khách	N
+công cộng	A
+bằng	E
+xe buýt	N
+.	CH
+
+Cụ thể	A
+,	CH
+từ	E
+tháng	N
+6	M
+đến	E
+tháng	N
+11	M
+/	CH
+2017	M
+xây dựng	V
+hệ thống	N
+giám sát	V
+và	Cc
+thu thập	V
+thông tin	N
+giao thông	N
+(	CH
+từ	E
+hệ thống	N
+camera	Ny
+giám sát	V
+và	Cc
+thiết bị	N
+GPS	Np
+...	CH
+
+)	CH
+.	CH
+
+Hệ thống	N
+thông tin	N
+giao thông	N
+,	CH
+với	E
+bản đồ	N
+giao thông	N
+và	Cc
+tích hợp	V
+dữ liệu	N
+,	CH
+ứng dụng	N
+di động	V
+,	CH
+cổng	N
+thông tin	N
+giao thông	N
+tập trung	V
+và	Cc
+hệ thống	N
+quản lý	V
+kết cấu	N
+hạ tầng	N
+giao thông	N
+dự kiến	V
+có thể	R
+phục vụ	V
+người dân	N
+vào	E
+dịp	N
+2/9/2017	M
+.	CH
+
+Hệ thống	N
+quản lý	V
+vận tải	V
+hành khách	N
+công cộng	A
+bằng	E
+xe buýt	N
+dự kiến	V
+xong	V
+trong	E
+tháng	N
+10	M
+/	CH
+2017	M
+.	CH
+
+Theo	E
+kế hoạch	N
+,	CH
+tháng	N
+12	M
+/	CH
+2017	M
+sẽ	R
+nghiệm thu	V
+và	Cc
+vận hành	V
+chính thức	A
+giai đoạn	N
+1	M
+của	E
+đề án	N
+.	CH
+
+Về	V
+phương án	N
+tài chính	N
+,	CH
+FPT	Np
+đề xuất	V
+,	CH
+trong	E
+giai đoạn	N
+1	M
+(	CH
+năm	N
+2017	M
+)	CH
+,	CH
+Hà Nội	Np
+đầu tư	V
+theo	E
+hình thức	N
+thuê	V
+dịch vụ	N
+công nghệ thông tin	Np
+để	E
+có thể	R
+nhanh chóng	A
+hình thành	V
+nền tảng	N
+cơ bản	A
+của	E
+hệ thống	N
+giao thông	N
+thông minh	A
+.	CH
+
+FPT	Np
+chịu	V
+trách nhiệm	N
+từ	E
+đầu tư	V
+hệ thống	N
+,	CH
+bảo đảm	V
+vận hành	V
+đến	E
+bảo trì	N
+,	CH
+bảo dưỡng	N
+.	CH
+
+Giai đoạn	N
+2	M
+từ	E
+năm	N
+2018	M
+đến	E
+2020	M
+,	CH
+thực hiện	V
+các	L
+dự án	N
+đầu tư	V
+theo	E
+hình thức	N
+đối tác	N
+công	N
+-	CH
+tư	M
+.	CH
+
+Hiện nay	N
+,	CH
+thành phố	N
+Hà Nội	Np
+đang	R
+hướng	V
+tới	E
+xây dựng	V
+thành phố	N
+thông minh	A
+để	E
+giải quyết	V
+các	L
+vấn đề	N
+cấp bách	A
+về	E
+giao thông	N
+,	CH
+môi trường	N
+,	CH
+y tế	N
+...	CH
+
+Việc	N
+xây dựng	V
+hệ thống	N
+giao thông	N
+thông minh	A
+sẽ	R
+giúp	V
+thành phố	N
+trong	E
+việc	N
+cung cấp	V
+nhiều	A
+giải pháp	N
+khác	A
+nhau	N
+nhằm	V
+nâng	V
+cao	A
+chất lượng	N
+đi	V
+lại	R
+trên	E
+các	L
+loại hình	N
+giao thông	N
+.	CH
+
+Đồng thời	R
+,	CH
+cung cấp	V
+các	L
+giải pháp	N
+giảm	V
+ùn tắc	V
+giao thông	N
+thông qua	V
+các	L
+kế hoạch	N
+di chuyển	V
+tốt	A
+hơn	R
+;	CH
+cung cấp	V
+thông tin	N
+đầy đủ	A
+và	Cc
+chính xác	A
+cho	E
+người	N
+tham gia	V
+giao thông	N
+,	CH
+giải quyết	V
+các	L
+vấn đề	N
+xảy	V
+ra	R
+trên	E
+thực tế	N
+nhanh	A
+hơn	R
+.	CH
+
+Bên cạnh	N
+đó	P
+,	CH
+giảm thiểu	N
+các	L
+tác động	N
+xấu	A
+của	E
+giao thông	N
+đến	E
+môi trường	N
+thông qua	V
+tối ưu hóa	A
+di chuyển	V
+,	CH
+giảm	V
+ùn tắc	N
+và	Cc
+tai nạn	N
+,	CH
+nâng	V
+cao	A
+chất lượng	N
+phương tiện	N
+cũng	R
+như	C
+hệ thống	N
+quản lý	V
+...	CH
+
+/	CH
+.	CH
+
