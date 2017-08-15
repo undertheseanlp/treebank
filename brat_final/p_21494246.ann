@@ -1,0 +1,195 @@
+T1	N 0 8	Lập luận
+T2	N 9 13	phía
+T3	Nc 14 17	ông
+T4	Np 18 23	Trump
+T5	V 24 26	bị
+T6	V 27 30	bác
+T7	E 31 34	tại
+T8	N 35 38	tòa
+T9	V 39 48	phúc thẩm
+T10	N 49 59	Xoay quanh
+T12	N 73 82	nhập cảnh
+T13	E 83 86	của
+T14	N 87 97	Tổng thống
+T15	Np 98 100	Mỹ
+T16	Np 101 113	Donald Trump
+T17	CH 114 115	,
+T18	N 116 119	Tòa
+T19	V 120 129	phúc thẩm
+T20	N 130 139	liên bang
+T21	N 140 147	khu vực
+T22	M 148 149	9
+T23	CH 150 151	(
+T24	N 152 155	ảnh
+T25	CH 156 157	)
+T26	E 158 161	tại
+T27	Ny 162 164	TP
+T28	Np 165 178	San Francisco
+T29	N 179 183	ngày
+T30	M 184 185	8
+T31	CH 186 187	-
+T32	M 188 189	2
+T33	R 190 192	đã
+T34	V 193 199	bác bỏ
+T35	N 200 208	lập luận
+T36	N 209 216	biện hộ
+T37	N 217 225	lệnh cấm
+T38	C 226 228	là
+T39	E 229 231	để
+T40	V 232 239	đối phó
+T41	E 240 243	với
+T42	N 244 251	nguy cơ
+T43	V 252 260	khủng bố
+T44	CH 261 262	.
+T45	C 263 268	Nhưng
+T46	N 269 277	bên cạnh
+T47	P 278 280	đó
+T48	CH 281 282	,
+T49	N 283 286	tòa
+T50	R 287 291	cũng
+T51	V 292 300	chất vấn
+T52	L 301 304	các
+T53	N 305 312	luật sư
+T54	N 313 321	đại diện
+T55	N 322 325	bên
+T56	N 326 335	khởi kiện
+T57	N 336 344	sắc lệnh
+T58	V 345 348	cho
+T59	C 349 353	rằng
+T60	N 354 362	lệnh cấm
+T61	R 363 365	đã
+T62	Z 366 373	vi hiến
+T63	N 374 377	khi
+T64	V 378 382	nhắm
+T65	E 383 386	đến
+T66	N 387 392	người
+T67	Np 393 401	Hồi giáo
+T68	CH 402 403	,
+T69	N 404 412	hãng tin
+T70	Ny 413 415	AP
+T71	N 416 424	cho biết
+T72	CH 425 426	.
+T75	E 437 440	tại
+T76	Np 441 454	San Francisco
+T77	V 455 464	tập trung
+T78	V 465 472	xem xét
+T79	N 473 483	phán quyết
+T80	N 484 488	ngày
+T81	M 489 490	3
+T82	CH 491 492	-
+T83	M 493 494	2
+T84	E 495 498	của
+T85	N 499 508	Thẩm phán
+T86	N 509 518	liên bang
+T87	Np 519 531	James Robart
+T88	E 532 535	của
+T89	Ny 536 538	TP
+T90	Np 539 545	Seatle
+T91	V 546 556	quyết định
+T92	A 557 560	tạm
+T93	V 561 565	dừng
+T94	V 566 574	thực thi
+T95	N 575 583	lệnh cấm
+T96	V 584 593	nhập cảnh
+T97	E 594 597	của
+T98	Nc 598 601	ông
+T99	Np 602 607	Trump
+T100	E 608 612	trên
+T101	N 613 622	toàn quốc
+T102	E 623 625	vì
+T103	N 626 634	sắc lệnh
+T104	P 635 638	này
+T105	R 639 643	đang
+T106	V 644 646	bị
+T107	V 647 651	kiện
+T108	CH 652 653	.
+T109	C 654 663	Tuy nhiên
+T110	CH 664 665	,
+T111	L 666 669	các
+T112	N 670 679	thẩm phán
+T113	E 680 683	của
+T114	N 684 687	tòa
+T115	V 688 697	phúc thẩm
+T116	R 698 702	cũng
+T117	V 703 711	chất vấn
+T118	R 712 716	thêm
+T119	L 717 720	các
+T120	N 721 727	vấn đề
+T121	V 728 737	liên quan
+T122	E 738 741	đến
+T123	N 742 751	hiến pháp
+T124	N 752 762	xung quanh
+T125	N 763 771	sắc lệnh
+T126	E 772 775	của
+T127	Nc 776 779	ông
+T128	Np 780 785	Trump
+T129	CH 786 787	.
+T132	V 798 802	được
+T133	V 803 812	thực hiện
+T134	E 813 816	qua
+T135	N 817 827	điện thoại
+T136	Cc 828 830	và
+T137	V 831 835	được
+T138	V 836 840	phát
+T139	A 841 850	trực tiếp
+T140	E 851 855	trên
+T141	L 856 859	các
+T142	N 860 864	kênh
+T143	N 865 876	truyền hình
+T144	CH 877 878	,
+T145	L 879 882	các
+T146	N 883 892	trang báo
+T147	N 893 897	mạng
+T148	Cc 898 900	và
+T149	A 901 906	nhiều
+T150	N 907 918	phương tiện
+T151	V 919 931	truyền thông
+T152	N 932 938	xã hội
+T153	CH 939 940	.
+T154	L 941 944	Các
+T155	N 945 957	chương trình
+T156	R 958 960	đã
+T157	V 961 968	thu hút
+T158	N 969 974	lượng
+T159	N 975 983	khán giả
+T160	A 984 992	khổng lồ
+T161	E 993 996	với
+T162	A 997 1000	gần
+T163	M 1001 1008	130.000
+T164	N 1009 1014	người
+T165	V 1015 1023	truy cập
+T166	N 1024 1033	tài khoản
+T167	Np 1034 1041	Youtube
+T168	E 1042 1045	của
+T169	N 1046 1051	phiên
+T170	N 1052 1055	tòa
+T171	E 1056 1058	để
+T172	V 1059 1068	lắng nghe
+T173	L 1069 1072	các
+T174	N 1073 1083	tranh luận
+T175	CH 1084 1085	.
+T176	N 1086 1096	Phán quyết
+T177	E 1097 1100	của
+T178	N 1101 1104	tòa
+T179	V 1105 1114	phúc thẩm
+T180	V 1115 1122	dự kiến
+T181	R 1123 1125	sẽ
+T182	V 1126 1130	được
+T183	V 1131 1138	công bố
+T184	E 1139 1142	vào
+T185	N 1143 1152	cuối tuần
+T186	P 1153 1156	này
+T187	CH 1157 1158	,
+T188	N 1159 1173	phát ngôn viên
+T189	E 1174 1177	của
+T190	N 1178 1181	tòa
+T191	CH 1182 1183	,
+T192	Nc 1184 1187	ông
+T193	Np 1188 1200	David Madden
+T194	CH 1201 1202	,
+T195	V 1203 1211	cho biết
+T196	CH 1212 1213	.
+T130	N 788 797	Phiên tòa
+T73	N 427 436	Phiên tòa
+T11	N 60 68	sắc lệnh
+T74	V 69 72	cấm

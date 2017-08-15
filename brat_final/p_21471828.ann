@@ -1,0 +1,124 @@
+T1	N 0 7	Tai nạn
+T2	N 8 18	giao thông
+T3	E 19 20	ở
+T4	Np 21 29	Honduras
+T5	CH 30 31	,
+T6	M 32 34	16
+T7	N 35 40	người
+T8	V 41 48	tử vong
+T9	X 49 56	Ít nhất
+T10	M 57 59	16
+T11	N 60 65	người
+T12	R 66 68	đã
+T13	V 69 79	thiệt mạng
+T14	Cc 80 82	và
+T15	M 83 85	34
+T16	N 86 91	người
+T17	V 92 101	bị thương
+T18	E 102 107	trong
+T19	M 108 111	một
+T20	N 112 114	vụ
+T21	N 115 122	tai nạn
+T22	A 123 135	nghiêm trọng
+T23	E 136 140	giữa
+T24	M 141 144	một
+T25	N 145 152	xe buýt
+T26	Cc 153 155	và
+T27	M 156 159	một
+T28	N 160 166	xe tải
+T29	E 167 168	ở
+T30	N 169 176	ngoại ô
+T31	N 177 183	Thủ đô
+T32	Np 184 195	Tegucigalpa
+T33	E 196 199	của
+T34	Np 200 208	Honduras
+T35	E 209 212	vào
+T36	N 213 222	cuối tuần
+T37	R 223 226	qua
+T38	CH 227 228	.
+T39	N 229 240	Hiện trường
+T40	N 241 243	vụ
+T41	N 244 251	tai nạn
+T42	Np 252 266	Oscar Triminio
+T43	CH 267 268	-
+T44	N 269 274	người
+T45	V 275 284	phát ngôn
+T46	E 285 288	của
+T47	N 289 296	cơ quan
+T48	V 297 300	cứu
+T49	N 301 304	hỏa
+T50	N 305 313	cho biết
+T51	CH 314 315	,
+T52	N 316 318	số
+T53	N 319 324	người
+T54	V 325 332	tử vong
+T55	R 333 339	có thể
+T56	V 340 344	tăng
+T57	R 345 348	lên
+T58	E 349 352	bởi
+T59	L 353 359	một số
+T60	N 360 370	hành khách
+T61	R 371 374	vẫn
+T62	V 375 382	mắc kẹt
+T63	E 383 388	trong
+T64	N 389 393	đống
+T65	N 394 400	đổ nát
+T66	E 401 403	do
+T67	N 404 406	vụ
+T68	N 407 414	tai nạn
+T69	CH 415 416	.
+T70	E 417 421	Theo
+T71	Nc 422 425	ông
+T72	Np 426 434	Triminio
+T73	CH 435 436	,
+T74	L 437 442	những
+T75	N 443 448	người
+T76	V 449 458	bị thương
+T77	R 459 461	đã
+T78	V 462 466	được
+T79	V 467 470	đưa
+T80	E 471 474	tới
+T81	M 475 478	một
+T82	N 479 488	bệnh viện
+T83	E 489 494	trong
+T84	N 495 504	thành phố
+T85	CH 505 506	.
+T86	N 507 515	Cảnh sát
+T87	V 516 524	cho biết
+T88	CH 525 526	,
+T89	N 527 532	người
+T91	N 544 551	bỏ chạy
+T92	V 552 558	sau vụ
+T93	N 559 566	tai nạn
+T94	N 567 570	hôm
+T95	M 571 572	5
+T96	CH 573 574	-
+T97	M 575 576	2
+T98	E 577 581	trên
+T99	M 582 585	một
+T100	N 586 591	đường
+T101	N 592 599	cao tốc
+T102	V 600 603	nối
+T103	N 604 610	thủ đô
+T104	E 611 614	với
+T105	N 615 619	miền
+T106	N 620 623	nam
+T107	E 624 627	của
+T108	Np 628 636	Honduras
+T109	CH 637 638	.
+T110	E 639 643	Theo
+T111	N 644 653	quan chức
+T112	N 654 663	chính phủ
+T113	Np 664 680	Lisandro Rosales
+T114	CH 681 682	,
+T115	N 683 692	giới chức
+T116	R 693 697	đang
+T117	V 698 706	xác định
+T118	N 707 718	nguyên nhân
+T119	N 719 724	chiếc
+T120	N 725 731	xe tải
+T121	V 732 735	mất
+T122	N 736 739	lái
+T123	CH 740 741	.
+T90	V 533 536	lái
+T124	N 537 543	xe tải
