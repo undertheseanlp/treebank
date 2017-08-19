@@ -38,6 +38,7 @@ def check_missing_token(corpus, file_id):
 
 
 def make_treebank_file(brat_annotation_file, treebank_folder="."):
+
     df = pd.read_csv(brat_annotation_file, sep="\t", names=["id", "token", "word"], quoting=QUOTE_NONE)
     df["tag"] = df.apply(lambda row: row["token"].split(" ")[0], axis=1)
     df["start"] = df.apply(lambda row: int(row["token"].split(" ")[1]), axis=1)
