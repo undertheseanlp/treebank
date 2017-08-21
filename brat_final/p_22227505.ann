@@ -1,0 +1,103 @@
+T1	N 0 5	Chiến
+T2	N 6 8	cơ
+T3	Np 9 19	Trung Quốc
+T4	V 20 28	tập trận
+T5	V 29 32	bắn
+T6	N 33 36	đạn
+T7	R 37 41	thật
+T8	E 42 43	ở
+T9	Np 44 53	Biển Đông
+T10	N 54 65	Truyền hình
+T11	N 66 76	trung ương
+T12	Np 77 87	Trung Quốc
+T13	CH 88 89	(
+T14	Ny 90 94	CCTV
+T15	CH 95 96	)
+T16	R 97 100	mới
+T17	P 101 104	đây
+T18	V 105 109	phát
+T19	V 110 112	đi
+T20	N 113 117	cảnh
+T21	V 118 122	quay
+T22	E 123 125	về
+T23	M 126 129	một
+T24	N 130 134	cuộc
+T25	V 135 143	tập trận
+T26	V 144 147	bắn
+T27	N 148 151	đạn
+T28	A 152 156	thật
+T29	E 157 160	của
+T30	N 161 165	nước
+T31	P 166 169	này
+T32	E 170 171	ở
+T33	Np 172 181	Biển Đông
+T34	CH 182 183	.
+T35	L 184 187	Các
+T36	N 188 197	tiêm kích
+T37	Np 198 212	Flying Leopard
+T38	E 213 216	của
+T39	Np 217 227	Trung Quốc
+T40	R 228 230	đã
+T41	V 231 239	tham gia
+T42	V 240 248	diễn tập
+T43	CH 249 250	.
+T44	L 251 254	Các
+T45	N 255 263	phi công
+T46	R 264 268	cũng
+T47	V 269 277	diễn tập
+T48	V 278 281	bắn
+T49	N 282 289	tên lửa
+T50	Cc 290 292	và
+T51	N 293 296	mìn
+T52	N 297 305	hải quân
+T53	CH 306 307	.
+T54	L 308 311	Các
+T55	N 312 321	tiêm kích
+T56	CH 322 323	'
+T57	Np 324 338	Flying Leopard
+T58	CH 339 340	'
+T59	E 341 344	của
+T60	Np 345 347	TQ
+T61	R 348 350	đã
+T62	V 351 359	tham gia
+T63	V 360 368	diễn tập
+T64	Nc 369 373	Cuộc
+T65	V 374 382	tập trận
+T66	V 383 386	bắn
+T67	N 387 390	đạn
+T68	R 391 395	thật
+T69	E 396 398	do
+T70	M 399 402	một
+T71	N 403 410	phi đội
+T72	N 411 420	tiêm kích
+T73	V 421 426	thuộc
+T74	N 427 434	Hạm đội
+T75	Np 435 442	Nam Hải
+T76	V 443 452	thực hiện
+T77	CH 453 454	.
+T78	N 455 462	Bản tin
+T79	R 463 468	không
+T80	V 469 475	đề cập
+T81	E 476 479	tới
+T82	N 480 488	địa điểm
+T83	V 489 497	tập trận
+T84	CH 498 499	,
+T85	R 500 503	chỉ
+T86	V 504 507	nói
+T87	P 508 511	đây
+T88	V 512 514	là
+T89	N 515 524	hoạt động
+T90	V 525 535	huấn luyện
+T91	E 536 540	nhằm
+T92	N 541 549	mục tiêu
+T93	N 550 559	hiện thực
+T94	A 560 563	hơn
+T95	Cc 564 566	và
+T96	V 567 576	tập trung
+T97	E 577 580	vào
+T98	L 581 586	những
+T99	N 587 597	tình huống
+T100	A 598 604	cụ thể
+T101	CH 605 606	.
+T102	E 607 611	Theo
+T103	Np 612 622	Vietnamnet

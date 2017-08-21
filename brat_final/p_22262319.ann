@@ -1,0 +1,67 @@
+T1	N 0 7	Cao thủ
+T2	Np 8 17	Thiếu Lâm
+T3	E 18 20	để
+T4	V 21 26	khoan
+T5	N 27 34	bê tông
+T6	V 35 40	khoan
+T7	E 41 44	vào
+T8	N 45 48	đầu
+T9	Np 49 57	Zhao Rui
+T10	CH 58 59	,
+T11	N 60 70	chàng trai
+T12	R 71 74	chỉ
+T13	R 75 78	mới
+T14	M 79 81	24
+T15	N 82 86	tuổi
+T16	R 87 89	đã
+T17	V 90 92	là
+T18	M 93 96	một
+T19	N 97 102	võ sư
+T20	Np 103 112	Thiếu Lâm
+T21	E 113 116	với
+T24	N 126 134	khí công
+T25	A 135 141	thượng
+T26	A 142 146	thừa
+T27	CH 147 148	,
+T28	N 149 158	máy khoan
+T29	N 159 166	bê tông
+T30	R 167 171	cũng
+T31	R 172 181	không thể
+T32	V 182 187	xuyên
+T33	A 188 193	thủng
+T34	N 194 201	da thịt
+T35	Nc 202 205	anh
+T36	CH 206 207	.
+T37	M 208 211	Một
+T38	N 212 221	thanh sắt
+T39	CH 222 223	,
+T40	C 224 227	hay
+T41	R 228 236	thậm chí
+T42	M 237 240	một
+T43	N 241 246	chiếc
+T44	N 247 256	máy khoan
+T45	N 257 264	bê tông
+T46	R 265 269	cũng
+T47	R 270 279	không thể
+T48	V 280 285	xuyên
+T49	A 286 291	thủng
+T50	N 292 299	da thịt
+T51	E 300 303	của
+T52	Np 304 312	Zhao Rui
+T53	CH 313 314	,
+T54	M 315 318	một
+T55	N 319 324	võ sư
+T56	Np 325 334	Thiếu Lâm
+T57	M 335 337	24
+T58	N 338 342	tuổi
+T59	V 343 349	sở hữu
+T60	R 350 355	tuyệt
+T61	A 356 358	kỹ
+T62	N 359 367	khí công
+T63	V 368 371	đạt
+T64	E 372 375	đến
+T65	N 376 384	trình độ
+T67	A 392 396	thừa
+T68	CH 397 398	.
+T66	A 385 391	thượng
+T22	N 117 125	tuyệt kỹ
