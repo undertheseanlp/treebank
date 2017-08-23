@@ -1,0 +1,187 @@
+T1	N 0 9	Chính phủ
+T2	V 10 17	yêu cầu
+T3	V 18 25	mở rộng
+T4	N 26 31	quyền
+T5	V 32 38	tự chủ
+T6	V 39 49	tuyển sinh
+T7	N 50 59	Chính phủ
+T8	V 60 63	nêu
+T9	R 64 66	ra
+T10	V 67 74	yêu cầu
+T11	P 75 78	này
+T12	E 79 82	với
+T15	E 106 109	tại
+T16	N 110 120	Nghị quyết
+T17	M 121 123	19
+T18	CH 124 125	-
+T19	M 126 130	2017
+T20	CH 131 132	/
+T21	Np 133 135	NQ
+T22	CH 136 137	-
+T23	Np 138 140	CP
+T24	N 141 145	ngày
+T25	N 146 154	6/2/2017
+T26	CH 155 156	.
+T27	E 157 161	Theo
+T28	P 162 164	đó
+T29	CH 165 166	,
+T30	N 167 176	Chính phủ
+T31	V 177 184	yêu cầu
+T34	V 208 215	mở rộng
+T35	N 216 221	quyền
+T36	V 222 228	tự chủ
+T37	V 229 239	tuyển sinh
+T38	CH 240 241	,
+T39	V 242 248	tự chủ
+T40	N 249 258	tài chính
+T41	CH 259 260	,
+T42	V 261 267	tự chủ
+T43	E 268 270	về
+T44	N 271 283	chương trình
+T45	CH 284 285	,
+T46	N 286 294	nội dung
+T47	V 295 302	đào tạo
+T48	Cc 303 305	và
+T49	V 306 314	khảo thí
+T50	E 315 318	cho
+T51	L 319 322	các
+T52	N 323 328	cơ sở
+T53	N 329 337	giáo dục
+T54	V 338 345	đào tạo
+T55	CH 346 347	.
+T56	V 348 351	Tạo
+T57	N 352 361	điều kiện
+T58	A 362 371	thuận lợi
+T59	V 372 380	cung ứng
+T60	N 381 388	dịch vụ
+T61	V 389 397	giáo dục
+T62	V 398 405	đào tạo
+T63	E 406 410	theo
+T64	N 411 417	cơ chế
+T65	N 418 428	thị trường
+T66	V 429 432	gắn
+T67	E 433 436	với
+T68	N 437 441	việc
+T69	V 442 451	kiểm soát
+T70	A 452 460	chặt chẽ
+T71	N 461 471	chất lượng
+T72	Cc 472 474	và
+T73	N 475 481	đầu ra
+T74	CH 482 483	;
+T75	V 484 492	đẩy mạnh
+T76	N 493 501	ứng dụng
+T77	N 502 521	công nghệ thông tin
+T78	E 522 527	trong
+T79	V 528 531	dạy
+T80	Cc 532 534	và
+T81	V 535 538	học
+T82	E 539 542	tại
+T83	L 543 546	các
+T84	N 547 552	cơ sở
+T85	N 553 561	giáo dục
+T86	CH 562 563	.
+T87	V 564 572	Đẩy mạnh
+T88	V 573 579	tự chủ
+T89	N 580 587	đại học
+T90	E 588 590	để
+T91	V 591 595	nâng
+T92	A 596 599	cao
+T93	N 600 610	chất lượng
+T94	V 611 618	đào tạo
+T95	CH 619 620	.
+T96	N 621 624	ảnh
+T99	CH 633 634	:
+T100	Ny 635 640	TTXVN
+T101	CH 641 642	.
+T102	N 643 653	Nghị quyết
+T103	R 654 658	cũng
+T104	V 659 666	yêu cầu
+T105	N 667 678	Bộ Lao động
+T106	CH 679 680	-
+T107	N 681 692	Thương binh
+T108	Cc 693 695	và
+T109	N 696 702	Xã hội
+T110	V 703 713	hoàn thiện
+T111	L 714 717	các
+T112	N 718 725	thủ tục
+T113	Cc 726 728	và
+T114	N 729 738	điều kiện
+T115	V 739 748	thành lập
+T116	CH 749 750	,
+T117	V 751 760	hoạt động
+T118	E 761 768	đối với
+T119	L 769 772	các
+T120	N 773 780	tổ chức
+T121	V 781 788	đào tạo
+T122	N 789 793	nghề
+T123	E 794 799	ngoài
+T124	N 800 808	công lập
+T125	CH 809 810	.
+T126	V 811 817	Bãi bỏ
+T127	Cc 818 822	hoặc
+T128	V 823 832	kiến nghị
+T129	N 833 839	bãi bỏ
+T130	L 840 843	các
+T131	N 844 851	thủ tục
+T132	CH 852 853	,
+T133	N 854 863	điều kiện
+T134	R 864 869	không
+T135	V 870 877	phù hợp
+T136	CH 878 879	;
+T137	V 880 892	khuyến khích
+T138	Cc 893 895	và
+T139	V 896 899	tạo
+T140	N 900 909	thuận lợi
+T141	E 910 913	cho
+T142	N 914 921	khu vực
+T143	N 922 929	tư nhân
+T144	E 930 935	trong
+T145	N 936 940	nước
+T146	CH 941 942	,
+T147	N 943 953	nước ngoài
+T148	Cc 954 956	và
+T149	L 957 960	các
+T150	N 961 968	tổ chức
+T151	N 969 975	xã hội
+T152	V 976 984	tham gia
+T153	V 985 992	đào tạo
+T154	N 993 1004	nghề nghiệp
+T155	CH 1005 1006	.
+T156	V 1007 1014	Đổi mới
+T157	N 1015 1021	cơ chế
+T158	CH 1022 1023	,
+T159	N 1024 1034	chính sách
+T160	V 1035 1042	đào tạo
+T161	N 1043 1047	nghề
+T162	V 1048 1052	theo
+T163	N 1053 1058	hướng
+T164	V 1059 1066	mở rộng
+T165	N 1067 1072	quyền
+T166	V 1073 1079	tự chủ
+T167	V 1080 1090	tuyển sinh
+T168	CH 1091 1092	,
+T169	V 1093 1099	tự chủ
+T170	N 1100 1109	tài chính
+T171	CH 1110 1111	,
+T172	V 1112 1118	tự chủ
+T173	E 1119 1121	về
+T174	N 1122 1134	chương trình
+T175	CH 1135 1136	,
+T176	N 1137 1145	nội dung
+T177	Cc 1146 1148	và
+T178	N 1149 1157	sản phẩm
+T179	N 1158 1165	dịch vụ
+T180	Cc 1166 1168	và
+T181	V 1169 1177	cung ứng
+T182	N 1178 1185	dịch vụ
+T183	V 1186 1194	giáo dục
+T184	CH 1195 1196	,
+T185	V 1197 1204	đào tạo
+T186	E 1205 1209	theo
+T187	N 1210 1216	cơ chế
+T188	N 1217 1227	thị trường
+T189	CH 1228 1229	.
+T190	Np 1230 1239	Diệu Linh
+T97	V 625 632	min họa
+T32	N 185 207	Bộ Giáo dục và Đào tạo
+T13	N 83 105	Bộ Giáo dục và Đào tạo

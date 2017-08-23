@@ -1,0 +1,597 @@
+Cách	N
+xử lý	V
+khẩn cấp	A
+mã	N
+độc	A
+đang	R
+làm	V
+chấn động	V
+cộng đồng mạng	N
+Cơ quan	N
+chuyên môn	N
+đã	R
+đưa	V
+ra	R
+những	L
+khuyến cáo	N
+cần thiết	A
+cho	E
+người	N
+dùng	V
+cũng	R
+như	C
+quản trị	V
+doanh nghiệp	N
+cách	N
+xử lý	V
+khẩn cấp	A
+với	E
+mã	N
+độc	A
+mã hóa	N
+dữ liệu	N
+tống tiền	V
+WannaCry	Np
+.	CH
+
+Ảnh	N
+chỉ	R
+có	V
+tính	N
+minh họa	V
+.	CH
+
+(	CH
+Nguồn	N
+:	CH
+thehackernews . com	N
+)	CH
+Như	E
+VietnamPlus	Np
+đã	R
+đưa	V
+tin	N
+,	CH
+mã	N
+độc	A
+WannaCry	Np
+đang	R
+lây lan	V
+với	E
+tốc độ	N
+nhanh	A
+ở	E
+nhiều	A
+quốc gia	N
+trên	E
+thế giới	N
+.	CH
+
+Mã	N
+độc	A
+này	P
+khai thác	V
+một số	L
+lỗ hổng	N
+trên	E
+hệ	N
+điều hành	V
+Windows	Np
+để	E
+tấn công	V
+vào	E
+máy tính	N
+với	E
+mục tiêu	N
+mã hóa	N
+dữ liệu	N
+để	E
+đòi	V
+tiền	N
+chuộc	V
+.	CH
+
+Tại	E
+Việt Nam	Np
+,	CH
+hệ thống	N
+giám sát	V
+của	E
+Bkav	Np
+đã	R
+phát hiện	V
+ra	V
+một số	L
+trường hợp	N
+bị	V
+lây nhiễm	V
+.	CH
+
+Tối	N
+13	M
+/	CH
+5	M
+,	CH
+trên	E
+trang	N
+của	E
+Bộ Thông tin	N
+và	Cc
+Truyền thông	N
+,	CH
+Cục An toàn	N
+thông tin	N
+đã	R
+đưa	V
+ra	R
+chỉ dẫn	V
+các	L
+tổ chức	N
+,	CH
+cá nhân	N
+thực hiện	V
+những	L
+biện pháp	N
+xử lý	V
+khẩn cấp	A
+mã	N
+độc	A
+này	P
+.	CH
+
+[	N
+Tấn công	V
+mạng	N
+toàn cầu	N
+:	CH
+Việt Nam	Np
+đã	R
+có	V
+trường hợp	N
+bị	V
+nhiễm	V
+mã	N
+độc	A
+]	CH
+Cụ thể	A
+,	CH
+các	L
+cá nhân	N
+cần	V
+thực hiện	V
+cập nhật	V
+ngay	T
+các	L
+phiên bản	N
+hệ	N
+điều hành	V
+Windows	Np
+đang	R
+sử dụng	V
+.	CH
+
+Riêng	T
+đối với	E
+các	L
+máy tính	N
+sử dụng	V
+Windows XP	Np
+,	CH
+sử dụng	V
+bản cập nhật	N
+mới	A
+nhất	A
+dành	V
+riêng	A
+cho	E
+sự vụ	N
+này	P
+tại	E
+:	CH
+https : // www . microsoft . com / en - us / download / details . aspx ? id = 55245 & WT . mc_id = rss_windows_allproduct	N
+hoặc	Cc
+tìm kiếm	V
+theo	V
+từ	E
+khóa	N
+bản cập nhật	N
+KB4012598	Np
+trên	E
+trang chủ	N
+của	E
+Microsoft	Np
+.	CH
+
+Bên cạnh	N
+đó	P
+,	CH
+người	N
+dùng	V
+cần	V
+cập nhật	V
+các	L
+chương trình	N
+Antivius	Np
+đang	R
+sử dụng	V
+.	CH
+
+Trong	E
+trường hợp	N
+chưa	R
+sử dụng	V
+,	CH
+cần	V
+phải	V
+cài đặt	V
+một	M
+phần mềm	N
+diệt	V
+virus	Nb
+có	V
+bản quyền	N
+.	CH
+
+Người	N
+dùng	V
+cũng	R
+phải	V
+cẩn trọng	A
+khi	N
+nhận	V
+được	R
+email	Nb
+có	V
+đính	N
+kèm	V
+và	Cc
+các	L
+đường	N
+link	Nb
+lạ	A
+được	V
+gửi	V
+trong	E
+email	Nb
+,	CH
+trên	E
+các	L
+mạng xã hội	N
+,	CH
+chat	Vb
+…	CH
+Thậm chí	R
+,	CH
+cần	V
+thận trọng	V
+khi	N
+mở	V
+file	Nb
+đính	V
+kèm	V
+ngay	T
+cả	T
+khi	N
+nhận	V
+được	R
+từ	E
+địa chỉ	N
+quen thuộc	A
+,	CH
+sử dụng	V
+các	L
+công cụ	N
+kiểm tra	V
+phần mềm	N
+độc hại	A
+trực tuyến	A
+hoặc	Cc
+có	V
+bản quyền	N
+trên	E
+máy tính	N
+với	E
+các	L
+file	Nb
+này	P
+trước	E
+khi	N
+mở ra	V
+.	CH
+
+Đặc biệt	A
+,	CH
+người	N
+dùng	V
+không	R
+mở	V
+các	L
+đường dẫn	N
+có	V
+đuôi	N
+. hta	N
+hoặc	Cc
+đường dẫn	N
+có	V
+cấu trúc	N
+không	R
+rõ ràng	A
+,	CH
+các	L
+đường dẫn	N
+rút gọn	V
+link	Nb
+;	CH
+thực hiện	V
+các	L
+biện pháp	N
+lưu trữ	V
+dữ liệu	N
+quan trọng	A
+.	CH
+
+Trong	E
+khi	N
+đó	P
+,	CH
+đối với	E
+các	L
+quản trị viên	N
+hệ thống	N
+của	E
+tổ chức	N
+,	CH
+doanh nghiệp	N
+cần	V
+kiểm tra	V
+ngay	R
+lập tức	R
+các	L
+máy chủ	N
+và	Cc
+tạm thời	N
+khóa	V
+(	CH
+block	Vb
+)	CH
+các	L
+dịch vụ	N
+đang	R
+sử dụng	V
+các	L
+cổng	N
+445	M
+/	CH
+137	M
+/	CH
+138	M
+/	CH
+139	M
+.	CH
+
+Cùng	C
+lúc	N
+,	CH
+các	L
+tổ chức	N
+cần	V
+tiến hành	V
+các	L
+biện pháp	N
+cập nhật	V
+sớm	A
+,	CH
+phù hợp	V
+theo	V
+từng	R
+đặc thù	N
+cho	E
+các	L
+máy chủ	N
+Windows	Np
+.	CH
+
+Tạo	V
+các	L
+bản	N
+snapshot	Nb
+đối với	E
+các	L
+máy chủ	N
+ảo hóa	N
+đề phòng	V
+việc	N
+bị	V
+tấn công	V
+;	CH
+Có	V
+biện pháp	N
+cập nhật	V
+các	L
+máy	N
+trạm	N
+đang	R
+sử dụng	V
+hệ	N
+điều hành	V
+Windows	Np
+.	CH
+
+Các	L
+tổ chức	N
+cũng	R
+cần	V
+cập nhật	V
+cơ sở	N
+dữ liệu	N
+cho	E
+các	L
+máy chủ	N
+Antivirus Endpoint	Np
+đang	R
+sử dụng	V
+.	CH
+
+Đối với	E
+hệ thống	N
+chưa	R
+sử dụng	V
+các	L
+công cụ	N
+này	P
+thì	C
+cần	V
+triển khai	V
+sử dụng	V
+các	L
+phần mềm	N
+Endpoint	Np
+có	V
+bản quyền	N
+và	Cc
+cập nhật	N
+mới	A
+nhất	A
+ngay	T
+cho	E
+các	L
+máy	N
+trạm	N
+.	CH
+
+[	N
+Cuộc	N
+tấn công	V
+mạng	N
+toàn cầu	N
+đã	R
+được	V
+cảnh báo	V
+tại	E
+Việt Nam	Np
+]	CH
+Ngoài ra	X
+,	CH
+cần	V
+tận dụng	V
+các	L
+giải pháp	N
+đảm bảo	V
+an toàn	A
+thông tin	N
+đang	R
+có	V
+sẵn	A
+trong	E
+tổ chức	N
+như	C
+Firewall	Np
+,	CH
+IDS	Np
+/	CH
+IPS	Np
+,	CH
+SIEM	Np
+…	CH
+để	E
+theo dõi	V
+,	CH
+giám sát	V
+và	Cc
+bảo vệ	V
+hệ thống	N
+.	CH
+
+Cập nhật	V
+các	L
+bản cập nhật	N
+từ	E
+các	L
+hãng	N
+bảo mật	V
+đối với	E
+các	L
+giải pháp	N
+đang	R
+có	V
+sẵn	A
+.	CH
+
+Thực hiện	V
+ngăn chặn	V
+,	CH
+theo dõi	V
+domains	Nb
+đang	R
+được	V
+mã	N
+độc	A
+WannaCry	Np
+sử dụng	V
+để	E
+là	V
+xác định	V
+được	V
+các	L
+máy tính	N
+bị	V
+nhiễm	V
+trong	E
+mạng	N
+để	E
+có	V
+biện pháp	N
+xử lý	V
+kịp thời	A
+.	CH
+
+Bên cạnh	N
+đó	P
+,	CH
+cần	V
+cân nhắc	V
+việc	N
+ngăn chặn	V
+(	CH
+block	Vb
+)	CH
+việc	N
+sử	V
+dung	N
+Tor	Np
+trong	E
+mạng	N
+,	CH
+lưu trữ	V
+dữ liệu	N
+quan trọng	A
+,	CH
+cảnh	N
+người	N
+dùng	V
+và	Cc
+liên hệ	V
+ngay	R
+với	E
+các	L
+cơ quan chức năng	N
+cũng	R
+như	C
+các	L
+tổ chức	N
+,	CH
+doanh nghiệp	N
+trong	E
+lĩnh vực	N
+an toàn	A
+thông tin	N
+để	E
+được	V
+hỗ trợ	V
+khi	N
+cần thiết	A
+...	CH
+
+/	CH
+.	CH
+
