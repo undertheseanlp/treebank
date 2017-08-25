@@ -1,0 +1,180 @@
+T1	R 0 9	Không thể
+T2	V 10 17	áp dụng
+T3	N 18 22	cách
+T4	V 23 33	giải quyết
+T5	N 34 40	vấn đề
+T6	N 41 49	hạt nhân
+T7	Np 50 54	Iran
+T8	E 55 58	với
+T11	Z 70 73	Phi
+T12	V 74 82	hạt nhân
+T13	V 83 86	hóa
+T14	E 87 91	trên
+T15	N 92 99	bán đảo
+T18	E 111 115	bằng
+T19	N 116 120	việc
+T20	V 121 128	sử dụng
+T21	L 129 132	các
+T22	N 133 142	biện pháp
+T23	N 143 153	ngoại giao
+T24	Cc 154 156	và
+T25	N 157 166	chính trị
+T26	V 167 169	là
+T27	A 170 176	có thể
+T28	C 177 182	nhưng
+T29	R 183 188	không
+T30	A 189 194	giống
+T31	E 195 198	với
+T32	N 199 203	cách
+T33	V 204 214	giải quyết
+T34	N 215 221	vấn đề
+T35	N 222 230	hạt nhân
+T36	Np 231 235	Iran
+T37	CH 236 237	.
+T38	N 238 245	Tên lửa
+T39	V 246 249	đẩy
+T43	R 259 263	được
+T44	V 264 267	cho
+T45	C 268 270	là
+T46	V 271 275	mang
+T47	V 276 280	theo
+T48	N 281 288	vệ tinh
+T49	N 289 299	viễn thông
+T53	V 319 322	rời
+T54	N 323 331	bệ phóng
+T55	E 332 333	ở
+T59	CH 347 348	.
+T60	N 349 352	Ảnh
+T61	CH 353 354	:
+T62	Np 355 358	AFP
+T63	CH 359 360	/
+T64	Ny 361 366	TTXVN
+T65	Np 367 371	Trên
+T66	V 372 374	là
+T67	N 375 378	lời
+T68	V 379 388	nhận định
+T69	E 389 391	từ
+T70	N 392 401	Vụ trưởng
+T71	N 402 414	Vụ kiểm soát
+T72	N 415 421	vũ khí
+T73	V 422 427	thuộc
+T74	N 428 441	Bộ Ngoại giao
+T76	N 462 466	ngày
+T77	M 467 469	12
+T78	CH 470 471	/
+T79	M 472 473	5
+T80	CH 474 475	.
+T81	V 476 485	Phát biểu
+T82	E 486 489	với
+T83	N 490 498	hãng tin
+T84	Np 499 506	Sputnik
+T85	CH 507 508	,
+T86	N 509 518	quan chức
+T87	E 519 523	trên
+T88	V 524 527	nêu
+T89	A 528 530	rõ
+T90	CH 531 532	:
+T91	CH 533 534	"
+T92	N 535 545	Trường hợp
+T93	Np 546 550	Iran
+T94	V 551 554	cho
+T95	V 555 559	thấy
+T96	C 560 564	rằng
+T97	V 565 567	có
+T98	N 568 576	khả năng
+T99	A 577 584	thực sự
+T100	V 585 595	giải quyết
+T101	R 596 604	thậm chí
+T102	T 605 607	cả
+T103	L 608 613	những
+T104	N 614 620	vấn đề
+T105	A 621 629	khó khăn
+T106	R 630 634	nhất
+T107	V 635 644	thông qua
+T108	L 645 648	các
+T109	N 649 658	biện pháp
+T110	N 659 668	chính trị
+T111	Cc 669 671	và
+T112	N 672 682	ngoại giao
+T113	CH 683 684	"
+T114	CH 685 686	.
+T115	C 687 696	Tuy nhiên
+T116	CH 697 698	,
+T117	Nc 699 702	ông
+T118	Np 703 710	Ulyanov
+T119	V 711 716	lưu ý
+T120	C 717 721	rằng
+T121	N 722 731	tình hình
+T122	E 732 736	trên
+T123	N 737 744	bán đảo
+T126	A 756 765	khác biệt
+T127	A 766 773	đáng kể
+T128	E 774 777	với
+T129	N 778 787	tình hình
+T130	N 788 798	xung quanh
+T131	N 799 811	chương trình
+T132	N 812 820	hạt nhân
+T133	E 821 824	của
+T134	Np 825 829	Iran
+T135	CH 830 831	,
+T136	C 832 837	do đó
+T137	R 838 840	sẽ
+T138	V 841 843	là
+T139	N 844 855	bất khả thi
+T140	C 856 859	nếu
+T141	V 860 862	đi
+T142	CH 863 864	"
+T143	N 865 873	sao chép
+T144	CH 874 875	"
+T145	N 876 885	nguyên xi
+T146	N 886 896	tiến trình
+T147	N 897 906	giải pháp
+T148	E 907 914	đối với
+T149	Np 915 921	Tehran
+T150	CH 922 923	.
+T152	R 936 945	đồng thời
+T153	V 946 955	nhấn mạnh
+T154	E 956 959	đến
+T155	L 960 965	những
+T156	N 966 970	cách
+T157	V 971 979	tiếp cận
+T158	A 980 986	cơ bản
+T159	V 987 991	xoay
+T160	N 992 997	quanh
+T161	L 998 1001	các
+T162	N 1002 1008	nỗ lực
+T163	N 1009 1018	chính trị
+T164	Cc 1019 1021	và
+T165	N 1022 1032	ngoại giao
+T166	C 1033 1036	chứ
+T167	R 1037 1042	không
+T168	A 1043 1047	phải
+T169	L 1048 1053	những
+T170	N 1054 1064	giọng điệu
+T171	N 1065 1075	hiếu chiến
+T172	C 1076 1079	hay
+T173	V 1080 1088	tập trận
+T174	N 1089 1095	quy mô
+T175	A 1096 1099	lớn
+T176	Cc 1100 1102	và
+T177	R 1103 1107	cũng
+T178	R 1108 1113	không
+T179	A 1114 1118	phải
+T180	C 1119 1121	là
+T181	L 1122 1125	các
+T182	N 1126 1135	biện pháp
+T183	V 1136 1146	trừng phạt
+T184	CH 1147 1148	.
+T185	Ny 1149 1154	TTXVN
+T186	CH 1155 1156	/
+T187	N 1157 1164	Tin Tức
+T151	Nc 924 927	Ông
+T188	Np 928 935	Ulyanov
+T124	Np 745 755	Triều Tiên
+T75	Np 442 445	Nga
+T125	Np 446 461	Mikhail Ulyanov
+T56	Np 334 346	Hwadae - gun
+T50	Np 300 318	Kwangmyongsong - 2
+T40	Np 250 258	Unha - 2
+T16	Np 100 110	Triều Tiên
+T9	Np 59 69	Triều Tiên
