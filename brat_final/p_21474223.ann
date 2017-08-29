@@ -1,0 +1,150 @@
+T1	A 0 3	Hơn
+T3	Np 20 23	Nga
+T4	V 24 32	tập trận
+T5	V 33 38	chống
+T6	V 39 47	khủng bố
+T7	E 48 49	ở
+T8	Np 50 59	Viễn Đông
+T9	A 60 63	Hơn
+T11	Np 80 83	Nga
+T12	V 84 92	tham gia
+T13	N 93 97	cuộc
+T14	V 98 106	tập trận
+T15	V 107 112	chống
+T16	N 113 121	khủng bố
+T17	R 122 126	đang
+T18	V 127 131	diễn
+T19	R 132 134	ra
+T20	E 135 138	tại
+T21	N 139 147	quân khu
+T22	N 148 152	miền
+T23	Np 153 157	Đông
+T24	CH 158 159	(
+T25	Ny 160 163	EMD
+T26	CH 164 165	)
+T27	CH 166 167	.
+T28	N 168 172	Lính
+T29	Np 173 176	Nga
+T30	V 177 185	tham gia
+T31	N 186 194	tập trận
+T32	V 195 200	chống
+T33	V 201 209	khủng bố
+T34	E 210 211	ở
+T35	Np 212 220	Sakhalin
+T36	CH 221 222	.
+T37	N 223 226	Ảnh
+T38	CH 227 228	:
+T40	V 243 252	phát ngôn
+T41	N 253 260	bộ phận
+T42	N 261 268	báo chí
+T43	Np 269 272	EMD
+T44	Np 273 291	Alexander Gordeyev
+T45	N 292 296	ngày
+T46	M 297 298	6
+T47	CH 299 300	/
+T48	M 301 302	2
+T49	V 303 311	cho biết
+T50	N 312 316	phần
+T51	A 317 322	chính
+T52	E 323 326	của
+T53	N 327 331	cuộc
+T54	V 332 340	tập trận
+T55	R 341 343	sẽ
+T56	V 344 348	được
+T57	V 349 356	tổ chức
+T58	E 357 360	tại
+T59	N 361 365	vùng
+T60	Np 366 374	Sakhalin
+T61	E 375 376	ở
+T62	Np 377 386	Viễn Đông
+T63	E 387 390	của
+T64	Np 391 394	Nga
+T65	CH 395 396	,
+T66	E 397 400	với
+T67	N 401 403	sự
+T68	V 404 412	tham gia
+T69	E 413 416	của
+T70	L 417 420	các
+T71	N 421 431	trực thăng
+T72	Cc 432 434	và
+T73	N 435 442	lính dù
+T74	CH 443 444	.
+T75	Nc 445 448	Ông
+T76	Np 449 457	Gordeyev
+T77	V 458 461	nêu
+T78	A 462 464	rõ
+T79	N 465 469	cuộc
+T80	V 470 478	tập trận
+T81	R 479 481	sẽ
+T82	V 482 491	tập trung
+T83	A 492 499	chủ yếu
+T84	E 500 503	vào
+T85	L 504 507	các
+T86	N 508 514	vấn đề
+T87	E 515 517	về
+T88	N 518 520	sự
+T89	V 521 530	hiệp đồng
+T90	V 531 540	tác chiến
+T91	E 541 545	giữa
+T92	L 546 549	các
+T93	N 550 557	cơ quan
+T94	N 558 565	an ninh
+T95	E 566 569	của
+T96	N 570 574	vùng
+T97	Np 575 583	Sakhalin
+T98	E 584 589	trong
+T99	M 590 593	một
+T100	N 594 604	chiến dịch
+T101	A 605 613	đặc biệt
+T102	CH 614 615	.
+T103	L 616 619	Các
+T104	N 620 624	nhóm
+T105	V 625 634	truy kích
+T106	CH 635 636	,
+T110	V 663 667	được
+T111	V 668 678	triển khai
+T112	E 679 683	bằng
+T113	L 684 687	các
+T114	N 688 695	máy bay
+T115	N 696 706	trực thăng
+T119	V 722 726	nhằm
+T120	V 727 736	tiêu diệt
+T121	L 737 742	những
+T122	N 743 750	phần tử
+T123	V 751 759	khủng bố
+T124	V 760 764	theo
+T125	N 765 775	tình huống
+T126	N 776 784	giả định
+T127	CH 785 786	.
+T128	E 787 791	Theo
+T129	N 792 799	bộ phận
+T130	N 800 807	báo chí
+T131	E 808 811	của
+T132	Ny 812 815	EMD
+T133	CH 816 817	,
+T134	N 818 822	cuộc
+T135	N 823 831	tập trận
+T136	P 832 835	này
+T137	R 836 838	sẽ
+T138	V 839 846	kéo dài
+T139	E 847 850	cho
+T140	E 851 854	đến
+T141	N 855 859	ngày
+T142	M 860 862	11
+T143	CH 863 864	/
+T144	M 865 866	2
+T145	CH 867 868	.
+T146	Ny 869 874	TTXVN
+T147	CH 875 876	/
+T148	Np 877 884	Tin Tức
+T2	M 4 9	2.000
+T149	N 10 19	quân nhân
+T10	M 64 69	2.000
+T150	N 70 79	quân nhân
+T39	Np 229 236	Sputnik
+T151	N 237 242	Người
+T107	V 637 645	tấn công
+T108	E 646 650	bằng
+T109	N 651 662	đường không
+T116	V 707 714	vận tải
+T117	Np 715 721	Mi - 8
