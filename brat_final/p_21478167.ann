@@ -1,0 +1,170 @@
+T1	N 0 8	Quân đội
+T2	Np 9 16	Ukraine
+T3	V 17 20	đưa
+T4	V 21 25	thêm
+T5	N 26 32	vũ khí
+T6	E 33 36	đến
+T7	N 37 41	miền
+T8	Np 42 46	đông
+T9	N 47 55	Hãng tin
+T10	Np 56 60	Tass
+T11	N 61 65	ngày
+T12	N 66 69	6.2
+T13	V 70 73	đưa
+T15	Np 87 94	Ukraine
+T16	R 95 97	đã
+T17	N 98 102	điều
+T19	Cc 113 115	và
+T20	N 116 122	vũ khí
+T21	E 123 126	đến
+T22	N 127 134	khu vực
+T23	N 135 145	giới tuyến
+T24	E 146 147	ở
+T25	N 148 152	phía
+T26	N 153 157	đông
+T27	N 158 162	nước
+T28	P 163 166	này
+T29	V 167 171	nhằm
+T30	V 172 180	chuẩn bị
+T31	E 181 184	cho
+T32	N 185 189	cuộc
+T33	V 190 198	tấn công
+T34	E 199 202	vào
+T35	N 203 206	phe
+T36	N 207 214	nổi dậy
+T37	CH 215 216	.
+T38	L 217 220	Các
+T39	N 221 236	binh sĩ Ukraine
+T40	E 237 238	ở
+T41	N 239 246	khu vực
+T42	N 247 251	miền
+T43	A 252 256	đông
+T44	CH 257 258	“
+T45	N 259 266	Chỉ huy
+T46	N 267 275	quân đội
+T47	Np 276 283	Ukraine
+T48	V 284 291	từ chối
+T49	V 292 301	thực hiện
+T50	N 302 312	thỏa thuận
+T51	Np 313 318	Minsk
+T52	Cc 319 321	và
+T53	R 322 327	không
+T54	V 328 332	chịu
+T55	V 333 336	rút
+T56	N 337 343	vũ khí
+T57	N 344 348	hạng
+T58	A 349 353	nặng
+T59	V 354 356	ra
+T60	V 357 361	khỏi
+T61	N 362 367	đường
+T62	N 368 378	giới tuyến
+T63	CH 379 380	…
+T64	P 381 390	Chúng tôi
+T65	V 391 399	quan sát
+T66	V 400 404	thấy
+T67	Np 405 412	Ukraine
+T68	R 413 417	đang
+T69	V 418 428	tăng cường
+T70	N 429 438	quân lính
+T71	Cc 439 441	và
+T72	N 442 448	vũ khí
+T73	A 449 452	sát
+T74	N 453 463	giới tuyến
+T75	E 464 466	để
+T76	V 467 475	chuẩn bị
+T77	V 476 484	tấn công
+T78	CH 485 486	”
+T79	CH 487 488	,
+T80	Nc 489 492	ông
+T81	Np 493 507	Eduard Basurin
+T82	CH 508 509	,
+T83	N 510 524	phát ngôn viên
+T84	E 525 528	của
+T85	N 529 538	lực lượng
+T86	N 539 547	Cộng hòa
+T88	CH 565 566	(
+T89	Np 567 570	DPR
+T90	CH 571 572	)
+T91	V 573 580	tự xưng
+T92	CH 581 582	,
+T93	N 583 591	cho biết
+T94	CH 592 593	.
+T95	E 594 598	Theo
+T96	Nc 599 602	ông
+T97	Np 603 610	Basurin
+T98	CH 611 612	,
+T99	M 613 614	2
+T100	N 615 623	hệ thống
+T101	N 624 631	tên lửa
+T105	E 643 646	của
+T106	Np 647 654	Ukraine
+T107	R 655 657	đã
+T108	V 658 662	được
+T109	V 663 666	đưa
+T110	E 667 669	từ
+T111	N 670 679	thành phố
+T112	Np 680 690	Kramatorsk
+T113	E 691 694	đến
+T114	N 695 699	vùng
+T115	Np 700 708	Avdeevka
+T116	CH 709 710	.
+T117	V 711 715	Thêm
+T118	M 716 717	6
+T119	N 718 726	hệ thống
+T120	X 727 734	như vậy
+T121	R 735 739	cũng
+T122	R 740 742	đã
+T123	V 743 747	được
+T124	N 748 752	điều
+T125	E 753 756	đến
+T126	N 757 763	nhà ga
+T127	N 764 770	xe lửa
+T128	E 771 772	ở
+T129	N 773 777	làng
+T130	Np 778 793	Novobakhmutovka
+T131	A 794 797	gần
+T132	Np 798 810	Yasinovataya
+T133	V 811 815	nhằm
+T134	V 816 823	phục vụ
+T135	E 824 827	cho
+T136	N 828 835	sứ mệnh
+T137	V 836 845	tiếp theo
+T138	CH 846 847	.
+T139	N 848 857	Tình hình
+T140	N 858 866	chiến sự
+T141	A 867 870	dọc
+T142	N 871 881	giới tuyến
+T143	E 882 883	ở
+T144	N 884 888	phía
+T145	N 889 893	đông
+T146	Np 894 901	Ukraine
+T147	R 902 904	đã
+T148	V 905 912	trở nên
+T149	A 913 916	xấu
+T150	V 917 919	đi
+T151	A 920 932	nghiêm trọng
+T152	E 933 938	trong
+T153	L 939 942	vài
+T154	N 943 947	ngày
+T155	A 948 951	gần
+T156	P 952 955	đây
+T157	CH 956 957	,
+T158	E 958 961	với
+T159	L 962 967	những
+T160	N 968 976	cáo buộc
+T161	V 977 980	gây
+T162	V 981 984	hấn
+T163	V 985 988	qua
+T164	R 989 992	lại
+T165	E 993 997	giữa
+T166	L 998 1001	các
+T167	N 1002 1005	bên
+T168	CH 1006 1007	.
+T169	Np 1008 1019	Huỳnh Thiềm
+T14	N 74 77	tin
+T170	N 78 86	quân đội
+T18	V 103 107	thêm
+T171	N 108 112	quân
+T87	N 548 556	Nhân dân
+T172	Np 557 564	Donetsk
+T102	Np 632 642	Tochka - U
