@@ -1,0 +1,168 @@
+T1	V 0 9	Phát hiện
+T2	N 10 17	thi thể
+T3	N 18 21	nam
+T4	N 22 32	thanh niên
+T5	V 33 40	treo cổ
+T6	E 41 46	trong
+T7	N 47 50	bụi
+T8	N 51 54	tre
+T9	E 55 59	Giữa
+T10	N 60 64	trưa
+T11	N 65 67	hè
+T12	N 68 72	nắng
+T13	A 73 77	nóng
+T14	A 78 83	nhiều
+T15	N 84 89	người
+T16	N 90 93	dân
+T17	N 94 104	địa phương
+T18	A 105 115	bàng hoàng
+T19	V 116 125	phát hiện
+T20	M 126 129	một
+T21	N 130 133	nam
+T22	N 134 144	thanh niên
+T23	V 145 152	tử vong
+T24	E 153 158	trong
+T25	N 159 165	tư thế
+T26	V 166 170	ngồi
+T27	E 171 176	trong
+T28	N 177 180	bụi
+T29	N 181 184	tre
+T30	CH 185 186	,
+T31	N 187 189	cổ
+T32	V 190 192	có
+T33	N 193 196	dây
+T34	V 197 201	quấn
+T35	N 202 207	quanh
+T36	CH 208 209	.
+T37	N 210 217	Vụ việc
+T38	R 218 222	được
+T39	N 223 232	người dân
+T40	V 233 242	phát hiện
+T41	N 243 249	khoảng
+T42	M 250 253	12h
+T43	N 254 258	ngày
+T44	M 259 261	10
+T45	CH 262 263	/
+T46	M 264 265	5
+T47	CH 266 267	,
+T48	E 268 271	tại
+T49	N 272 276	thôn
+T50	Np 277 286	Đồng Bong
+T51	CH 287 288	,
+T52	N 289 291	xã
+T53	Np 292 300	Đồng Tâm
+T54	CH 301 302	,
+T55	N 303 308	huyện
+T56	Np 309 317	Lạc Thủy
+T57	CH 318 319	,
+T58	N 320 324	tỉnh
+T59	Np 325 333	Hòa Bình
+T60	CH 334 335	.
+T61	N 336 343	Khu vực
+T62	N 344 355	hiện trường
+T63	V 356 365	phát hiện
+T64	N 366 373	thi thể
+T65	V 374 376	có
+T66	L 377 383	một số
+T67	N 384 392	kim tiêm
+T68	CH 393 394	,
+T69	N 395 399	chai
+T70	N 400 404	nước
+T71	CH 405 408	...
+T72	C 409 418	Tuy nhiên
+T73	N 419 428	danh tính
+T74	E 429 432	của
+T75	N 433 441	nạn nhân
+T76	R 442 445	vẫn
+T77	R 446 450	chưa
+T78	V 451 455	được
+T79	V 456 464	xác định
+T80	CH 465 466	.
+T81	M 467 470	Một
+T82	N 471 479	lãnh đạo
+T83	N 480 487	Công an
+T84	N 488 493	huyện
+T85	Np 494 502	Lạc Thủy
+T86	V 503 511	xác nhận
+T87	N 512 519	vụ việc
+T88	A 520 524	trên
+T89	Cc 525 527	và
+T90	V 528 536	cho biết
+T91	V 537 541	thêm
+T92	CH 542 543	,
+T93	N 544 552	nạn nhân
+T94	R 553 557	được
+T95	V 558 567	phát hiện
+T96	V 568 570	có
+T97	N 571 579	dấu hiệu
+T98	V 580 587	tử vong
+T99	V 588 592	cách
+T100	P 593 596	đây
+T101	M 597 598	2
+T102	N 599 603	ngày
+T103	CH 604 605	,
+T104	N 606 618	mùi hôi thối
+T105	V 619 622	bốc
+T106	R 623 626	lên
+T107	E 627 629	từ
+T108	N 630 637	thi thể
+T109	R 638 641	rất
+T110	A 642 650	nồng nặc
+T111	CH 651 652	.
+T112	N 653 656	Khi
+T113	P 657 659	đó
+T114	CH 660 661	,
+T117	V 672 681	phát hiện
+T118	N 682 689	thi thể
+T119	M 690 693	một
+T120	N 694 697	nam
+T121	N 698 708	thanh niên
+T122	A 709 715	khoảng
+T123	M 716 718	27
+T124	N 719 723	tuổi
+T125	CH 724 725	,
+T126	V 726 733	tử vong
+T127	E 734 739	trong
+T128	Nc 740 743	bụi
+T129	N 744 747	tre
+T130	CH 748 749	,
+T131	E 750 755	trong
+T132	N 756 762	tư thế
+T133	V 763 767	ngồi
+T134	Cc 768 770	và
+T135	E 771 775	trên
+T136	N 776 778	cổ
+T137	V 779 781	có
+T138	M 782 785	một
+T139	N 786 791	chiếc
+T140	N 792 795	dây
+T141	V 796 800	quấn
+T142	N 801 806	quanh
+T143	CH 807 808	.
+T144	T 809 813	Ngay
+T145	E 814 817	sau
+T146	P 818 820	đó
+T147	CH 821 822	,
+T148	N 823 832	người dân
+T149	R 833 835	đã
+T150	V 836 845	thông báo
+T151	E 846 849	với
+T152	N 850 867	cơ quan chức năng
+T153	E 868 871	đến
+T154	N 872 883	hiện trường
+T155	E 884 886	để
+T156	V 887 892	xử lý
+T157	N 893 900	vụ việc
+T158	CH 901 902	.
+T159	N 903 917	Nhà chức trách
+T160	R 918 922	đang
+T161	V 923 932	tiến hành
+T162	V 933 941	điều tra
+T163	CH 942 943	,
+T164	V 944 947	làm
+T165	A 948 950	rõ
+T166	N 951 962	nguyên nhân
+T167	N 963 970	vụ việc
+T168	CH 971 972	.
+T115	N 662 671	mọi người
+T116	Np 973 983	Tân Trường
