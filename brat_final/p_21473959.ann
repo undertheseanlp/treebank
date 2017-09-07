@@ -1,0 +1,207 @@
+T1	N 0 7	Sự thật
+T2	A 8 15	bất ngờ
+T3	E 16 18	về
+T4	N 19 30	buồng trứng
+T5	N 31 34	bạn
+T6	C 35 38	nên
+T7	V 39 43	biết
+T8	P 44 52	Chúng ta
+T9	R 53 59	thường
+T10	V 60 68	tìm hiểu
+T11	N 69 78	thông tin
+T12	E 79 82	của
+T13	L 83 89	một số
+T14	N 90 97	cơ quan
+T15	A 98 108	quan trọng
+T16	C 109 112	như
+T17	N 113 116	tim
+T18	CH 117 118	,
+T19	N 119 123	phổi
+T20	CH 124 125	,
+T21	N 126 130	thận
+T22	CH 131 132	…
+T23	E 133 135	về
+T24	L 136 139	các
+T25	N 140 149	hoạt động
+T26	N 150 159	chức năng
+T27	R 160 164	cũng
+T28	C 165 168	như
+T29	L 169 172	các
+T30	N 173 184	triệu chứng
+T31	N 185 189	bệnh
+T32	V 190 199	liên quan
+T33	E 200 203	đến
+T34	L 204 209	những
+T35	N 210 217	cơ quan
+T36	P 218 221	này
+T37	CH 222 223	.
+T38	N 224 233	Kiến thức
+T39	E 234 236	về
+T40	L 237 240	các
+T41	N 241 248	cơ quan
+T42	N 249 257	nội tạng
+T43	V 258 262	giúp
+T44	P 263 271	chúng ta
+T45	V 272 282	phòng ngừa
+T46	R 283 286	rất
+T47	A 287 292	nhiều
+T48	N 293 297	bệnh
+T49	CH 298 299	.
+T50	N 300 311	Buồng trứng
+T51	V 312 314	là
+T52	M 315 318	một
+T53	N 319 326	cơ quan
+T54	A 327 337	quan trọng
+T55	E 338 339	ở
+T56	N 340 346	phụ nữ
+T57	CH 347 348	.
+T58	E 349 353	Dưới
+T59	P 354 357	đây
+T60	V 358 360	là
+T61	L 361 368	một vài
+T62	N 369 371	sự
+T63	A 372 376	thật
+T64	A 377 384	bất ngờ
+T65	E 385 387	về
+T66	N 388 399	buồng trứng
+T67	CH 400 401	:
+T68	Nb 402 409	Hormone
+T69	Nb 410 421	progesterol
+T70	Cc 422 424	và
+T71	Nb 425 433	estrogen
+T72	V 434 438	được
+T73	V 439 447	sản xuất
+T74	E 448 449	ở
+T75	N 450 461	buồng trứng
+T76	Cc 462 464	và
+T77	V 465 474	thực hiện
+T78	L 475 478	các
+T79	N 479 488	chức năng
+T80	C 489 492	như
+T81	V 493 499	hỗ trợ
+T82	N 500 508	sinh sản
+T83	CH 509 510	,
+T84	V 511 519	ham muốn
+T85	N 520 528	tình dục
+T86	CH 529 530	,
+T87	N 531 542	kinh nguyệt
+T88	CH 543 544	…
+T89	R 545 550	Không
+T90	C 551 554	như
+T91	L 555 558	các
+T92	N 559 566	cơ quan
+T93	A 567 571	khác
+T94	CH 572 573	,
+T95	N 574 585	buồng trứng
+T96	R 586 592	có thể
+T97	V 593 601	thay đổi
+T98	N 602 612	kích thước
+T99	CH 613 614	,
+T100	A 615 623	đặc biệt
+T101	E 624 629	trong
+T102	N 630 639	thời gian
+T104	CH 651 652	,
+T105	C 653 656	hay
+T106	E 657 662	trong
+T107	N 663 665	kỳ
+T108	N 666 677	kinh nguyệt
+T109	CH 678 679	…
+T110	A 680 690	Căng thẳng
+T111	V 691 700	ảnh hưởng
+T112	E 701 704	tới
+T113	N 705 714	chức năng
+T114	N 715 726	buồng trứng
+T115	E 727 729	do
+T116	N 730 732	sự
+T117	V 733 741	thay đổi
+T118	N 742 753	nội tiết tố
+T119	CH 754 755	.
+T120	N 756 759	Khi
+T121	M 760 763	một
+T122	N 764 769	người
+T123	V 770 772	bị
+T124	A 773 783	căng thẳng
+T125	A 784 790	cực độ
+T126	CH 791 792	,
+T127	N 793 804	buồng trứng
+T128	R 805 811	có thể
+T129	V 812 817	ngừng
+T130	V 818 823	phóng
+T131	N 824 829	trứng
+T132	CH 830 831	.
+T133	C 832 835	Nếu
+T134	N 836 847	buồng trứng
+T135	R 848 853	không
+T136	V 854 862	sản sinh
+T137	A 863 865	đủ
+T138	N 866 871	lượng
+T139	Nb 872 879	hormone
+T140	Nb 880 888	estrogen
+T141	CH 889 890	,
+T142	R 891 897	có thể
+T143	V 898 901	dẫn
+T144	E 902 905	tới
+T145	L 906 912	một số
+T146	N 913 924	triệu chứng
+T147	C 925 928	như
+T148	N 929 932	mụn
+T149	N 933 941	trứng cá
+T150	CH 942 943	,
+T151	V 944 947	mọc
+T152	N 948 952	lông
+T153	R 953 958	không
+T154	V 959 968	mong muốn
+T155	CH 969 970	,
+T156	V 971 979	thay đổi
+T157	N 980 989	tâm trạng
+T158	CH 990 991	…
+T159	N 992 995	Khi
+T160	L 996 999	các
+T161	N 1000 1004	nang
+T162	N 1005 1010	trứng
+T163	R 1011 1016	không
+T164	V 1017 1022	phóng
+T165	N 1023 1028	trứng
+T166	CH 1029 1030	,
+T167	L 1031 1034	các
+T168	N 1035 1041	tế bào
+T169	P 1042 1045	này
+T171	CH 1061 1062	,
+T172	X 1063 1072	ngày càng
+T173	A 1073 1076	lớn
+T174	R 1077 1080	hơn
+T175	CH 1081 1082	,
+T176	V 1083 1093	phát triển
+T177	V 1094 1099	thành
+T178	N 1100 1106	u nang
+T179	CH 1107 1108	.
+T180	L 1109 1112	Các
+T181	N 1113 1117	bệnh
+T182	V 1118 1128	lây truyền
+T183	E 1129 1132	qua
+T184	N 1133 1138	đường
+T185	N 1139 1147	tình dục
+T186	C 1148 1151	như
+T187	Nb 1152 1158	herpes
+T188	CH 1159 1160	,
+T189	Nb 1161 1170	chlamydia
+T190	CH 1171 1172	,
+T191	V 1173 1177	viêm
+T192	N 1178 1181	gan
+T193	CH 1182 1183	…
+T194	R 1184 1190	có thể
+T195	V 1191 1194	dẫn
+T196	E 1195 1198	đến
+T197	N 1199 1206	ung thư
+T198	N 1207 1218	buồng trứng
+T199	Ny 1219 1221	BS
+T200	CH 1222 1223	.
+T201	Np 1224 1233	Tuyết Mai
+T202	CH 1234 1235	(
+T204	CH 1249 1250	)
+T103	V 640 644	rụng
+T205	N 645 650	trứng
+T170	R 1046 1052	có thể
+T206	V 1053 1060	tích tụ
+T203	V 1236 1240	Theo
+T207	Np 1241 1248	Boldsky

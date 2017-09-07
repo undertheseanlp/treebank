@@ -4,8 +4,8 @@ This repository contains Vietnamese Treebank. It is a part of [underthesea](http
 
 ## Corpus Summary
 
-* 772 documents
-* 15245 sentences
+* 802 documents
+* 15857 sentences
 
 ## Usage
 
