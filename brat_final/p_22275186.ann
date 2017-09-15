@@ -1,0 +1,151 @@
+T1	Ny 0 4	LĐLĐ
+T2	N 5 9	tỉnh
+T3	Np 10 21	Thái Nguyên
+T4	V 22 32	triển khai
+T5	V 33 45	tuyên truyền
+T8	N 58 62	Ngày
+T9	N 63 67	12.5
+T10	CH 68 69	,
+T11	Ny 70 74	LĐLĐ
+T12	N 75 79	tỉnh
+T13	Np 80 91	Thái Nguyên
+T14	V 92 99	tổ chức
+T15	V 100 103	họp
+T16	N 104 112	Tiểu ban
+T17	V 113 125	Tuyên truyền
+T20	N 148 152	tỉnh
+T21	E 153 155	để
+T22	V 156 166	triển khai
+T23	N 167 175	nội dung
+T24	Cc 176 178	và
+T25	V 179 188	phân công
+T26	N 189 197	nhiệm vụ
+T27	E 198 201	cho
+T28	L 202 205	các
+T29	N 206 216	thành viên
+T30	CH 217 218	.
+T31	Ny 219 223	LĐLĐ
+T32	N 224 228	tỉnh
+T33	Np 229 240	Thái Nguyên
+T34	V 241 251	triển khai
+T35	N 252 257	tuyền
+T36	V 258 264	truyền
+T39	CH 272 273	(
+T40	N 274 277	ảnh
+T41	Np 278 287	Tuấn Hiệp
+T42	CH 288 289	)
+T43	CH 290 291	.
+T44	N 292 300	Thay mặt
+T45	Ny 301 304	BCH
+T46	Ny 305 309	LĐLĐ
+T47	N 310 314	tỉnh
+T48	CH 315 316	,
+T49	N 317 329	Phó Chủ tịch
+T50	Np 330 344	Hoàng Thu Hằng
+T51	R 345 347	đã
+T52	N 348 354	căn cứ
+T53	L 355 358	các
+T54	N 359 367	nội dung
+T55	V 368 372	được
+T56	V 373 382	phân công
+T57	V 383 390	yêu cầu
+T58	N 391 399	Tiểu ban
+T59	V 400 412	Tuyên truyền
+T62	Ny 425 427	CĐ
+T63	N 428 432	tỉnh
+T64	Np 433 444	Thái Nguyên
+T65	V 445 447	có
+T66	N 448 459	trách nhiệm
+T67	V 460 468	xây dựng
+T68	N 469 477	kế hoạch
+T69	V 478 490	tuyên truyền
+T70	E 491 493	về
+T71	N 494 502	mục đích
+T72	CH 503 504	,
+T73	N 505 513	nhiệm vụ
+T74	Cc 514 516	và
+T75	N 517 524	ý nghĩa
+T76	E 525 528	của
+T77	N 529 536	đại hội
+T78	CH 537 538	;
+T79	V 539 548	hướng dẫn
+T80	Ny 549 553	LĐLĐ
+T81	L 554 557	các
+T82	N 558 563	huyện
+T83	CH 564 565	,
+T84	N 566 575	thành phố
+T85	CH 576 577	,
+T86	N 578 584	thị xã
+T87	CH 585 586	,
+T88	Ny 587 589	CĐ
+T89	N 590 595	ngành
+T90	CH 596 597	,
+T91	Ny 598 602	CĐCS
+T92	V 603 613	trực thuộc
+T93	N 614 621	tổ chức
+T94	L 622 625	các
+T95	N 626 636	phong trào
+T96	V 637 644	thi đua
+T97	V 645 654	chào mừng
+T98	Ny 655 659	ĐHCĐ
+T99	L 660 663	các
+T100	N 664 667	cấp
+T101	Cc 668 670	và
+T104	Ny 683 685	CĐ
+T105	N 686 690	tỉnh
+T106	Np 691 702	Thái Nguyên
+T107	CH 703 704	,
+T110	Np 727 735	Việt Nam
+T111	CH 736 737	;
+T112	R 738 747	Đồng thời
+T113	CH 748 749	,
+T114	V 750 760	biểu dương
+T115	L 761 764	các
+T116	N 765 770	gương
+T117	N 771 778	tập thể
+T118	Cc 779 781	và
+T119	N 782 789	cá nhân
+T120	N 790 799	điển hình
+T121	A 800 809	tiên tiến
+T122	CH 810 811	,
+T123	V 812 814	có
+T124	N 815 825	thành tích
+T125	A 826 834	xuất sắc
+T126	E 835 840	trong
+T127	L 841 844	các
+T128	N 845 855	phong trào
+T129	Ny 856 862	CNVCLĐ
+T130	Cc 863 865	và
+T131	V 866 875	hoạt động
+T132	Ny 876 878	CĐ
+T133	CH 879 880	;
+T134	V 881 889	phối hợp
+T135	E 890 893	với
+T136	L 894 897	các
+T137	N 898 905	cơ quan
+T138	V 906 915	thông tấn
+T139	CH 916 917	,
+T140	N 918 925	báo chí
+T141	V 926 935	thực hiện
+T142	L 936 939	các
+T143	N 940 949	hình thức
+T144	V 950 962	tuyên truyền
+T145	V 963 971	góp phần
+T146	E 972 975	vào
+T147	V 976 986	thành công
+T148	E 987 990	của
+T149	N 991 998	Đại hội
+T150	CH 999 1000	.
+T151	Np 1001 1010	Tuấn Hiệp
+T152	CH 1011 1012	(
+T153	Ny 1013 1017	LĐLĐ
+T154	N 1018 1022	tỉnh
+T155	CH 1023 1024	)
+T6	Np 46 56	Đại hội XV
+T7	Np 126 137	Đại hội XVI
+T18	N 138 147	Công đoàn
+T19	Ny 265 271	ĐH XVI
+T37	Np 413 423	Đại hội XV
+T38	Np 671 682	Đại hội XVI
+T60	Np 705 716	Đại hội XII
+T61	N 717 726	Công đoàn
