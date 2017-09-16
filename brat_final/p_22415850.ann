@@ -1,0 +1,169 @@
+T1	CH 0 1	'
+T2	N 2 7	Người
+T3	V 8 11	bay
+T4	CH 12 13	'
+T5	V 14 18	trao
+T6	N 19 23	bóng
+T7	E 24 27	cho
+T8	N 28 37	trọng tài
+T9	E 38 43	trong
+T10	N 44 48	trận
+T11	N 49 58	chung kết
+T12	N 59 66	bóng đá
+T13	N 67 71	Trận
+T14	N 72 81	chung kết
+T15	N 82 85	Cup
+T16	N 86 94	quốc gia
+T17	Np 95 105	Bồ Đào Nha
+T18	E 106 110	giữa
+T19	M 111 114	hai
+T20	N 115 118	đội
+T21	N 119 123	bóng
+T22	Np 124 131	Benfica
+T23	Cc 132 134	và
+T24	Np 135 152	Vitoria Guimaraes
+T25	R 153 155	đã
+T26	V 156 158	có
+T27	M 159 162	một
+T28	N 163 166	màn
+T29	V 167 171	trao
+T30	N 172 176	bóng
+T31	A 177 184	độc đáo
+T32	V 185 190	khiến
+T33	L 191 194	các
+T34	N 195 203	khán giả
+T35	R 204 211	vô cùng
+T36	A 212 219	bất ngờ
+T37	CH 220 221	.
+T38	N 222 230	Hình ảnh
+T39	E 231 236	trong
+T40	N 237 241	đoạn
+T41	Nb 242 247	video
+T42	V 248 251	cho
+T43	V 252 256	thấy
+T44	M 257 260	một
+T45	N 261 266	người
+T46	N 267 274	đàn ông
+T47	E 275 279	trên
+T48	Nc 280 285	chiếc
+T49	N 286 294	flyboard
+T50	R 295 297	đã
+T51	V 298 302	lượn
+T52	E 303 307	trên
+T53	N 308 319	không trung
+T54	Cc 320 322	và
+T55	V 323 325	hạ
+T56	N 326 330	cánh
+T57	E 331 336	trước
+T58	N 337 340	mặt
+T59	N 341 350	trọng tài
+T60	Np 351 362	Hugo Miguel
+T61	E 363 365	để
+T62	V 366 370	trao
+T63	E 371 374	cho
+T64	N 375 378	ông
+T65	Nc 379 383	trái
+T66	N 384 388	bóng
+T67	E 389 392	của
+T68	N 393 397	trận
+T69	V 398 401	đấu
+T70	CH 402 403	.
+T71	L 404 407	Các
+T72	N 408 420	cổ động viên
+T73	E 421 424	của
+T74	M 425 428	hai
+T75	N 429 439	câu lạc bộ
+T76	Np 440 447	Benfica
+T77	Cc 448 450	và
+T78	Np 451 468	Vitoria Guimaraes
+T79	R 469 471	đã
+T80	R 472 475	rất
+T81	A 476 483	bất ngờ
+T82	E 484 487	với
+T83	N 488 491	màn
+T84	V 492 495	đưa
+T85	N 496 500	bóng
+T86	A 501 509	đặc biệt
+T87	P 510 513	này
+T88	CH 514 515	.
+T89	N 516 523	Kết quả
+T90	N 524 534	chung cuộc
+T91	Np 535 542	Benfica
+T92	R 543 545	đã
+T93	V 546 554	đánh bại
+T95	CH 575 576	-
+T96	M 577 578	1
+T97	Cc 579 581	và
+T98	N 582 585	lần
+T99	N 586 589	thứ
+T100	M 590 592	26
+T101	V 593 598	giành
+T102	N 599 602	Cup
+T103	N 603 611	quốc gia
+T104	Np 612 622	Bồ Đào Nha
+T105	CH 623 624	.
+T106	L 625 630	Những
+T107	N 631 636	người
+T108	V 637 645	lập công
+T109	E 646 649	cho
+T110	Np 650 657	Benfica
+T111	V 658 660	là
+T112	Np 661 673	Raul Jimenez
+T113	Cc 674 676	và
+T114	Np 677 691	Eduardo Salvio
+T115	CH 692 693	.
+T116	E 694 697	Với
+T117	N 698 709	chiến thắng
+T118	P 710 713	này
+T119	CH 714 715	,
+T120	N 716 724	thầy trò
+T121	Ny 725 728	HLV
+T122	Np 729 740	Rui Vitoria
+T123	R 741 743	đã
+T124	V 744 753	thống trị
+T125	M 754 755	2
+T126	N 756 760	giải
+T127	V 761 764	đấu
+T128	A 765 768	lớn
+T129	A 769 773	nhất
+T130	Np 774 784	Bồ Đào Nha
+T131	E 785 790	trong
+T132	N 791 794	mùa
+T133	N 795 799	giải
+T134	N 800 803	năm
+T135	P 804 807	nay
+T136	CH 808 809	,
+T137	N 810 813	khi
+T138	V 814 818	cách
+T139	P 819 822	đây
+T140	A 823 827	đúng
+T141	M 828 829	1
+T142	N 830 834	tuần
+T143	P 835 837	họ
+T144	R 838 840	đã
+T145	V 841 845	nâng
+T146	A 846 849	cao
+T147	N 850 859	danh hiệu
+T149	Np 877 887	Bồ Đào Nha
+T150	E 888 891	với
+T151	M 892 894	82
+T152	N 895 899	điểm
+T153	CH 900 901	,
+T154	R 902 905	hơn
+T155	N 906 913	đội xếp
+T156	N 914 917	thứ
+T157	M 918 919	2
+T158	V 920 922	là
+T159	Np 923 928	Porto
+T160	M 929 930	6
+T161	N 931 935	điểm
+T162	CH 936 937	.
+T163	Np 938 946	Long Hải
+T164	CH 947 948	(
+T165	E 949 953	theo
+T166	Np 954 964	Daily Mail
+T167	CH 965 966	)
+T94	Np 555 572	Vitoria Guimaraes
+T168	M 573 574	2
+T148	A 860 867	Vô địch
+T169	N 868 876	quốc gia

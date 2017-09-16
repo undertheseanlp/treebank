@@ -1,0 +1,617 @@
+Chủng	N
+virus	Nb
+khiến	V
+nữ sinh	N
+học viện	N
+ngân hàng	N
+tử vong	V
+chưa	R
+có	V
+vaccine	Nb
+Một	M
+nữ sinh	N
+Học viện	N
+Ngân hàng	N
+vừa	R
+bị	V
+tử vong	V
+do	E
+sốt xuất huyết	N
+.	CH
+
+Đây	P
+là	V
+trường hợp	N
+đầu tiên	A
+tại	E
+Hà Nội	Np
+bị	V
+tử vong	V
+do	E
+căn bệnh	N
+này	P
+.	CH
+
+Sốt xuất huyết	N
+hiện	N
+chưa	R
+có	V
+vaccine	Nb
+phòng bệnh	V
+và	Cc
+thuốc	N
+đặc trị	V
+nên	V
+người	N
+dân	N
+cần	V
+cẩn trọng	A
+trong	E
+phòng	N
+tránh	V
+.	CH
+
+Theo	E
+Trung tâm	N
+Y tế	N
+Dự phòng	V
+Hà Nội	Np
+,	CH
+một	M
+nữ sinh viên	N
+19	M
+tuổi	N
+của	E
+Học viện	N
+Ngân hàng	N
+,	CH
+trọ	V
+tại	E
+phường	N
+Trung Liệt	Np
+(	CH
+quận	N
+Đống Đa	Np
+)	CH
+vừa	R
+tử vong	V
+do	E
+sốt xuất huyết	N
+(	CH
+SXH	Ny
+)	CH
+.	CH
+
+Trước	E
+đó	P
+,	CH
+nữ	N
+bệnh nhân	N
+được	V
+đưa	V
+vào	E
+BV	Np
+Bệnh Nhiệt đới	N
+TƯ	Ny
+điều trị	V
+.	CH
+
+Tại	E
+đây	P
+,	CH
+bệnh nhân	N
+được	R
+xác định	V
+dương tính	A
+với	E
+virus	Nb
+Dengue	Np
+type	Nb
+1	M
+.	CH
+
+Dù	N
+được	V
+cấp cứu	V
+,	CH
+nhưng	C
+bệnh nhân	N
+đã	R
+tử vong	V
+.	CH
+
+Phòng trọ	V
+ẩm thấp	N
+,	CH
+kém	A
+vệ sinh	V
+là	V
+điều kiện	N
+tốt	A
+để	E
+bệnh	N
+sốt xuất huyết	N
+lây truyền	V
+.	CH
+
+Thống kê	V
+cho	V
+thấy	V
+,	CH
+từ	E
+đầu	N
+năm	N
+đến	E
+nay	P
+,	CH
+cả	P
+nước	N
+ghi nhận	V
+hơn	R
+23.000	M
+ca	N
+mắc	V
+SXH	Ny
+,	CH
+trong	E
+đó	P
+có	V
+9	M
+ca	N
+tử vong	V
+.	CH
+
+Riêng	A
+tại	E
+Hà Nội	Np
+,	CH
+đã	R
+có	V
+trên	A
+700	M
+trường hợp	N
+mắc	N
+SXH	Ny
+(	CH
+gấp	V
+2,1	M
+lần	N
+so	V
+với	E
+cùng	A
+kỳ	N
+năm	N
+trước	A
+)	CH
+.	CH
+
+Trong	E
+đó	P
+,	CH
+quận	N
+Đống Đa	Np
+là	V
+nơi	N
+có	V
+số	N
+ca	N
+mắc	N
+SXH	Ny
+cao	A
+nhất	A
+với	E
+165	M
+ca	N
+.	CH
+
+Theo	E
+Cục Y tế	N
+Dự phòng	N
+(	CH
+Bộ Y tế	Np
+)	CH
+,	CH
+SXH	Ny
+là	V
+bệnh	N
+truyền nhiễm	V
+cấp tính	N
+,	CH
+do	E
+virus Dengue	Np
+gây	V
+ra	R
+,	CH
+với	E
+4	M
+tuyp	N
+gây	V
+bệnh	N
+được	V
+ký hiệu	N
+là	V
+D1	Np
+,	CH
+D2	Np
+,	CH
+D3	Np
+,	CH
+D4	Np
+.	CH
+
+Cả	P
+4	M
+tuyp	N
+gây	V
+bệnh	N
+này	P
+đều	R
+gặp	V
+ở	E
+Việt Nam	Np
+và	Cc
+luân phiên	V
+gây	V
+dịch	V
+.	CH
+
+Bệnh	N
+lây lan	V
+do	E
+muỗi vằn	N
+đốt	V
+người bệnh	N
+nhiễm	V
+virus	Nb
+sau	E
+đó	P
+truyền	V
+bệnh	N
+cho	E
+người	N
+lành	A
+.	CH
+
+Bệnh	N
+lưu hành	V
+rất	R
+phổ biến	A
+tại	E
+các	L
+tỉnh	N
+,	CH
+thành	V
+trong	E
+cả	P
+nước	N
+,	CH
+xảy	V
+ra	V
+quanh	N
+năm	N
+nhưng	C
+thường	R
+bùng phát	V
+thành	V
+dịch	N
+vào	E
+mùa	N
+mưa	N
+.	CH
+
+Khi	N
+bị	V
+SXH	Ny
+,	CH
+người bệnh	N
+có	V
+biểu hiện	V
+sốt	V
+cao	A
+đột ngột	A
+39	M
+-	CH
+40	M
+độ	N
+C	Nu
+,	CH
+kéo dài	V
+2	M
+-	CH
+7	M
+ngày	N
+,	CH
+khó	A
+hạ	V
+sốt	V
+;	CH
+đau đầu	A
+dữ dội	A
+ở	E
+vùng	N
+trán	N
+,	CH
+sau	E
+nhãn cầu	N
+;	CH
+nổi	V
+mẩn	N
+,	CH
+phát ban	V
+.	CH
+
+Trường hợp	N
+bệnh	N
+nặng	A
+,	CH
+bệnh nhân	N
+sẽ	R
+xuất hiện	V
+chấm	V
+xuất huyết	V
+ngoài da	N
+,	CH
+chảy máu cam	V
+,	CH
+chảy máu	V
+chân răng	N
+,	CH
+đi cầu	V
+phân	N
+đen	A
+.	CH
+
+Nếu không	N
+được	V
+cấp cứu	V
+và	Cc
+điều trị	V
+kịp thời	A
+có thể	R
+dẫn	V
+đến	E
+tử vong	V
+.	CH
+
+Ông	Nc
+Trần Đắc Phu	Np
+,	CH
+Cục trưởng	N
+Cục Y tế	N
+Dự phòng	V
+,	CH
+cho biết	V
+,	CH
+SXH	Ny
+hiện	N
+chưa	R
+có	V
+vaccine	Nb
+phòng bệnh	V
+và	Cc
+chưa	R
+có	V
+thuốc	N
+điều trị	V
+đặc hiệu	N
+.	CH
+
+Vì vậy	C
+,	CH
+biện pháp	N
+phòng bệnh	V
+chủ yếu	A
+và	Cc
+hiệu quả	N
+là	V
+diệt	V
+muỗi	N
+,	CH
+diệt	V
+loăng quăng	N
+/	CH
+bọ gậy	N
+và	Cc
+phòng	V
+muỗi	N
+đốt	V
+.	CH
+
+Diệt	V
+muỗi	V
+,	CH
+lăng quăng	N
+để	E
+phòng bệnh	V
+SXH	Ny
+Để	E
+phòng bệnh	V
+SXH	Ny
+cho	E
+bản thân	N
+,	CH
+gia đình	N
+và	Cc
+mọi	L
+người	N
+xung quanh	N
+,	CH
+Bộ Y tế	Np
+khuyến cáo	V
+người	N
+dân	N
+thực hiện	V
+các	L
+biện pháp	N
+phòng bệnh	V
+sau	A
+:	CH
+-	CH
+Đậy	V
+kín	A
+tất cả	P
+dụng cụ	N
+chứa	V
+nước	N
+để	E
+muỗi	V
+không	R
+vào	V
+đẻ trứng	V
+.	CH
+
+-	CH
+Hằng	R
+tuần	N
+thực hiện	V
+các	L
+biện pháp	N
+diệt	V
+loăng quăng	N
+/	CH
+bọ gậy	N
+bằng	E
+cách	N
+thả	V
+cá	N
+vào	E
+dụng cụ	N
+chứa	V
+nước lớn	N
+;	CH
+thau	N
+rửa	V
+dụng cụ	N
+chứa	V
+nước	N
+vừa	R
+và	Cc
+nhỏ	A
+,	CH
+lật úp	V
+các	L
+dụng cụ	N
+không	R
+chứa	V
+nước	N
+;	CH
+thay	V
+nước	N
+bình	N
+hoa	N
+/	CH
+bình	N
+bông	N
+;	CH
+bỏ	V
+muối	N
+hoặc	Cc
+dầu	N
+vào	V
+bát	N
+nước	N
+kê	V
+chân	N
+chạn	N
+.	CH
+
+-	CH
+Hằng	R
+tuần	N
+loại bỏ	V
+các	L
+vật liệu	N
+phế thải	N
+,	CH
+các	L
+hốc	N
+nước	N
+tự nhiên	A
+không	R
+cho	V
+muỗi	N
+đẻ trứng	V
+như	C
+chai	N
+,	CH
+lọ	N
+,	CH
+mảnh	N
+chai	N
+,	CH
+vỏ	N
+dừa	N
+,	CH
+mảnh	N
+lu	N
+vỡ	V
+,	CH
+lốp	N
+/	CH
+vỏ	N
+xe	N
+cũ	A
+,	CH
+hốc	N
+tre	N
+,	CH
+bẹ lá	N
+...	CH
+
+-	CH
+Ngủ	V
+màn	N
+,	CH
+mặc	V
+quần áo dài	N
+phòng	V
+muỗi	N
+đốt	V
+ngay	T
+cả	T
+ban ngày	N
+.	CH
+
+-	CH
+Tích cực	A
+phối hợp	V
+với	E
+ngành	N
+y tế	N
+trong	E
+các	L
+đợt	N
+phun	V
+hóa	V
+chất	N
+phòng	V
+,	CH
+chống	V
+dịch	N
+.	CH
+
+-	CH
+Khi	N
+bị	V
+sốt	V
+,	CH
+cần	V
+đến	V
+ngay	T
+cơ sở	N
+y tế	N
+để	E
+được	V
+khám	V
+và	Cc
+tư vấn	V
+điều trị	V
+.	CH
+
+Không	R
+tự ý	A
+điều trị	V
+tại nhà	N
+.	CH
+
+Như Ngọc	Np
