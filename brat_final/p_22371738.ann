@@ -1,0 +1,190 @@
+T1	V 0 7	Yêu cầu
+T2	V 8 17	kiểm điểm
+T3	N 18 22	việc
+T4	V 23 31	bổ nhiệm
+T5	A 32 37	nhiều
+T6	N 38 41	cấp
+T7	Z 42 45	phó
+T8	N 46 48	Bộ
+T9	N 49 55	Nội vụ
+T10	V 56 60	được
+T11	V 61 65	giao
+T12	V 66 73	đôn đốc
+T13	CH 74 75	,
+T14	V 76 84	kiểm tra
+T15	N 85 89	việc
+T16	V 90 99	thực hiện
+T17	Cc 100 102	và
+T18	V 103 110	báo cáo
+T19	N 111 120	Thủ tướng
+T20	N 121 130	Chính phủ
+T21	E 131 136	trước
+T22	N 137 141	ngày
+T23	M 142 144	15
+T24	CH 145 146	-
+T25	M 147 148	7
+T26	N 149 162	Phó Thủ tướng
+T27	N 163 174	Thường trực
+T28	Np 175 190	Trương Hòa Bình
+T29	R 191 194	vừa
+T30	V 195 202	yêu cầu
+T31	N 203 211	Chủ tịch
+T32	Ny 212 216	UBND
+T33	N 217 221	tỉnh
+T34	Np 222 231	Bình Định
+T35	V 232 239	tổ chức
+T36	V 240 249	kiểm điểm
+T37	CH 250 251	,
+T38	V 252 255	làm
+T39	A 256 258	rõ
+T40	N 259 270	trách nhiệm
+T41	N 271 278	tổ chức
+T42	CH 279 280	,
+T43	N 281 288	cá nhân
+T44	V 289 298	liên quan
+T45	E 299 302	đến
+T46	N 303 307	việc
+T47	V 308 316	bổ nhiệm
+T48	N 317 320	cấp
+T49	Z 321 324	phó
+T50	V 325 329	vượt
+T51	R 330 333	quá
+T52	N 334 342	số lượng
+T53	V 343 351	quy định
+T54	CH 352 353	.
+T55	E 354 358	Theo
+T56	P 359 361	đó
+T57	CH 362 363	,
+T58	V 364 367	xét
+T59	V 368 375	báo cáo
+T60	E 376 379	của
+T61	N 380 389	Bộ Nội vụ
+T62	E 390 392	về
+T63	N 393 400	kết quả
+T64	V 401 409	kiểm tra
+T65	N 410 414	việc
+T66	N 415 422	báo chí
+T67	V 423 431	phản ánh
+T68	Np 432 437	Sở TN
+T69	CH 438 439	&
+T70	Ny 440 442	MT
+T71	N 443 447	tỉnh
+T72	Np 448 457	Bình Định
+T73	V 458 460	có
+T74	M 461 462	6
+T75	N 463 475	Phó giám đốc
+T76	N 476 478	Sở
+T77	Cc 479 481	và
+T78	L 482 488	một số
+T79	N 489 498	công chức
+T80	N 499 514	Phòng Tài chính
+T81	N 515 520	huyện
+T82	Np 521 532	Thạch Thành
+T83	CH 533 534	(
+T84	Np 535 544	Thanh Hóa
+T85	CH 545 546	)
+T86	V 547 554	sử dụng
+T87	N 555 557	xe
+T88	N 558 562	công
+T89	V 563 570	đi thăm
+T90	N 571 574	khu
+T91	N 575 582	di tích
+T92	Np 583 590	An Tiêm
+T93	E 591 596	trong
+T94	N 597 600	giờ
+T95	A 601 611	hành chính
+T96	CH 612 613	,
+T97	N 614 627	Phó Thủ tướng
+T98	V 628 635	yêu cầu
+T99	N 636 644	Chủ tịch
+T100	Ny 645 649	UBND
+T101	N 650 654	tỉnh
+T102	Np 655 664	Bình Định
+T103	V 665 675	giải quyết
+T106	N 688 700	Phó Giám đốc
+T107	Np 701 706	Sở TN
+T108	Ny 707 708	&
+T109	Np 709 711	MT
+T110	V 712 716	vượt
+T111	R 717 720	quá
+T112	V 721 729	quy định
+T113	CH 730 731	.
+T114	R 732 741	Đồng thời
+T115	V 742 749	tổ chức
+T116	V 750 759	kiểm điểm
+T117	CH 760 761	,
+T118	V 762 765	làm
+T119	A 766 768	rõ
+T120	N 769 780	trách nhiệm
+T121	N 781 788	tổ chức
+T122	CH 789 790	,
+T123	N 791 798	cá nhân
+T124	V 799 808	liên quan
+T125	E 809 812	đến
+T126	N 813 817	việc
+T127	V 818 826	bổ nhiệm
+T128	N 827 830	cấp
+T129	Z 831 834	phó
+T130	V 835 839	vượt
+T131	R 840 843	quá
+T132	N 844 852	số lượng
+T133	V 853 861	quy định
+T134	CH 862 863	;
+T135	V 864 869	xử lý
+T136	N 870 877	kỷ luật
+T137	E 878 885	đối với
+T138	N 886 893	cá nhân
+T139	V 894 901	vi phạm
+T140	E 902 907	trong
+T141	V 908 916	công tác
+T142	V 917 925	bổ nhiệm
+T143	CH 926 927	.
+T144	N 928 941	Phó Thủ tướng
+T145	R 942 946	cũng
+T146	V 947 954	yêu cầu
+T147	N 955 963	Chủ tịch
+T148	Ny 964 968	UBND
+T149	N 969 973	tỉnh
+T150	Np 974 983	Thanh Hóa
+T151	V 984 991	chỉ đạo
+T152	N 992 1000	Chủ tịch
+T153	Ny 1001 1005	UBND
+T154	N 1006 1011	huyện
+T155	Np 1012 1023	Thạch Thành
+T156	V 1024 1029	xử lý
+T157	N 1030 1037	kỷ luật
+T158	E 1038 1045	đối với
+T159	N 1046 1053	cá nhân
+T160	V 1054 1061	vi phạm
+T161	E 1062 1067	trong
+T162	N 1068 1072	việc
+T163	V 1073 1080	sử dụng
+T164	N 1081 1083	xe
+T165	N 1084 1088	công
+T166	V 1089 1091	đi
+T167	N 1092 1098	lễ hội
+T168	E 1099 1104	trong
+T169	N 1105 1108	giờ
+T170	A 1109 1119	hành chính
+T171	CH 1120 1121	.
+T172	N 1122 1124	Bộ
+T173	N 1125 1131	Nội vụ
+T174	V 1132 1136	được
+T175	V 1137 1141	giao
+T176	V 1142 1149	đôn đốc
+T177	CH 1150 1151	,
+T178	V 1152 1160	kiểm tra
+T179	N 1161 1165	việc
+T180	V 1166 1175	thực hiện
+T181	Cc 1176 1178	và
+T182	V 1179 1186	báo cáo
+T183	N 1187 1196	Thủ tướng
+T184	N 1197 1206	Chính phủ
+T185	E 1207 1212	trước
+T186	N 1213 1217	ngày
+T187	M 1218 1220	15
+T188	CH 1221 1222	-
+T189	M 1223 1224	7
+T190	CH 1225 1226	.
+T104	N 685 687	số
+T105	V 676 684	dứt điểm

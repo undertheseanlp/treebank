@@ -1,0 +1,159 @@
+T1	Np 0 3	Nga
+T2	CH 4 5	,
+T3	Np 6 16	Thổ Nhĩ Kỳ
+T4	CH 17 18	,
+T5	Np 19 23	Iran
+T6	V 24 32	nhóm họp
+T7	E 33 35	về
+T8	N 36 40	lệnh
+T9	V 41 50	ngừng bắn
+T10	E 51 54	tại
+T11	Np 55 60	Syria
+T12	N 61 65	Nhóm
+T13	V 66 75	kiểm soát
+T14	N 76 80	việc
+T15	V 81 89	thực thi
+T16	N 90 94	lệnh
+T17	V 95 104	ngừng bắn
+T18	E 105 108	tại
+T20	Np 119 122	Nga
+T21	CH 123 124	,
+T22	Np 125 135	Thổ Nhĩ Kỳ
+T23	CH 136 137	,
+T24	Np 138 142	Iran
+T25	Cc 143 145	và
+T26	L 146 149	các
+T27	N 150 160	chuyên gia
+T30	R 175 177	đã
+T31	V 178 185	tổ chức
+T32	N 186 190	nhóm
+T33	V 191 194	họp
+T34	E 195 198	tại
+T35	N 199 205	thủ đô
+T36	Np 206 212	Astana
+T37	CH 213 214	,
+T38	Np 215 225	Kazakhstan
+T39	E 226 229	vào
+T40	N 230 234	ngày
+T41	M 235 236	6
+T42	CH 237 238	-
+T43	M 239 240	2
+T44	CH 241 242	.
+T45	M 243 246	Một
+T46	N 247 250	khu
+T47	N 251 255	trại
+T48	V 256 262	tị nạn
+T49	E 263 264	ở
+T50	N 265 272	khu vực
+T51	Np 273 281	Rashidin
+T52	E 282 285	của
+T53	Np 286 292	Aleppo
+T54	CH 293 294	-
+T55	N 295 304	thành phố
+T57	N 314 324	nhất Syria
+T58	CH 325 326	.
+T59	CH 327 328	(
+T60	N 329 332	Ảnh
+T61	CH 333 334	:
+T62	Ny 335 337	AP
+T63	CH 338 339	)
+T64	CH 340 341	.
+T65	E 342 346	Theo
+T66	N 347 352	người
+T67	V 353 362	phát ngôn
+T68	N 363 365	Bộ
+T70	CH 388 389	,
+T71	N 390 394	cuộc
+T72	V 395 398	họp
+T73	R 399 402	còn
+T74	V 403 405	có
+T75	N 406 408	sự
+T76	V 409 416	tham dự
+T77	E 417 420	của
+T78	V 421 429	đại diện
+T79	V 430 433	tới
+T80	E 434 436	từ
+T81	Np 437 443	Jordan
+T82	CH 444 445	.
+T83	N 446 458	Chương trình
+T84	N 459 463	nhóm
+T85	V 464 467	họp
+T86	V 468 475	bao gồm
+T87	L 476 479	các
+T88	N 480 488	nội dung
+T89	CH 489 490	:
+T90	V 491 498	Xem xét
+T91	R 499 502	lại
+T92	N 503 507	việc
+T93	V 508 516	thực thi
+T94	N 517 521	lệnh
+T95	V 522 531	ngừng bắn
+T96	E 532 535	của
+T97	L 536 539	các
+T98	N 540 543	bên
+T99	V 544 553	liên quan
+T100	CH 554 555	;
+T101	V 556 565	thảo luận
+T102	E 566 568	về
+T103	V 569 576	cam kết
+T104	E 577 580	của
+T105	N 581 592	chính quyền
+T106	Np 593 598	Syria
+T107	Cc 599 601	và
+T108	V 602 605	phe
+T109	N 606 613	đối lập
+T110	E 614 616	về
+T111	N 617 621	lệnh
+T112	V 622 631	ngừng bắn
+T113	CH 632 633	;
+T114	V 634 642	xác định
+T115	A 643 645	rõ
+T116	L 646 649	các
+T117	N 650 659	biện pháp
+T118	V 660 669	thực hiện
+T119	V 670 677	cam kết
+T120	CH 678 679	.
+T121	N 680 682	Bộ
+T122	N 683 693	Ngoại giao
+T123	Np 694 704	Kazakhstan
+T124	V 705 715	khẳng định
+T125	N 716 720	cuộc
+T126	V 721 729	nhóm họp
+T127	R 730 734	cũng
+T128	V 735 737	là
+T129	M 738 741	một
+T130	N 742 750	diễn đàn
+T131	E 751 754	với
+T132	N 755 763	mục đích
+T133	V 764 767	tạo
+T134	N 768 774	cơ chế
+T135	V 775 783	thực thi
+T136	N 784 788	lệnh
+T137	V 789 798	ngừng bắn
+T138	CH 799 800	.
+T139	C 801 810	Tuy nhiên
+T140	CH 811 812	,
+T141	R 813 817	chưa
+T142	V 818 820	có
+T143	N 821 830	thông tin
+T144	A 831 837	cụ thể
+T145	E 838 840	về
+T146	N 841 851	thành phần
+T147	V 852 859	tham dự
+T148	E 860 863	của
+T149	P 864 868	từng
+T150	N 869 878	phái đoàn
+T151	E 879 882	tại
+T152	N 883 887	cuộc
+T153	V 888 891	họp
+T154	CH 892 893	.
+T155	Np 894 901	Mai Chi
+T19	V 115 118	gồm
+T157	Np 109 114	Syria
+T28	Np 161 174	Liên hợp quốc
+T29	N 305 309	đông
+T56	N 310 313	dân
+T69	N 366 376	Ngoại giao
+T158	Np 377 387	Kazakhstan
+T156	V 902 906	Theo
+T159	Np 907 914	Reuters
