@@ -1,0 +1,300 @@
+Một số	L
+ứng dụng	N
+iPhone	Np
+âm thầm	A
+làm	V
+lộ	N
+thông tin	N
+người	N
+dùng	V
+iPhone	Np
+được	R
+đánh giá	V
+bảo mật	V
+hơn	R
+các	L
+sản phẩm	N
+đối thủ	N
+,	CH
+nhưng	C
+không	R
+có	V
+nghĩa	N
+các	L
+ứng dụng	N
+trên	E
+đó	P
+sẽ	R
+tránh	V
+được	V
+nguy cơ	N
+bị	V
+hack	Vb
+.	CH
+
+Theo	E
+BGR	Np
+,	CH
+chuyên gia bảo mật	N
+Will Strafach	Np
+đã	R
+phát hiện	V
+một	M
+lỗ hổng	N
+tồn tại	V
+trong	E
+76	M
+ứng dụng	N
+trên	E
+App Store	Np
+với	E
+tổng số	N
+18	M
+triệu	M
+lượt	N
+tải	N
+.	CH
+
+Lỗi	Np
+này	P
+nảy sinh	N
+có thể	R
+do	E
+giao thức	N
+truyền	V
+dữ liệu	N
+TLS	Np
+trên	E
+một số	L
+ứng dụng	N
+bị	V
+cấu hình	V
+sai	A
+,	CH
+tạo	V
+cơ hội	N
+cho	E
+kẻ	N
+xấu	A
+chụp	V
+lại	R
+thông tin	N
+nhất định	A
+trên	E
+iPhone	Np
+của	E
+người	N
+cài	V
+ứng dụng	N
+.	CH
+
+Apple	Np
+không	R
+tự	P
+xử lý	V
+được	V
+lỗi	N
+do	E
+nó	P
+nằm	V
+trong	E
+đoạn	N
+mã	N
+của	E
+ứng dụng	N
+và	Cc
+các	L
+nhà	N
+phát triển	V
+cần	V
+dò	V
+lại	R
+và	Cc
+chỉnh	V
+sửa	V
+mã	N
+nguồn	N
+.	CH
+
+Ảnh	N
+minh họa	V
+:	CH
+AppleInsider Strafach	Np
+chia	V
+76	M
+ứng dụng	N
+thành	V
+ba	M
+loại	N
+:	CH
+nguy cơ	N
+thấp	A
+(	CH
+33	M
+ứng dụng	N
+)	CH
+,	CH
+nguy cơ	N
+trung bình	A
+(	CH
+24	M
+ứng dụng	N
+)	CH
+và	Cc
+nguy cơ	N
+cao	A
+(	CH
+19	M
+ứng dụng	N
+)	CH
+.	CH
+
+Trong	E
+đó	P
+,	CH
+những	L
+phần mềm	N
+có	V
+nguy cơ	N
+cao	A
+có thể	R
+làm	V
+lộ	V
+dữ liệu	N
+đăng	V
+nhập	V
+các	L
+dịch vụ	N
+tài chính	N
+còn	R
+với	E
+ứng dụng	N
+nguy cơ	N
+thấp	A
+,	CH
+người	N
+dùng	V
+có thể	R
+bị	V
+đánh cắp	V
+thông tin	N
+như	C
+địa chỉ	N
+email	Nb
+,	CH
+tên	N
+tài khoản	N
+...	CH
+
+Trong	E
+số	N
+33	M
+ứng dụng	N
+nguy cơ	N
+thấp	A
+có	V
+Snap Upload	Np
+for	Nb
+Snapchat	Np
+,	CH
+có thể	R
+trao	V
+cho	E
+hacker	Nb
+tên	N
+truy cập	V
+và	Cc
+mật khẩu	N
+Snapchat	Np
+.	CH
+
+Strafach	Np
+không	R
+tiết lộ	V
+những	L
+ứng dụng	N
+có	V
+nguy cơ	N
+trung bình	A
+và	Cc
+nguy cơ	N
+cao	A
+nhưng	C
+cho biết	N
+đã	R
+liên hệ	V
+với	E
+các	L
+nhà	N
+phát triển	V
+ứng dụng	N
+"	CH
+cho	E
+ngân hàng	N
+và	Cc
+y tế	N
+"	CH
+để	E
+xác định	V
+và	Cc
+thay đổi	V
+mã	N
+lỗi	N
+.	CH
+
+iPhone	Np
+cài đặt	V
+một	M
+trong	E
+76	M
+ứng dụng	N
+trên	E
+có thể	R
+bị	V
+đánh cắp	V
+dữ liệu	N
+khi	N
+kết nối	V
+mạng	N
+Wi - Fi	Nb
+thiếu	V
+an toàn	A
+.	CH
+
+Do đó	C
+,	CH
+Strafach	Np
+khuyến cáo	V
+người	N
+sử dụng	V
+tránh	V
+thực hiện	V
+giao dịch	V
+quan trọng	A
+khi	N
+đang	R
+truy cập	V
+mạng	N
+Wi - Fi	Nb
+mà	C
+họ	P
+không	R
+biết	V
+rõ	A
+(	CH
+như	C
+Wi - Fi	Nb
+công cộng	A
+)	CH
+mà	C
+nên	C
+chuyển	V
+sang	V
+kết nối	V
+3G	N
+/	CH
+4G	N
+.	CH
+
+Theo	V
+VnExpress	Np
