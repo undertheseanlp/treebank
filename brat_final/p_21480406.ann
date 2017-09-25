@@ -1,0 +1,167 @@
+T1	V 0 9	Hướng dẫn
+T2	V 10 13	làm
+T6	E 39 43	trên
+T7	Np 44 51	Windows
+T8	M 52 54	10
+T9	C 55 58	Nếu
+T10	V 59 63	muốn
+T11	N 64 72	màn hình
+T12	N 73 80	desktop
+T13	E 81 85	trên
+T14	Np 86 93	Windows
+T15	M 94 96	10
+T16	V 97 101	thêm
+T17	A 102 109	độc đáo
+T18	CH 110 111	,
+T19	N 112 115	bạn
+T20	R 116 121	không
+T21	V 122 125	nên
+T22	V 126 132	bỏ qua
+T23	N 133 141	việc làm
+T27	CH 167 168	.
+T28	N 169 172	Bài
+T29	V 173 177	viết
+T30	E 178 181	sau
+T31	P 182 185	đây
+T32	R 186 188	sẽ
+T33	V 189 198	hướng dẫn
+T34	N 199 203	cách
+T35	V 204 213	thực hiện
+T36	N 214 222	thao tác
+T37	P 223 226	này
+T38	CH 227 228	.
+T39	E 229 232	Với
+T42	Np 246 253	Windows
+T43	M 254 256	10
+T44	CH 257 258	,
+T45	N 259 264	người
+T46	V 265 269	dùng
+T47	R 270 276	có thể
+T48	V 277 280	tùy
+T49	V 281 286	chỉnh
+T50	V 287 291	theo
+T51	N 292 300	màn hình
+T52	N 301 311	phong cách
+T53	A 312 317	riêng
+T54	CH 318 319	.
+T55	C 320 329	Tuy nhiên
+T56	CH 330 331	,
+T57	Np 332 341	Microsoft
+T58	R 342 347	không
+T59	V 348 356	cho phép
+T60	N 357 362	người
+T61	V 363 367	dùng
+T62	V 368 371	làm
+T66	A 397 406	hoàn toàn
+T67	C 407 410	như
+T68	E 411 415	trên
+T69	Np 416 423	Windows
+T70	M 424 425	7
+T71	CH 426 427	.
+T72	N 428 431	Bài
+T73	V 432 436	viết
+T74	E 437 440	sau
+T75	P 441 444	đây
+T76	R 445 447	sẽ
+T77	V 448 457	hướng dẫn
+T78	N 458 461	bạn
+T79	V 462 465	làm
+T83	E 491 495	trên
+T84	L 496 499	các
+T85	N 500 508	máy tính
+T86	V 509 513	chạy
+T89	Np 527 534	Windows
+T90	M 535 537	10
+T91	CH 538 539	.
+T92	N 540 548	Đầu tiên
+T93	CH 549 550	,
+T94	N 551 554	bạn
+T95	V 555 563	tìm kiếm
+T96	Cc 564 566	và
+T97	V 567 570	tải
+T98	E 571 573	về
+T99	N 574 582	tiện ích
+T100	V 583 585	có
+T101	N 586 589	tên
+T102	V 590 592	là
+T103	Np 593 606	TranslucentTB
+T104	CH 607 608	.
+T105	N 609 616	Ưu điểm
+T106	E 617 620	của
+T107	N 621 629	tiện ích
+T108	P 630 633	này
+T109	V 634 636	là
+T110	N 637 642	người
+T111	V 643 647	dùng
+T112	R 648 653	không
+T113	V 654 657	cần
+T114	V 658 667	thiết lập
+T115	C 668 671	hay
+T116	V 672 679	cài đặt
+T117	CH 680 681	.
+T118	E 682 685	Sau
+T119	N 686 689	khi
+T120	V 690 693	tải
+T121	R 694 696	về
+T122	CH 697 698	,
+T123	N 699 702	bạn
+T124	R 703 706	chỉ
+T125	V 707 710	cần
+T126	Vb 711 716	click
+T127	V 717 720	đúp
+T128	N 721 726	chuột
+T129	A 727 731	trái
+T130	Cc 732 736	hoặc
+T131	V 737 741	nhấp
+T132	N 742 747	chuột
+T133	V 748 752	phải
+T134	V 753 757	chọn
+T135	Vb 758 762	Open
+T136	V 763 765	là
+T138	R 780 782	sẽ
+T139	A 783 790	tự động
+T142	R 802 814	ngay lập tức
+T143	CH 815 816	.
+T144	P 817 820	Đây
+T145	V 821 823	là
+T146	N 824 831	kết quả
+T147	E 832 835	sau
+T148	N 836 839	khi
+T149	V 840 849	kích hoạt
+T150	N 850 858	tiện ích
+T151	Np 859 872	TranslucentTB
+T152	CH 873 874	.
+T153	C 875 878	Nếu
+T154	V 879 883	muốn
+T155	V 884 887	tắt
+T156	N 888 896	tiện ích
+T157	P 897 900	này
+T158	CH 901 902	,
+T159	N 903 908	người
+T160	V 909 913	dùng
+T161	R 914 917	chỉ
+T162	V 918 921	cần
+T163	V 922 924	mở
+T164	Nb 925 937	Task Manager
+T165	Cc 938 940	và
+T166	V 941 949	lựa chọn
+T167	V 950 958	kết thúc
+T168	CH 959 960	.
+T169	Np 961 967	Lê Kha
+T5	N 25 30	thanh
+T170	Nb 31 38	taskbar
+T26	N 153 158	thanh
+T171	Nb 159 166	taskbar
+T63	N 372 377	thanh
+T172	Nb 378 385	taskbar
+T80	N 466 471	thanh
+T173	Nb 472 479	taskbar
+T3	A 14 24	trong suốt
+T4	A 142 152	trong suốt
+T24	A 386 396	trong suốt
+T25	A 480 490	trong suốt
+T64	A 791 801	trong suốt
+T40	N 233 245	hệ điều hành
+T41	N 514 526	hệ điều hành
+T65	N 766 771	thanh
+T81	Nb 772 779	taskbar

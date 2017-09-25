@@ -1,0 +1,367 @@
+Lỗ hổng	N
+mới	R
+trên	E
+Microsoft Edge	Np
+cho phép	V
+đánh cắp	V
+cookies	Nb
+,	CH
+mật khẩu	N
+Giữa	N
+lúc	N
+mã	N
+độc	A
+WannaCry	Np
+đang	R
+hoành hành	V
+trên	E
+các	L
+hệ thống	N
+Internet	Nb
+và	Cc
+thiết bị	N
+chạy	V
+Windows	Np
+trên	E
+toàn cầu	N
+,	CH
+một	M
+lỗ hổng	N
+mới	R
+trên	E
+trình	N
+duyệt	V
+Microsoft Edge	Np
+bất ngờ	A
+được	V
+công bố	V
+,	CH
+đặt	V
+nguy cơ	N
+cao	A
+người	N
+dùng	V
+có thể	R
+mất	V
+mật khẩu	N
+tài khoản	N
+dịch vụ	N
+.	CH
+
+Giữa	N
+lúc	N
+mã	N
+độc	A
+WannaCry	Np
+đang	R
+hoành hành	V
+trên	E
+các	L
+hệ thống	N
+Internet	Nb
+và	Cc
+thiết bị	N
+chạy	V
+Windows	Np
+trên	E
+toàn cầu	N
+,	CH
+một	M
+lỗ hổng	N
+mới	R
+trên	E
+trình	N
+duyệt	V
+Microsoft Edge	Np
+bất ngờ	A
+được	V
+công bố	V
+,	CH
+đặt	V
+nguy cơ	N
+cao	A
+người	N
+dùng	V
+có thể	R
+mất	V
+mật khẩu	N
+tài khoản	N
+dịch vụ	N
+.	CH
+
+Theo	E
+trang	N
+OnMSFT	Np
+đưa	V
+tin	N
+,	CH
+nhà nghiên cứu	N
+bảo mật	V
+Manuel Caballero	Np
+đã	R
+bất ngờ	A
+phát hiện	V
+ra	R
+một	M
+lỗ hổng	N
+mới	R
+trong	E
+dòng mã	N
+của	E
+Microsoft Edge	Np
+.	CH
+
+Lỗ hổng	N
+này	P
+vô tình	A
+tạo	V
+điều kiện	N
+cho	E
+các	L
+hacker	Nb
+có thể	R
+đánh cắp	V
+mật khẩu	N
+và	Cc
+dữ liệu	N
+cookies	Nb
+từ	E
+trình duyệt	N
+,	CH
+thậm chí	R
+can thiệp	V
+vào	E
+nhiều	A
+tài khoản	N
+dịch vụ	N
+như	C
+Facebook	Np
+hay	C
+Twitter	Np
+.	CH
+
+Theo	E
+Manuel Caballero	Np
+,	CH
+nguyên nhân	N
+bắt nguồn	V
+từ	E
+vấn đề	N
+với	E
+Same Origin Policy	Nb
+(	CH
+SOP	Ny
+)	CH
+trong	E
+trình duyệt	N
+Microsoft Edge	Np
+.	CH
+
+Đây	P
+là	V
+một	M
+biện pháp	N
+bảo mật	V
+nhằm	V
+ngăn chặn	V
+truy cập	V
+và	Cc
+sử dụng	V
+dữ liệu	N
+trên	E
+cùng	A
+một	M
+tên	N
+miền	N
+từ	E
+một	M
+tên	N
+miền	N
+khác	A
+.	CH
+
+Tuy vậy	C
+trên	E
+thực tế	N
+,	CH
+tính năng	N
+SOP	Ny
+không	R
+hoạt động	V
+ổn định	A
+như	C
+Microsoft	Np
+mong muốn	V
+.	CH
+
+Điều	N
+này	P
+dẫn	V
+tới	E
+việc	N
+các	L
+dữ liệu	N
+cookies	Nb
+hay	C
+mật khẩu	N
+có thể	R
+bị	V
+đánh cắp	V
+dễ dàng	A
+.	CH
+
+Tệ	A
+hơn nữa	A
+,	CH
+trước	N
+đó	P
+đã	R
+có	V
+hai	M
+phát hiện	V
+về	E
+vấn đề	N
+này	P
+nhưng	C
+chưa	R
+được	V
+Microsoft	Np
+vá	V
+trong	E
+các	L
+bản	N
+cập nhật	V
+Windows	Np
+mới	A
+nhất	R
+.	CH
+
+Ông	Nc
+chỉ	R
+ra	V
+rằng	C
+,	CH
+chu kỳ	N
+vá	V
+lỗi	N
+của	E
+Microsoft Edge	Np
+khác biệt	A
+so	V
+với	E
+các	L
+trình duyệt	N
+như	C
+Google Chrome	Np
+hay	C
+Firefox	Np
+,	CH
+và	Cc
+điều	N
+đó	P
+đã	R
+dẫn	V
+tới	E
+sự	N
+chậm trễ	V
+.	CH
+
+Caballero	Np
+đã	R
+đăng tải	V
+một	M
+đoạn	N
+video	Nb
+trên	E
+YouTube	Np
+mô tả	V
+cách	N
+khai thác	V
+lỗ hổng	N
+để	E
+lấy	V
+các	L
+dữ liệu	N
+như	C
+mật khẩu	N
+,	CH
+cookies	Nb
+của	E
+tài khoản	N
+Twitter	Np
+hay	C
+Facebook	Np
+dễ dàng	A
+.	CH
+
+Đoạn	N
+video	V
+mô tả	V
+chi tiết	A
+cách	N
+khai thác	V
+lỗ hổng	N
+để	E
+lấy	V
+cookies	Nb
+và	Cc
+mật khẩu	N
+dịch vụ	N
+Phát hiện	V
+trên	A
+của	E
+nhà nghiên cứu	N
+Caballero	Np
+xuất hiện	V
+không	R
+lâu	A
+sau	E
+khi	N
+nhóm	N
+chuyên	A
+săn lùng	V
+lỗ hổng	N
+Project Zero	Np
+của	E
+Google	Np
+bất ngờ	A
+phát hiện	V
+một	M
+lõ hổng	N
+khá	R
+nặng	A
+trên	E
+Windows	Np
+10	M
+.	CH
+
+Lỗi	N
+này	P
+hiện	N
+cũng	R
+đã	R
+được	V
+sữa	N
+chữa	V
+sau	E
+đó	P
+.	CH
+
+Tuy nhiên	C
+hiện	N
+Microsoft	Np
+chưa	R
+đưa	V
+ra	R
+lời	N
+bình luận	V
+nào	P
+về	E
+lỗ hổng	N
+mới	R
+xuất hiện	V
+trên	E
+Microsoft Edge	Np
+.	CH
+
+Tiến Thanh	Np
