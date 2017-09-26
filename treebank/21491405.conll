@@ -1,0 +1,503 @@
+Hai	M
+nam sinh	N
+sáng chế	V
+thiết bị	N
+chống	V
+đuối	A
+nước	N
+GD	Ny
+&	CH
+TĐ	Ny
+-	CH
+Hai	M
+bạn	N
+trẻ	A
+đến	V
+từ	E
+Đại học	N
+Cần Thơ	Np
+là	V
+Mã Minh Khoa	Np
+và	Cc
+Nguyễn Ngọc Tài	Np
+–	CH
+Khoa Công nghệ	N
+-	CH
+đã	R
+nhen nhóm	V
+ý tưởng	N
+sáng chế	V
+thiết bị	N
+giúp	V
+chống	V
+đuối	A
+nước	N
+,	CH
+đặc biệt	A
+dành	V
+cho	E
+đối tượng	N
+học sinh	N
+.	CH
+
+Khi	N
+đọc	V
+báo mạng	N
+và	Cc
+xem	V
+qua	E
+các	L
+thống kê	N
+về	E
+tỷ lệ	N
+tử vong	V
+do	E
+đuối	A
+nước	N
+ở	E
+nước	N
+ta	P
+còn	R
+rất	R
+cao	A
+,	CH
+trẻ em	N
+có thể	R
+tử vong	V
+trong	E
+lúc	N
+tập	V
+bơi	V
+ngay	T
+cả	P
+khi	N
+đi	V
+với	E
+phụ huynh	N
+,	CH
+Khoa	Np
+và	Cc
+Tài	Np
+đã	R
+được	V
+thầy	N
+Lương Vinh Quốc Danh	Np
+-	CH
+Giảng viên	N
+bộ môn	V
+Điện tử	N
+Viễn thông	N
+,	CH
+Khoa Công nghệ	N
+,	CH
+hướng dẫn	V
+đề tài	N
+có	V
+ý nghĩa	N
+thiết thực	A
+này	P
+.	CH
+
+Sau đó	N
+,	CH
+ý tưởng	N
+đã	R
+được	V
+lọt	V
+vào	E
+chung kết	N
+của	E
+cuộc thi	N
+nhà	N
+sáng tạo	N
+Việt Nam	Np
+với	E
+Intel Galileo	Np
+.	CH
+
+Khoa	Np
+và	Cc
+Tài	Np
+càng	R
+cố gắng	V
+hết mình	R
+để	E
+hoàn thiện	V
+đề tài	N
+này	P
+.	CH
+
+Mã Minh Khoa	Np
+chia sẻ	V
+:	CH
+Khi	N
+thực hiện	V
+đề tài	N
+này	P
+,	CH
+em	N
+chỉ	R
+mong sao	V
+giúp đỡ	V
+cho	E
+các	L
+học sinh	N
+,	CH
+những	L
+bạn	N
+trẻ	A
+có	V
+được	R
+an toàn	A
+tốt	A
+nhất	R
+khi	N
+bơi	V
+,	CH
+tránh	V
+tai nạn	N
+đuối	A
+nước	N
+.	CH
+
+Trong	E
+nhiều	A
+năm	N
+qua	V
+,	CH
+không	R
+ít	A
+tai nạn	N
+đuối	A
+nước	N
+xảy	V
+ra	R
+với	E
+các	L
+em	N
+học sinh	N
+thật	R
+thương tâm	A
+nên	C
+dù	E
+thiết kế	N
+này	P
+có	V
+được	R
+đưa	V
+vào	E
+ứng dụng	V
+rộng rãi	A
+hay	C
+không	R
+,	CH
+em	N
+cũng	R
+muốn	V
+hoàn thiện	V
+vì	E
+tin	V
+rằng	C
+đến	E
+một	M
+ngày	N
+thiết bị	N
+này	P
+sẽ	R
+được	V
+đưa	V
+vào	E
+nhiều	A
+nhà trường	N
+.	CH
+
+Giải pháp	N
+của	E
+hai	M
+bạn	N
+trẻ	A
+là	V
+thiết kế	V
+một	M
+thiết bị	N
+nhỏ	A
+gọn	A
+được	V
+người	N
+học	V
+bơi	V
+đeo	V
+trên	E
+cơ thể	N
+sẽ	R
+giúp	V
+phát hiện	V
+sớm	A
+và	Cc
+cảnh báo	V
+tình trạng	N
+đuối	A
+nước	N
+.	CH
+
+Thiết bị	N
+này	P
+có thể	R
+được	V
+đeo	V
+trên	E
+đầu	N
+,	CH
+tay	N
+hoặc	Cc
+trên	E
+cổ	N
+và	Cc
+sử dụng	V
+các	L
+cảm biến	N
+phù hợp	V
+để	E
+phát	V
+cảnh báo	V
+khi	N
+thiết bị	N
+chìm ngập	V
+trong	E
+nước	N
+trong	E
+một	M
+khoảng	N
+thời gian	N
+nhất định	A
+.	CH
+
+Khi	N
+trẻ	A
+tập	V
+bơi	V
+bị	V
+chìm	V
+trong	E
+nước	N
+,	CH
+các	L
+cảnh báo	V
+sẽ	R
+lập tức	R
+được	V
+phát	V
+ra	V
+từ	E
+thiết bị	N
+giám sát	V
+đặt	V
+trên	E
+bờ	N
+hoặc	Cc
+từ	E
+thiết bị	N
+di động	V
+của	E
+phụ huynh	N
+và	Cc
+người	N
+giám sát	V
+cho phép	V
+việc	N
+phát hiện	V
+kịp thời	A
+và	Cc
+hỗ trợ	V
+nhanh chóng	A
+nhằm	V
+giảm thiểu	V
+sự	N
+thiệt hại	A
+về	E
+tính mạng	N
+.	CH
+
+Trong	E
+quá trình	N
+nghiên cứu	V
+đề tài	N
+,	CH
+mặc dù	C
+giảng viên	N
+đã	R
+hướng dẫn	V
+rất	R
+tận tình	A
+nhưng	C
+Khoa	Np
+và	Cc
+Tài	Np
+cũng	R
+không	R
+tránh	V
+được	R
+những	L
+khó khăn	A
+.	CH
+
+Đặc biệt	A
+là	C
+việc	N
+tìm hiểu	V
+về	E
+bản chất	N
+sóng	N
+trong	E
+môi trường	N
+nước	N
+để	E
+chọn	V
+loại	N
+sóng	N
+phù hợp	V
+;	CH
+Thiết kế	V
+giải thuật	N
+đơn giản	A
+để	E
+tiết kiệm	V
+năng lượng	N
+,	CH
+kéo dài	V
+thời gian	N
+hoạt động	V
+của	E
+thiết bị	N
+mà	C
+không	R
+cần	V
+phải	V
+thay	V
+pin	Nb
+;	CH
+Thiết kế	V
+phần cứng	N
+nhỏ	A
+gọn	A
+,	CH
+hợp	V
+thời trang	N
+,	CH
+vừa	R
+có thể	R
+chống	V
+thấm	V
+nước	N
+lại	R
+vừa	R
+có thể	R
+tháo	V
+lắp	V
+dễ dàng	A
+khi	N
+thay	V
+pin	Nb
+;	CH
+Chọn	V
+loại	N
+thiết bị	N
+phát sóng	V
+phù hợp	V
+:	CH
+kích thước	N
+nhỏ	A
+,	CH
+tiết kiệm	V
+năng lượng	N
+,	CH
+có	V
+vừa	R
+đủ	A
+các	L
+tính năng	N
+cần thiết	A
+và	Cc
+tiết kiệm	V
+chi phí	N
+sản xuất	V
+.	CH
+
+Đó	P
+là	V
+những	L
+câu hỏi	N
+đặt	V
+ra	R
+khiến	V
+hai	M
+bạn	N
+trẻ	A
+phải	V
+nỗ lực	V
+nhiều	A
+hơn	A
+nữa	R
+.	CH
+
+Cuối cùng	A
+,	CH
+khi	N
+hoàn thiện	V
+ý tưởng	N
+,	CH
+Ban	N
+Giám khảo	N
+cuộc thi	N
+Nhà	N
+sáng tạo	V
+Việt Nam	Np
+đã	R
+trao	V
+giải	N
+khuyến khích	V
+cho	E
+đề tài	N
+thiết bị	N
+chống	V
+đuối	A
+nước	N
+của	E
+nhóm	N
+bạn	N
+trẻ	A
+trường	N
+Đại học	N
+Cần Thơ	Np
+.	CH
+
+Do	C
+vừa	R
+ra	V
+trường	N
+nên	C
+Khoa	Np
+và	Cc
+Tài	Np
+dự định	V
+bàn giao	V
+lại	R
+cho	E
+các	L
+bạn	N
+sinh viên	N
+khóa	N
+sau	N
+tiếp tục	V
+cải tiến	V
+và	Cc
+hoàn thiện	V
+hướng	N
+đến	E
+việc	N
+thương mại	N
+hóa	Z
+sản phẩm	N
+.	CH
+
+Ngọc Trang	Np
