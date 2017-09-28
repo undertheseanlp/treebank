@@ -1,0 +1,340 @@
+Quy trình	N
+lập	V
+dự án	N
+BOT	Ny
+Sau	E
+khi	N
+được	V
+lựa chọn	V
+,	CH
+nhà	N
+đầu tư	V
+sẽ	R
+lập	V
+dự toán	N
+cho	E
+dự án	N
+bao gồm	V
+các	L
+chi phí	N
+xây dựng	V
+,	CH
+lãi	N
+vay	V
+,	CH
+dự phòng	V
+trượt giá	N
+và	Cc
+nguyên	Z
+vật liệu	N
+.	CH
+
+Ảnh	N
+minh họa	V
+Bộ	N
+GTVT	Ny
+vừa	R
+quyết định	V
+giảm	V
+đến	T
+hơn	A
+92	M
+năm	N
+thu	V
+phí	N
+đối với	E
+13	M
+dự án	N
+BOT	Ny
+.	CH
+
+Trong	E
+đó	P
+,	CH
+có	V
+dự án	N
+giảm	V
+đến	E
+hơn	A
+2	M
+/	CH
+3	M
+thời gian	N
+thu	V
+phí	N
+.	CH
+
+Việc	N
+điều chỉnh	V
+này	P
+là	V
+do	E
+giá trị	N
+quyết toán	V
+của	E
+dự án	N
+thấp	A
+hơn	R
+tổng	N
+mức	N
+đầu tư	V
+ban đầu	N
+.	CH
+
+Vậy	P
+quy trình	N
+lập	V
+dự án	N
+để	E
+tính toán	V
+tổng	N
+mức	N
+đầu tư	V
+và	Cc
+thời gian	N
+thu	V
+phí	N
+như	C
+thế nào	P
+?	CH
+Bộ	N
+GTVT	Ny
+lập	V
+báo cáo	V
+khả thi	A
+để	E
+xác định	V
+tổng	N
+mức	N
+đầu tư	V
+của	E
+dự án	N
+BOT	Ny
+.	CH
+
+Đây	P
+sẽ	R
+là	V
+giá trị	N
+để	E
+xác định	V
+thời gian	N
+hoàn	V
+vốn	N
+tạm	A
+tính	V
+và	Cc
+đàm phán	V
+với	E
+nhà đầu tư	N
+.	CH
+
+Việc	Np
+xác định	V
+thời gian	N
+tạm	A
+tính	N
+này	P
+sẽ	R
+được	V
+thực hiện	V
+bằng	E
+cách	N
+kiểm	V
+đếm	V
+lưu lượng	N
+phương tiện	N
+tại	E
+vị trí	N
+đặt	V
+trạm	N
+thu	V
+phí	N
+trong	E
+một số	L
+ngày	N
+như	C
+ngày	N
+đầu	N
+tuần	N
+,	CH
+cuối tuần	N
+và	Cc
+ngày lễ	N
+.	CH
+
+Sau	E
+khi	N
+được	V
+lựa chọn	V
+,	CH
+nhà	N
+đầu tư	V
+sẽ	R
+lập	V
+dự toán	N
+cho	E
+dự án	N
+bao gồm	V
+các	L
+chi phí	N
+xây dựng	V
+,	CH
+lãi	N
+vay	V
+,	CH
+dự phòng	V
+trượt giá	N
+và	Cc
+nguyên	Z
+vật liệu	N
+.	CH
+
+Khi	N
+dự án	N
+hoàn thành	V
+,	CH
+nhà	N
+đầu tư	V
+sẽ	R
+quyết toán	V
+giá trị	N
+thực tế	N
+xây dựng	V
+dự án	N
+.	CH
+
+Đây	P
+là	V
+giá trị	N
+cuối cùng	A
+để	E
+quyết định	V
+thời gian	N
+thu	V
+phí	N
+.	CH
+
+Cũng	R
+theo	E
+đại diện	N
+Bộ	N
+GTVT	Ny
+,	CH
+bước	N
+lập	V
+dự án	N
+không thể	R
+tính	V
+chính xác	A
+chi phí	N
+thực tế	N
+đầu tư	V
+.	CH
+
+Do vậy	C
+,	CH
+sau	E
+khi	N
+quyết toán	V
+Bộ	N
+sẽ	R
+cập nhật	V
+lại	R
+lưu lượng	V
+xe	N
+,	CH
+các	L
+thông số	N
+tài chính	N
+để	E
+tính toán	V
+lại	R
+thời gian	N
+thu	V
+phí	N
+.	CH
+
+Đối với	E
+dự án	N
+tuyến	N
+tránh	V
+thành phố	N
+Thanh Hóa	Np
+giảm	V
+thời gian	N
+thu	V
+phí	N
+đến	T
+hơn	A
+20	M
+năm	N
+,	CH
+sai số	N
+gần	A
+70	M
+%	Cb
+,	CH
+đại diện	N
+Bộ	N
+GTVT	Ny
+cho biết	V
+,	CH
+dự án	N
+này	P
+cũng	R
+đã	R
+được	V
+Thanh tra	V
+Chính phủ	N
+kiểm tra	V
+và	Cc
+kết luận	V
+có	V
+sai sót	N
+trong	E
+quá trình	N
+lập	V
+dự án	N
+.	CH
+
+Việc	N
+quyết toán	V
+vốn	N
+đầu tư	V
+thực tế	N
+của	E
+dự án	N
+BOT	Ny
+để	E
+tính toán	V
+lại	R
+thời gian	N
+thu	V
+phí	N
+,	CH
+sẽ	R
+tránh	V
+được	R
+việc	N
+người	Nc
+dân	N
+phải	V
+đóng	V
+phí	N
+không	R
+đúng	A
+với	Cc
+giá trị	N
+mà	C
+chủ	N
+đầu tư	V
+bỏ	V
+ra	R
+để	E
+làm	V
+đường	N
+.	CH
+
+Theo	E
+VTV	Np
