@@ -1,0 +1,172 @@
+T1	N 0 8	Chủ tịch
+T4	V 33 35	ra
+T5	N 36 44	quy định
+T6	E 45 47	về
+T7	N 48 56	pháp chế
+T8	N 57 65	quân đội
+T9	N 66 74	Chủ tịch
+T12	CH 99 100	,
+T13	R 101 110	đồng thời
+T14	V 111 113	là
+T15	N 114 122	Chủ tịch
+T16	N 123 130	Quân ủy
+T17	N 131 141	Trung ương
+T18	CH 142 143	,
+T19	R 144 147	vừa
+T20	V 148 150	ký
+T21	M 151 154	một
+T22	N 155 163	sắc lệnh
+T23	E 164 168	nhằm
+T24	V 169 177	ban hành
+T25	V 178 186	quy định
+T26	E 187 189	về
+T27	N 190 198	pháp chế
+T28	N 199 207	quân đội
+T29	CH 208 209	.
+T30	N 210 218	Chủ tịch
+T33	CH 243 244	.
+T34	CH 245 246	(
+T35	N 247 252	Nguồn
+T36	CH 253 254	:
+T42	CH 269 270	)
+T43	N 271 279	Hãng tin
+T44	Np 280 287	Tân Hoa
+T45	N 288 292	ngày
+T46	M 293 295	10
+T47	CH 296 297	/
+T48	M 298 299	5
+T49	V 300 308	cho biết
+T50	N 309 317	Chủ tịch
+T53	CH 342 343	,
+T54	R 344 353	đồng thời
+T55	V 354 356	là
+T56	N 357 365	Chủ tịch
+T57	N 366 373	Quân ủy
+T58	N 374 384	Trung ương
+T59	CH 385 386	,
+T60	R 387 390	vừa
+T61	V 391 393	ký
+T62	M 394 397	một
+T63	N 398 406	sắc lệnh
+T64	E 407 411	nhằm
+T65	V 412 420	ban hành
+T66	V 421 429	quy định
+T67	E 430 432	về
+T68	N 433 441	pháp chế
+T69	N 442 450	quân đội
+T70	CH 451 452	.
+T71	V 453 461	Quy định
+T72	R 462 465	mới
+T73	P 466 469	này
+T74	V 470 472	có
+T75	N 473 481	hiệu lực
+T76	E 482 484	từ
+T77	N 485 489	ngày
+T78	M 490 491	8
+T79	CH 492 493	/
+T80	M 494 495	5
+T81	E 496 499	với
+T82	N 500 508	mục đích
+T83	V 509 517	xác định
+T84	L 518 521	các
+T85	N 522 532	nguyên tắc
+T86	V 533 537	nhằm
+T87	V 538 547	thiết lập
+T88	L 548 551	các
+T89	N 552 564	luật quân sự
+T90	Cc 565 567	và
+T91	V 568 576	quy định
+T92	E 577 584	đối với
+T93	N 585 593	quân đội
+T94	Np 594 604	Trung Quốc
+T95	CH 605 606	,
+T96	R 607 611	cũng
+T97	C 612 615	như
+T98	V 616 625	soạn thảo
+T99	L 626 629	các
+T100	N 630 638	văn kiện
+T101	A 639 644	chuẩn
+T102	CH 645 646	.
+T103	CH 647 648	[
+T104	Np 649 659	Trung Quốc
+T105	A 660 668	sẵn sàng
+T106	V 669 679	tăng cường
+T107	N 680 687	quan hệ
+T108	N 688 695	quân sự
+T109	E 696 699	với
+T110	Np 700 702	Mỹ
+T111	CH 703 704	]
+T112	V 705 713	Quy định
+T113	P 714 717	này
+T114	R 718 722	cũng
+T115	A 723 728	chuẩn
+T116	Z 729 732	hóa
+T117	N 733 741	hệ thống
+T118	L 742 745	các
+T119	N 746 750	luật
+T120	Cc 751 753	và
+T121	V 754 762	quy định
+T122	N 763 771	quân đội
+T123	CH 772 773	,
+T124	E 774 776	từ
+T125	L 777 780	các
+T126	N 781 785	bước
+T127	V 786 795	soạn thảo
+T128	CH 796 797	,
+T129	V 798 806	đệ trình
+T130	CH 807 808	,
+T131	V 809 816	sửa đổi
+T132	Cc 817 819	và
+T133	V 820 828	ban hành
+T134	CH 829 830	.
+T135	N 831 839	Bên cạnh
+T136	P 840 842	đó
+T137	CH 843 844	,
+T138	V 845 853	quy định
+T139	R 854 857	mới
+T140	R 858 862	cũng
+T141	V 863 872	kiểm soát
+T142	N 873 877	việc
+T143	V 878 885	rà soát
+T144	Cc 886 888	và
+T145	V 889 898	biên soạn
+T146	N 899 904	hồ sơ
+T147	CH 905 906	,
+T148	R 907 911	cũng
+T149	C 912 915	như
+T150	V 916 923	đề xuất
+T151	L 924 927	các
+T152	N 928 937	biện pháp
+T153	V 938 942	nhằm
+T154	V 943 947	nâng
+T155	A 948 951	cao
+T156	N 952 960	hệ thống
+T157	V 961 968	quản lý
+T158	N 969 977	văn kiện
+T159	CH 978 979	.
+T161	Np 997 1007	Trung Quốc
+T162	V 1008 1016	tham gia
+T163	N 1017 1021	cuộc
+T164	V 1022 1030	diễn tập
+T165	E 1031 1034	tại
+T166	N 1035 1039	tỉnh
+T167	Np 1040 1054	Hắc Long Giang
+T168	CH 1055 1056	.
+T169	CH 1057 1058	(
+T170	N 1059 1064	Nguồn
+T171	CH 1065 1066	:
+T172	Np 1067 1070	AFP
+T173	CH 1071 1072	/
+T174	Np 1073 1078	TTXVN
+T175	CH 1079 1080	)
+T2	Np 20 32	Tập Cận Bỉnh
+T3	Np 9 19	Trung Quốc
+T10	Np 86 98	Tập Cận Bình
+T11	Np 75 85	Trung Quốc
+T31	Np 230 242	Tập Cận Bình
+T32	Np 219 229	Trung Quốc
+T37	N 255 268	mb . com . ph
+T38	Np 329 341	Tập Cận Bình
+T39	Np 318 328	Trung Quốc
+T40	N 980 987	Binh sĩ
+T41	N 988 996	quân đội

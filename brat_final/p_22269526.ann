@@ -1,0 +1,113 @@
+T1	V 0 9	Thành lập
+T2	N 10 14	đoàn
+T3	V 15 23	kiểm tra
+T4	V 24 33	hoạt động
+T5	V 34 42	bán hàng
+T6	N 43 45	đa
+T7	N 46 49	cấp
+T8	E 50 53	của
+T9	Np 54 66	Nhã Khắc Lâm
+T12	M 109 113	1667
+T13	CH 114 115	/
+T14	M 116 120	2017
+T15	E 121 123	về
+T16	N 124 128	việc
+T17	V 129 138	thành lập
+T18	N 139 143	Đoàn
+T19	V 144 152	kiểm tra
+T20	V 153 162	hoạt động
+T21	V 163 171	bán hàng
+T22	N 172 174	đa
+T23	N 175 178	cấp
+T25	Ny 191 195	TNHH
+T26	Np 196 208	Nhã Khắc Lâm
+T27	CH 209 210	.
+T28	N 211 221	Quyết định
+T29	V 222 225	nêu
+T30	A 226 228	rõ
+T31	CH 229 230	,
+T32	Nc 231 235	đoàn
+T33	V 236 244	kiểm tra
+T34	N 245 252	Công ty
+T35	Ny 253 257	TNHH
+T36	Np 258 270	Nhã Khắc Lâm
+T37	V 271 274	gồm
+T38	CH 275 276	:
+T39	Nc 277 279	bà
+T40	Np 280 297	Lê Thị Phương Hoa
+T41	CH 298 299	,
+T42	N 300 309	Phó Chánh
+T43	V 310 319	Thanh tra
+T45	N 338 349	Trưởng đoàn
+T46	CH 350 351	.
+T47	L 352 355	Các
+T48	N 356 366	thành viên
+T49	Nc 367 370	ông
+T50	CH 371 372	:
+T51	Np 373 388	Nguyễn Đức Minh
+T52	CH 389 390	,
+T53	N 391 407	Phó Trưởng phòng
+T54	N 408 411	Cục
+T55	V 412 419	Quản lý
+T56	V 420 430	cạnh tranh
+T57	CH 431 432	;
+T58	Np 433 446	Lê Hồng Dương
+T59	CH 447 448	,
+T60	N 449 465	Phó Trưởng phòng
+T61	N 466 469	Cục
+T62	V 470 477	Quản lý
+T63	N 478 488	thị trường
+T64	CH 489 490	;
+T65	Np 491 507	Nguyễn Duy Thanh
+T66	CH 508 509	,
+T67	N 510 521	chuyên viên
+T68	N 522 531	Thanh tra
+T69	V 532 549	Bộ Công Thương và
+T70	Nc 550 553	ông
+T71	Np 554 570	Hoàng Văn Trường
+T72	CH 571 572	,
+T73	N 573 584	Chuyên viên
+T74	N 585 587	Vụ
+T75	N 588 596	Pháp chế
+T76	CH 597 598	.
+T77	E 599 603	Theo
+T78	P 604 606	đó
+T79	CH 607 608	,
+T80	N 609 613	đoàn
+T81	V 614 622	kiểm tra
+T82	V 623 625	có
+T83	N 626 634	nhiệm vụ
+T84	V 635 643	kiểm tra
+T85	V 644 653	hoạt động
+T86	V 654 662	bán hàng
+T87	N 663 665	đa
+T88	N 666 669	cấp
+T89	N 670 681	của Công ty
+T90	Ny 682 686	TNHH
+T91	Np 687 699	Nhã Khắc Lâm
+T92	N 700 703	khi
+T93	N 704 711	công ty
+T94	P 712 715	này
+T95	R 716 720	chưa
+T96	V 721 725	được
+T97	V 726 744	Bộ Công Thương cấp
+T98	N 745 760	Giấy chứng nhận
+T99	V 761 768	đăng ký
+T100	V 769 778	hoạt động
+T101	V 779 787	bán hàng
+T102	V 788 790	đa
+T103	N 791 794	cấp
+T104	CH 795 796	.
+T105	Np 797 807	Uyên Hương
+T106	CH 808 809	(
+T107	Ny 810 815	TTXVN
+T108	CH 816 817	)
+T10	R 82 85	vừa
+T109	N 67 81	Bộ Công Thương
+T11	V 86 94	ban hành
+T110	N 95 105	Quyết định
+T111	N 106 108	số
+T24	E 179 182	của
+T112	N 183 190	Công ty
+T44	V 335 337	là
+T113	N 320 334	Bộ Công Thương
