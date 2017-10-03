@@ -1,0 +1,193 @@
+T1	Ny 0 3	CEO
+T2	Np 4 12	Tim Cook
+T3	V 13 17	nhận
+T4	N 18 29	giải thưởng
+T5	N 30 35	tự do
+T6	V 36 45	ngôn luận
+T7	M 46 50	2017
+T8	Z 51 55	Tổng
+T9	N 56 64	giám đốc
+T10	Np 65 70	Apple
+T11	CH 71 72	,
+T12	Np 73 81	Tim Cook
+T13	CH 82 83	,
+T14	R 84 86	đã
+T15	V 87 89	là
+T16	N 90 98	chủ nhân
+T17	E 99 102	của
+T18	N 103 114	giải thưởng
+T19	N 115 120	tự do
+T20	V 121 130	ngôn luận
+T21	Np 131 138	Newseum
+T22	M 139 143	2017
+T23	E 144 146	do
+T24	V 147 154	tổ chức
+T25	A 155 159	cùng
+T26	N 160 163	tên
+T29	Cc 174 176	và
+T30	V 177 186	trao tặng
+T31	CH 187 188	.
+T32	Z 189 193	Tổng
+T33	N 194 202	giám đốc
+T34	Np 203 208	Apple
+T35	CH 209 210	,
+T36	Np 211 219	Tim Cook
+T37	CH 220 221	.
+T38	E 222 226	Theo
+T39	V 227 236	thông báo
+T40	A 237 247	chính thức
+T41	E 248 250	từ
+T42	Np 251 258	Newseum
+T43	CH 259 260	,
+T44	Np 261 265	Cook
+T45	R 266 268	đã
+T46	V 269 273	được
+T47	V 274 283	công nhận
+T48	E 284 286	vì
+T49	V 287 290	tạo
+T50	R 291 293	ra
+T51	N 294 303	công nghệ
+T52	V 304 306	có
+T53	V 307 315	tác động
+T54	A 316 323	sâu sắc
+T55	E 324 327	đến
+T56	N 328 340	truyền thông
+T57	Cc 341 343	và
+T58	E 344 346	vì
+T59	R 347 349	đã
+T60	V 350 357	sử dụng
+T61	N 358 364	vị thế
+T62	E 365 368	của
+T63	P 369 373	mình
+T64	E 374 376	để
+T65	V 377 380	gây
+T66	V 381 390	ảnh hưởng
+T67	A 391 399	tích cực
+T68	E 400 403	đến
+T69	N 404 414	công chúng
+T70	E 415 417	về
+T71	L 418 421	các
+T72	N 422 428	vấn đề
+T73	C 429 432	như
+T74	N 433 435	sự
+T75	A 436 445	bình đẳng
+T76	E 446 450	giữa
+T77	L 451 454	các
+T78	N 455 464	chủng tộc
+T79	CH 465 466	,
+T80	N 467 472	quyền
+T81	A 473 481	riêng tư
+T82	CH 482 483	,
+T83	N 484 494	môi trường
+T84	CH 495 496	,
+T85	N 497 502	quyền
+T86	V 503 507	được
+T87	V 508 516	lựa chọn
+T88	V 517 521	sống
+T89	A 522 531	đồng tính
+T90	Cc 532 534	và
+T91	Ny 535 537	vv
+T92	CH 538 539	…
+T93	Np 540 547	Newseum
+T94	CH 548 549	,
+T95	V 550 552	có
+T97	N 564 570	Thủ đô
+T98	Np 571 581	Washington
+T99	CH 582 583	,
+T100	Ny 584 585	D
+T101	CH 586 587	.
+T102	Ny 588 589	C
+T103	CH 590 591	.
+T104	CH 592 593	,
+T105	V 594 596	là
+T106	M 597 600	một
+T107	N 601 608	tổ chức
+T108	V 609 615	bảo vệ
+T109	N 616 621	quyền
+T110	A 622 627	tự do
+T111	V 628 637	ngôn luận
+T112	Cc 638 640	và
+T113	M 641 642	5
+T114	N 643 648	quyền
+T115	A 649 654	tự do
+T116	A 655 661	cơ bản
+T117	N 662 670	quy định
+T118	E 671 676	trong
+T119	N 677 685	Đạo luật
+T120	N 686 692	Bổ túc
+T121	N 693 696	thứ
+T122	A 697 701	nhất
+T123	E 702 705	của
+T124	N 706 715	Hiến pháp
+T126	L 733 736	các
+T127	N 737 746	hoạt động
+T128	V 747 756	triển lãm
+T129	Cc 757 759	và
+T130	V 760 769	tương tác
+T131	E 770 773	tại
+T132	N 774 782	bảo tàng
+T133	CH 783 784	.
+T134	N 785 796	Giải thưởng
+T135	R 797 799	sẽ
+T136	V 800 804	được
+T137	V 805 809	trao
+T138	E 810 813	cho
+T139	Np 814 818	Cook
+T140	E 819 822	tại
+T141	N 823 827	buổi
+T142	N 828 830	lễ
+T145	V 841 848	tổ chức
+T146	E 849 852	tại
+T147	Np 853 860	Newseum
+T148	N 861 865	ngày
+T149	M 866 868	18
+T150	CH 869 870	/
+T151	M 871 872	4
+T152	E 873 876	tới
+T153	P 877 880	đây
+T154	CH 881 882	.
+T155	N 883 891	Bên cạnh
+T156	Np 892 900	Tim Cook
+T157	CH 901 902	,
+T158	N 903 910	nghị sĩ
+T159	N 911 918	Hạ viện
+T160	Np 919 921	Mỹ
+T161	Np 922 932	John Lewis
+T162	CH 933 934	,
+T163	N 935 943	Giám đốc
+T164	V 944 953	điều hành
+T165	N 954 961	công ty
+T166	N 962 966	luật
+T171	CH 1006 1007	,
+T172	N 1008 1016	Giám đốc
+T173	N 1017 1023	vấn đề
+T174	N 1024 1032	toàn cầu
+T175	N 1033 1041	hãng tin
+T178	CH 1066 1067	,
+T179	N 1068 1073	người
+T180	V 1074 1082	sáng lập
+T181	Np 1083 1102	Playboy Hugh Hefner
+T182	Cc 1103 1105	và
+T183	N 1106 1114	Chủ tịch
+T184	Np 1115 1143	Hatch Beauty Christie Hefner
+T185	R 1144 1148	cũng
+T186	V 1149 1151	là
+T187	L 1152 1157	những
+T188	N 1158 1163	người
+T189	V 1164 1168	nhận
+T190	N 1169 1180	giải thưởng
+T191	P 1181 1184	này
+T192	N 1185 1188	năm
+T193	P 1189 1192	nay
+T194	CH 1193 1194	.
+T195	Np 1195 1205	Minh Trang
+T196	V 1206 1210	theo
+T197	Np 1211 1221	Phonearena
+T27	V 164 173	vinh danh
+T28	N 553 559	trụ sở
+T96	E 560 563	tại
+T125	Np 716 722	Hoa Kỳ
+T198	V 723 732	thông qua
+T143	V 831 840	vinh danh
+T144	Np 967 1005	Becket Law Kristina Arriaga de Bucholz
+T167	Np 1042 1065	ABC News Martha Raddatz
