@@ -1,0 +1,155 @@
+T1	V 0 9	Phát hiện
+T2	N 10 17	thi thể
+T3	N 18 23	người
+T4	N 24 31	đàn ông
+T5	E 32 35	với
+T6	N 36 44	dấu hiệu
+T7	A 45 55	bất thường
+T8	N 56 63	Công an
+T9	V 64 72	xác nhận
+T10	E 73 77	trên
+T11	N 78 85	địa bàn
+T12	V 86 88	có
+T13	V 89 98	phát hiện
+T14	M 99 102	một
+T15	N 103 110	thi thể
+T16	CH 111 112	.
+T17	C 113 122	Tuy nhiên
+T18	A 123 130	thực hư
+T19	N 131 135	việc
+T20	N 136 144	nạn nhân
+T21	V 145 147	bị
+T22	V 148 150	mổ
+T23	V 151 154	lấy
+T24	N 155 163	nội tạng
+T25	C 164 167	hay
+T26	R 168 173	không
+T27	C 174 177	thì
+T28	R 178 182	đang
+T29	V 183 187	được
+T30	V 188 191	làm
+T31	A 192 194	rõ
+T32	CH 195 196	.
+T33	E 197 201	Trên
+T34	N 202 213	mạng xã hội
+T36	E 233 235	về
+T37	N 236 240	việc
+T38	V 241 250	phát hiện
+T39	N 251 258	thi thể
+T40	N 259 264	người
+T41	N 265 272	đàn ông
+T42	R 273 276	nổi
+T43	E 277 281	trên
+T44	N 282 290	mặt nước
+T45	E 291 294	tại
+T46	N 295 302	khu vực
+T48	CH 319 320	,
+T49	N 321 329	địa phận
+T50	A 330 339	giáp ranh
+T51	E 340 344	giữa
+T52	M 345 348	hai
+T53	N 349 354	huyện
+T54	Np 355 361	Ân Thi
+T55	Cc 362 364	và
+T56	N 365 370	huyện
+T59	V 378 383	thuộc
+T60	N 384 388	tỉnh
+T61	Np 389 397	Hưng Yên
+T62	CH 398 399	.
+T63	N 400 404	Việc
+T64	V 405 414	phát hiện
+T65	N 415 422	thi thể
+T66	V 423 427	được
+T67	V 428 431	cho
+T68	C 432 434	là
+T69	N 435 438	lúc
+T70	M 439 441	18
+T71	Nu 442 445	giờ
+T72	N 446 453	tối qua
+T73	CH 454 455	(
+T74	M 456 458	22
+T75	CH 459 460	-
+T76	M 461 462	5
+T77	CH 463 464	)
+T78	CH 465 466	.
+T79	V 467 470	Qua
+T80	V 471 479	quan sát
+T81	CH 480 481	,
+T82	A 482 487	nhiều
+T83	N 488 493	người
+T84	V 494 502	nghi ngờ
+T85	N 503 511	nạn nhân
+T86	V 512 514	có
+T87	N 515 523	dấu hiệu
+T88	V 524 526	bị
+T89	V 527 529	mổ
+T90	V 530 533	lấy
+T91	N 534 542	nội tạng
+T92	CH 543 544	.
+T93	N 545 548	Nơi
+T94	V 549 558	phát hiện
+T95	N 559 566	thi thể
+T96	N 567 572	người
+T97	N 573 580	đàn ông
+T98	CH 581 582	(
+T99	N 583 586	ảnh
+T100	Ny 587 589	FB
+T101	CH 590 591	)
+T103	CH 600 601	-
+T104	M 602 603	5
+T105	M 604 607	một
+T106	N 608 617	nguồn tin
+T107	E 618 620	từ
+T108	N 621 629	lãnh đạo
+T109	N 630 633	Đội
+T110	N 634 642	Cảnh sát
+T111	N 643 650	hình sự
+T112	CH 651 652	,
+T113	N 653 660	Công an
+T114	N 661 665	tỉnh
+T115	Np 666 674	Hưng Yên
+T116	V 675 683	cho biết
+T117	E 684 688	trên
+T118	N 689 696	địa bàn
+T119	V 697 699	có
+T120	V 700 703	xảy
+T121	R 704 706	ra
+T122	N 707 711	việc
+T123	V 712 721	phát hiện
+T124	N 722 729	thi thể
+T125	N 730 734	trên
+T126	CH 735 736	.
+T127	C 737 746	Tuy nhiên
+T128	CH 747 748	,
+T129	A 749 756	thực hư
+T130	C 757 760	như
+T131	P 761 768	thế nào
+T132	C 769 772	thì
+T133	R 773 777	chưa
+T134	A 778 780	rõ
+T135	CH 781 782	,
+T136	E 783 786	bởi
+T138	R 805 808	vẫn
+T139	R 809 813	đang
+T140	V 814 825	khẩn trương
+T141	V 826 834	điều tra
+T142	V 835 838	làm
+T143	A 839 841	rõ
+T144	CH 842 843	,
+T145	C 844 846	do
+T146	P 847 850	vậy
+T147	R 851 859	chưa thể
+T148	V 860 868	cung cấp
+T149	N 869 878	thông tin
+T150	A 879 885	cụ thể
+T151	R 886 890	được
+T152	CH 891 892	.
+T35	V 214 223	xuất hiện
+T153	N 224 232	hình ảnh
+T47	N 303 306	cầu
+T154	Np 307 318	Thuần Xuyên
+T57	Np 371 377	Yên Mỹ
+T58	N 592 596	Ngày
+T102	M 597 599	23
+T137	N 787 794	cơ quan
+T155	N 795 804	chức năng
