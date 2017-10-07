@@ -1,0 +1,33 @@
+T1	N 0 7	Tai nạn
+T2	N 8 10	xe
+T3	V 11 14	đua
+T4	V 15 25	kinh hoàng
+T5	CH 26 27	:
+T6	N 28 30	xe
+T7	V 31 33	vỡ
+T8	A 34 37	vụn
+T9	CH 38 39	,
+T10	N 40 45	người
+T11	V 46 49	còn
+T12	A 50 56	nguyên
+T13	M 57 60	Một
+T14	V 61 64	pha
+T15	V 65 72	va chạm
+T16	V 73 83	kinh hoàng
+T17	R 84 86	đã
+T18	V 87 90	xảy
+T19	V 91 93	ra
+T20	E 94 97	tại
+T21	N 98 103	đường
+T22	V 104 107	đua
+T23	Np 108 115	Indi500
+T24	CH 116 117	,
+T25	A 118 125	may mắn
+T26	V 126 130	thay
+T27	CH 131 132	,
+T28	R 133 138	không
+T29	V 139 141	có
+T30	A 142 151	thiệt hại
+T31	E 152 154	về
+T32	N 155 160	người
+T33	CH 161 162	.
