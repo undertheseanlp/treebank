@@ -1,0 +1,165 @@
+T1	Np 0 11	Philippines
+T2	V 12 15	đưa
+T3	N 16 20	quân
+T4	A 21 30	trái phép
+T5	E 31 34	tới
+T6	N 35 38	đảo
+T7	Np 39 45	Thị Tứ
+T8	E 46 49	của
+T9	Np 50 58	Việt Nam
+T10	Np 59 70	Philippines
+T11	R 71 73	đã
+T12	V 74 81	bắt đầu
+T13	V 82 85	đưa
+T14	N 86 90	quân
+T15	Cc 91 93	và
+T16	N 94 102	thiết bị
+T17	A 103 112	trái phép
+T18	E 113 116	tới
+T19	N 117 120	đảo
+T20	Np 121 127	Thị Tứ
+T21	V 128 133	thuộc
+T22	N 134 142	quần đảo
+T23	Np 143 152	Trường Sa
+T24	E 153 156	của
+T25	Np 157 165	Việt Nam
+T26	CH 166 167	.
+T27	Ny 168 170	AP
+T28	N 171 178	hôm nay
+T29	V 179 182	dẫn
+T30	N 183 186	lời
+T31	N 187 198	Trung tướng
+T34	CH 216 217	,
+T36	Np 237 252	Tây Philippines
+T37	CH 253 254	,
+T38	V 255 263	cho biết
+T39	N 264 271	binh sĩ
+T40	N 272 276	nước
+T41	P 277 280	này
+T42	Cc 281 283	và
+T43	L 284 289	những
+T44	N 290 304	trang thiết bị
+T45	V 305 311	hỗ trợ
+T46	N 312 319	ban đầu
+T47	R 320 322	đã
+T48	V 323 326	tới
+T49	N 327 330	đảo
+T50	Np 331 337	Thị Tứ
+T51	E 338 340	từ
+T52	N 341 345	tuần
+T53	P 346 351	trước
+T54	CH 352 353	.
+T55	N 354 357	Đảo
+T56	Np 358 364	Thị Tứ
+T57	R 365 369	đang
+T58	V 370 372	bị
+T59	Np 373 384	Philippines
+T60	V 385 395	chiếm đóng
+T61	A 396 405	trái phép
+T62	N 406 415	Động thái
+T63	N 416 420	trên
+T64	V 421 425	được
+T65	V 426 429	cho
+T66	C 430 432	là
+T67	V 433 437	nhằm
+T68	V 438 446	chuẩn bị
+T69	E 447 450	cho
+T70	L 451 454	các
+T71	N 455 464	hoạt động
+T72	V 465 473	xây dựng
+T73	A 474 483	trái phép
+T74	E 484 487	của
+T75	Np 488 499	Philippines
+T76	E 500 504	trên
+T77	N 505 512	hòn đảo
+T78	P 513 516	này
+T79	CH 517 518	.
+T80	Np 519 530	Philippines
+T81	V 531 538	dự kiến
+T82	V 539 542	chi
+T83	N 543 549	khoảng
+T84	M 550 553	1,6
+T85	M 554 556	tỷ
+T86	Nu 557 561	peso
+T87	CH 562 563	(
+T88	A 564 575	tương đương
+T89	M 576 578	32
+T90	M 579 584	triệu
+T91	Nu 585 588	USD
+T92	CH 589 590	)
+T93	E 591 594	cho
+T94	L 595 598	các
+T95	N 599 607	hạng mục
+T96	V 608 616	xây dựng
+T97	E 617 621	trên
+T98	N 622 629	hòn đảo
+T99	CH 630 631	,
+T100	V 632 639	bao gồm
+T101	N 640 644	việc
+T102	V 645 652	củng cố
+T103	CH 653 654	,
+T104	V 655 662	kéo dài
+T105	M 663 666	một
+T106	N 667 677	đường băng
+T107	Cc 678 680	và
+T108	V 681 689	xây dựng
+T109	M 690 693	một
+T110	N 694 701	bến tàu
+T111	CH 702 703	.
+T112	N 704 708	Nước
+T113	P 709 712	này
+T114	R 713 716	còn
+T115	V 717 724	dự định
+T116	V 725 733	xây dựng
+T117	E 734 738	trên
+T118	N 739 742	đảo
+T119	N 743 747	trạm
+T120	N 748 758	năng lượng
+T121	N 759 767	mặt trời
+T122	CH 768 769	,
+T123	N 770 777	nhà máy
+T124	V 778 781	lọc
+T125	N 782 786	nước
+T126	CH 787 788	,
+T127	V 789 796	cải tạo
+T128	N 797 807	doanh trại
+T129	N 808 816	quân đội
+T130	R 817 821	cũng
+T131	C 822 825	như
+T132	L 826 831	những
+T133	N 832 840	địa điểm
+T134	V 841 845	nhằm
+T135	V 846 853	phục vụ
+T136	E 854 857	cho
+T137	N 858 862	việc
+T138	V 863 873	nghiên cứu
+T139	N 874 878	biển
+T140	Cc 879 881	và
+T141	V 882 889	du lịch
+T142	CH 890 891	.
+T144	CH 903 904	(
+T145	Np 905 916	Philippines
+T146	X 917 923	gọi là
+T147	N 924 927	đảo
+T151	CH 938 939	)
+T152	V 940 945	thuộc
+T153	N 946 954	quần đảo
+T154	Np 955 964	Trường Sa
+T155	E 965 968	của
+T156	Np 969 977	Việt Nam
+T157	CH 978 979	.
+T158	Np 980 991	Philippines
+T159	N 992 996	hiện
+T160	R 997 1001	đang
+T161	V 1002 1012	chiếm đóng
+T162	A 1013 1022	trái phép
+T163	N 1023 1030	hòn đảo
+T164	P 1031 1034	này
+T165	CH 1035 1036	.
+T166	Np 1037 1046	Dương Lâm
+T32	Np 199 215	Raul del Rosario
+T33	N 218 225	Tư lệnh
+T35	Np 226 236	Bộ Chỉ huy
+T143	N 892 895	Đảo
+T167	Np 896 902	Thị Tứ
+T148	Np 928 937	Pag - asa
