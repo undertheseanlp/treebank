@@ -1,0 +1,48 @@
+T1	N 0 10	Hành trình
+T2	V 11 14	gây
+T3	E 18 21	của
+T4	N 22 25	tên
+T5	V 26 30	cướp
+T6	M 31 34	2,5
+T7	N 35 37	tỷ
+T8	E 38 43	trong
+T9	N 44 52	nhà băng
+T10	E 53 54	ở
+T11	Np 55 63	Trà Vinh
+T12	M 64 66	30
+T13	N 67 71	ngày
+T14	E 72 77	trước
+T15	N 78 81	khi
+T16	V 82 85	gây
+T17	N 86 88	án
+T18	CH 89 90	,
+T19	Np 91 102	Lê Lâm Hưng
+T20	CH 103 104	(
+T21	M 105 107	29
+T22	N 108 112	tuổi
+T23	CH 113 114	,
+T24	N 115 118	quê
+T25	Np 119 129	Quảng Ninh
+T26	CH 130 131	)
+T27	R 132 134	đã
+T28	V 135 145	thám thính
+T29	CH 146 147	,
+T30	V 148 156	chuẩn bị
+T31	N 157 161	súng
+T32	E 162 164	để
+T33	V 165 169	cướp
+T34	N 170 174	tiền
+T35	E 175 178	tại
+T36	N 179 188	ngân hàng
+T37	Np 189 200	Vietcombank
+T38	CH 201 202	,
+T39	N 203 212	chi nhánh
+T40	Np 213 222	Duyên Hải
+T41	CH 223 224	,
+T42	N 225 229	tỉnh
+T43	Np 230 238	Trà Vinh
+T44	CH 239 240	.
+T47	Np 257 265	Bá Chiêm
+T48	N 15 17	án
+T45	Np 241 254	Phượng Nguyễn
+T46	CH 255 256	-
