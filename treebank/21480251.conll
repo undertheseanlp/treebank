@@ -1,0 +1,349 @@
+Top	N
+10	M
+'	CH
+cây	N
+đinh ba	N
+'	CH
+xuất sắc	A
+nhất	R
+châu Âu	Np
+:	CH
+MSN	Np
+không	R
+có	V
+đối thủ	N
+MSN	Np
+(	CH
+Messi	Np
+-	CH
+Suarez	Np
+-	CH
+Neymar	Ny
+)	CH
+của	E
+Barca	Np
+là	V
+bộ ba	N
+ghi	V
+nhiều	A
+bàn	N
+thắng	V
+nhất	A
+châu Âu	Np
+,	CH
+tính	V
+trong	E
+5	M
+giải	N
+VĐQG	Ny
+hàng đầu	N
+.	CH
+
+GOAL	Np
+vừa	R
+điểm	V
+ra	V
+top	N
+10	M
+bộ ba	N
+ghi	V
+được	R
+nhiều	A
+bàn	N
+thắng	V
+nhất	A
+tại	E
+5	M
+giải	N
+VĐQG	Ny
+hàng đầu	N
+châu Âu	Np
+.	CH
+
+Danh sách	N
+cụ thể	A
+như	C
+sau	N
+:	CH
+10	M
+.	CH
+
+Olympique Lyon	Np
+:	CH
+27	M
+bàn	N
+thắng	V
+|	CH
+Alexandre Lacazette	Np
+(	CH
+18	M
+bàn	N
+)	CH
++	CH
+Mathieu Valbuena	Np
+(	CH
+5	M
+bàn	N
+)	CH
++	CH
+Corentin Tolisso	Np
+(	CH
+4	M
+bàn	N
+)	CH
+.	CH
+
+=	CH
+6	M
+.	CH
+
+Monaco	Np
+:	CH
+29	M
+bàn	N
+thắng	V
+|	CH
+Falcao	Np
+(	CH
+14	M
+bàn	N
+)	CH
++	CH
+Valère Germain	Np
+(	CH
+8	M
+bàn	N
+)	CH
++	CH
+Thomas Lemar	Np
+(	CH
+7	M
+bàn	N
+)	CH
+.	CH
+
+=	CH
+6	M
+.	CH
+
+Roma	Np
+:	CH
+29	M
+bàn	N
+thắng	V
+|	CH
+Edin Dzeko	Np
+(	CH
+15	M
+bàn	N
+)	CH
++	CH
+Mohamed Salah	Np
+(	CH
+8	M
+bàn	N
+)	CH
++	CH
+Diego Perotti	Np
+(	CH
+6	M
+bàn	N
+)	CH
+.	CH
+
+=	CH
+6	M
+.	CH
+
+Torino	Np
+:	CH
+29	M
+bàn	N
+thắng	V
+|	CH
+Andrea Belotti	Np
+(	CH
+15	M
+bàn	N
+)	CH
++	CH
+Iago Falqué	Np
+(	CH
+9	M
+bàn	N
+)	CH
++	CH
+Adem Ljajic	Np
+(	CH
+5	M
+bàn	N
+)	CH
+.	CH
+
+=	CH
+6	M
+.	CH
+
+PSG	Np
+:	CH
+29	M
+bàn	N
+thắng	V
+|	CH
+Edinson Cavani	Np
+(	CH
+21	M
+bàn	N
+)	CH
++	CH
+Lucas	Np
+(	CH
+6	M
+bàn	N
+)	CH
++	CH
+Marco Verratti	Np
+(	CH
+2	M
+bàn	N
+)	CH
+.	CH
+
+5	M
+.	CH
+
+Chelsea	Np
+:	CH
+30	M
+bàn	N
+thắng	V
+|	CH
+Diego Costa	Np
+(	CH
+15	M
+)	CH
++	CH
+Eden Hazard	Np
+(	CH
+10	M
+bàn	N
+)	CH
++	CH
+Willian	Np
+(	CH
+5	M
+bàn	N
+)	CH
+.	CH
+
+4	M
+.	CH
+
+Arsenal	Np
+:	CH
+31	M
+bàn	N
+thắng	V
+|	CH
+Alexis Sánchez	Np
+(	CH
+15	M
+bàn	N
+)	CH
++	CH
+Olivier Giroud	Np
+(	CH
+8	M
+bàn	N
+)	CH
++	CH
+Theo	E
+Walcott	Np
+(	CH
+8	M
+bàn	N
+)	CH
+.	CH
+
+3	M
+.	CH
+
+Tottenham	Np
+:	CH
+32	M
+bàn	N
+thắng	V
+|	CH
+Harry Kane	Np
+(	CH
+14	M
+bàn	N
+)	CH
++	CH
+Dele Alli	Np
+(	CH
+11	M
+bàn	N
+)	CH
++	CH
+Heung - Min Son	Np
+(	CH
+7	M
+bàn	N
+)	CH
+2	M
+.	CH
+
+Napoli	Np
+:	CH
+33	M
+bàn	N
+thắng	V
+|	CH
+Dries Mertens	Np
+(	CH
+16	M
+bàn	N
+)	CH
++	CH
+Marek Hamsik	Np
+(	CH
+9	M
+bàn	N
+)	CH
++	CH
+José Callejón	Np
+(	CH
+8	M
+bàn	N
+)	CH
+.	CH
+
+1	M
+.	CH
+
+Barcelona	Np
+:	CH
+37	M
+bàn	N
+thắng	V
+|	CH
+Lionel Messi	Np
+(	CH
+16	M
+bàn	N
+)	CH
++	CH
+Luis Súarez	Np
+(	CH
+16	M
+bàn	N
+)	CH
++	CH
+Neymar	Np
+(	CH
+5	M
+bàn	N
+)	CH
+.	CH
+
