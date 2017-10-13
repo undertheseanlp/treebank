@@ -1,0 +1,552 @@
+Microsoft	Np
+:	CH
+Việt Nam	Np
+xếp	V
+thứ	N
+2	M
+ở	E
+khu vực	N
+châu Á	Np
+bị	V
+mã	V
+độc	A
+tấn công	V
+Báo cáo	V
+An ninh mạng	N
+(	CH
+SIR Volume	Nb
+21	M
+)	CH
+do	E
+Microsoft châu Á	Np
+công bố	V
+cho	V
+thấy	V
+,	CH
+Việt Nam	Np
+là	V
+quốc gia	N
+đứng	V
+thứ	N
+2	M
+trong	E
+khu vực	N
+châu Á	Np
+-	CH
+Thái Bình Dương	Np
+bị	V
+mã	V
+độc	A
+tấn công	V
+.	CH
+
+Ảnh	N
+chỉ	R
+có	V
+tính	N
+minh họa	V
+.	CH
+
+(	CH
+Nguồn	N
+:	CH
+pandasecurity . com	Np
+)	CH
+Báo cáo	V
+An ninh mạng	N
+(	CH
+SIR Volume	Nb
+21	M
+)	CH
+do	C
+Microsoft châu Á	Np
+công bố	V
+ngày	N
+8	M
+/	CH
+2	M
+cho	E
+thấy	V
+,	CH
+Việt Nam	Np
+là	V
+quốc gia	N
+đứng	V
+thứ	N
+2	M
+trong	E
+khu vực	N
+châu Á	Np
+-	CH
+Thái Bình Dương	Np
+bị	V
+mã	V
+độc	A
+tấn công	V
+.	CH
+
+SIR Volume	Nb
+21	V
+chỉ	R
+ra	V
+châu Á	Np
+-	CH
+Thái Bình Dương	Np
+,	CH
+đặc biệt	A
+thị trường	N
+mới	R
+nổi	V
+,	CH
+là	V
+những	L
+nước	N
+gặp	V
+nguy cơ	N
+cao	A
+nhất	A
+về	E
+các	L
+mối	N
+đe dọa	V
+an ninh mạng	N
+.	CH
+
+Báo cáo	N
+này	P
+dựa	V
+trên	E
+phân tích	V
+các	L
+thông tin	N
+hiểm họa	N
+từ	E
+hơn	A
+1	M
+tỉ	M
+hệ thống	N
+khắp	A
+toàn cầu	N
+của	E
+Microsoft	Np
+.	CH
+
+Báo cáo	N
+cũng	R
+bao gồm	V
+các	L
+dữ liệu	N
+định hướng	V
+dài hạn	A
+và	Cc
+các	L
+hồ sơ	N
+hiểm họa	N
+chi tiết	A
+từ	E
+hơn	A
+100	M
+thị trường	N
+và	Cc
+khu vực	N
+.	CH
+
+Trong	E
+năm	M
+nước	N
+đứng	V
+đầu	N
+toàn cầu	N
+về	E
+nguy cơ	N
+nhiễm	V
+mã	N
+độc	A
+thì	C
+có	V
+hai	M
+thuộc	V
+khu vực	N
+Đông Nam Á	Np
+là	V
+Việt Nam	Np
+(	CH
+thứ	N
+2	M
+)	CH
+và	Cc
+Indonesia	Np
+(	CH
+thứ	N
+4	M
+)	CH
+(	CH
+trong	E
+khi	N
+đó	P
+,	CH
+Mông Cổ	Np
+đứng	V
+thứ	N
+nhất	M
+,	CH
+Pakistan	Np
+thứ	N
+ba	M
+,	CH
+Nepal	Np
+và	Cc
+Bangladesh	Np
+đứng	V
+ở	E
+vị trí	N
+thứ	N
+5	M
+)	CH
+.	CH
+
+Việt Nam	Np
+và	Cc
+Indonesia	Np
+là	V
+hai	M
+nước	N
+có	V
+tỷ lệ	N
+nhiễm	V
+mã	N
+độc	A
+hơn	A
+45	M
+%	CH
+vào	E
+quý	N
+2	M
+/	CH
+2016	M
+,	CH
+nhiều	A
+hơn	R
+gấp	V
+đôi	M
+so	V
+với	Cc
+mức	N
+trung bình	A
+21	M
+%	CH
+của	E
+thế giới	N
+.	CH
+
+Vẫn	R
+theo	E
+danh sách	N
+này	P
+,	CH
+các	L
+nước	N
+bị	V
+nhiễm	V
+mã	N
+độc	A
+cao	A
+bao gồm	V
+các	L
+thị trường	N
+lớn	A
+đang	R
+phát triển	V
+và	Cc
+các	L
+nước	N
+Đông Nam Á	Np
+như	C
+Mông Cổ	Np
+,	CH
+Pakistan	Np
+,	CH
+Nepal	Np
+,	CH
+Bangladesh	Np
+,	CH
+Campuchia	Np
+,	CH
+Philippines	Np
+,	CH
+Thái Lan	Np
+và	Cc
+Ấn Độ	Np
+với	Cc
+tỉ lệ	N
+hơn	A
+30	M
+%	CH
+.	CH
+
+Trong	E
+khi	N
+đó	P
+,	CH
+các	L
+quốc gia	N
+phát triển	V
+cao	A
+về	E
+công nghệ thông tin	N
+trong	E
+khu vực	N
+như	C
+Nhật Bản	Np
+,	CH
+Australia	Np
+,	CH
+New Zealand	Np
+,	CH
+Hàn Quốc	Np
+,	CH
+Singapore	Np
+…	CH
+có	V
+tỉ lệ	N
+nhiễm	V
+mã	N
+độc	A
+ở	E
+mức	N
+thấp	A
+hơn	R
+so	V
+với	Cc
+trung bình	A
+thế giới	N
+.	CH
+
+Theo	E
+Microsoft	Np
+,	CH
+danh sách	N
+mã	N
+độc	A
+xuất hiện	V
+nhiều	A
+ở	E
+châu Á	Np
+-	CH
+Thái Bình Dương	Np
+gồm	V
+Gamarue	Np
+,	CH
+sâu	N
+máy tính	N
+cung cấp	V
+một	M
+điều khiển	V
+mã	V
+độc	A
+chiếm	V
+quyền	N
+trên	E
+máy tính	N
+người	N
+dùng	V
+,	CH
+ăn cắp	V
+thông tin	N
+và	Cc
+thay đổi	V
+các	L
+thiết lập	V
+bảo vệ	V
+trên	E
+máy	N
+;	CH
+Lodbak	Np
+,	CH
+dạng	N
+trojan	Nb
+thường	R
+được	V
+cài	V
+trên	E
+các	L
+ổ	N
+di động	V
+bị	V
+điều khiển	V
+bởi	E
+Gamarue	Np
+,	CH
+và	Cc
+luôn	R
+cố	V
+cài đặt	V
+Gamarue	Np
+khi	N
+ổ đĩa	N
+bị	V
+nhiễm	V
+kết nối	V
+với	Cc
+máy tính	N
+và	Cc
+Dynamer	Np
+,	CH
+trojan	Nb
+có thể	R
+ăn cắp	V
+các	L
+thông tin	N
+cá nhân	N
+,	CH
+tải	V
+thêm	V
+mã	N
+độc	A
+hoặc	Cc
+giúp	V
+các	L
+hacker	Nb
+truy cập	V
+vào	E
+máy tính	N
+.	CH
+
+Ông	Nc
+Keshav Dhakad	Np
+,	CH
+Giám đốc	N
+khu vực	N
+,	CH
+Trung tâm	N
+Phòng chống	V
+Tội phạm	N
+mạng	N
+,	CH
+Microsoft châu Á	Np
+cho	V
+rằng	C
+,	CH
+với	Cc
+sự	N
+gia tăng	V
+lượng	N
+mã	N
+độc	A
+kèm	V
+lượng	N
+tấn công	V
+ngày càng	X
+tinh vi	A
+,	CH
+an ninh mạng	N
+đang	R
+trở thành	V
+nhiệm vụ	N
+ưu tiên	V
+quan trọng	A
+với	Cc
+hầu hết	X
+các	L
+tổ chức	N
+.	CH
+
+“	CH
+Các	L
+tổ chức	N
+thường	R
+mất	V
+trung bình	A
+tới	E
+200	M
+ngày	N
+để	E
+biết	V
+rằng	C
+họ	P
+đã	R
+bị	V
+tấn công	V
+và	Cc
+điều	N
+này	P
+không	R
+giảm nhiệt	V
+trong	E
+tương lai	N
+nên	C
+điều	N
+các	L
+doanh nghiệp	N
+cần	V
+phải	V
+tích hợp	V
+tốt	A
+các	L
+đầu tư	V
+và	Cc
+năng lực	N
+bao gồm	V
+‘	CH
+Bảo vệ	CH
+-	CH
+Phát hiện	V
+-	CH
+Đáp ứng	V
+’	CH
+với	Cc
+một	M
+chiến lược	N
+tập trung	V
+vào	E
+những	L
+cột trụ	N
+cốt lõi	N
+là	V
+Định danh	V
+-	CH
+Ứng dụng	V
+,	CH
+Dữ liệu	N
+,	CH
+Cơ sở hạ tầng	N
+và	Cc
+Thiết bị	N
+.	CH
+
+Ngoài ra	X
+,	CH
+các	L
+tổ chức	N
+,	CH
+doanh nghiệp	N
+nên	C
+xem xét	V
+việc	N
+sử dụng	V
+mạnh mẽ	A
+các	L
+dịch vụ	N
+dựa	V
+trên	E
+đám mây	N
+đáng	V
+tin cậy	V
+để	E
+được	V
+bảo vệ	V
+dữ liệu	N
+ở	E
+mức độ	N
+cao	A
+nhất	A
+,	CH
+”	CH
+ông	Nc
+Keshav Dhakad	Np
+khuyến nghị	V
+.	CH
+
+/	CH
+.	CH
+
