@@ -1,0 +1,170 @@
+T1	N 0 4	Nhóm
+T2	V 5 14	kiểm soát
+T3	N 15 19	lệnh
+T4	V 20 29	ngừng bắn
+T5	E 30 31	ở
+T6	Np 32 37	Syria
+T7	N 38 42	nhóm
+T8	V 43 46	họp
+T9	E 47 50	tại
+T10	Np 51 61	Kazakhstan
+T11	N 62 66	Nhóm
+T12	V 67 76	kiểm soát
+T13	N 77 86	tình hình
+T14	V 87 95	tuân thủ
+T15	N 96 100	lệnh
+T16	V 101 110	ngừng bắn
+T17	E 111 112	ở
+T19	N 125 129	giữa
+T20	Np 130 133	Nga
+T21	CH 134 135	,
+T22	Np 136 146	Thổ Nhĩ Kỳ
+T23	Cc 147 149	và
+T24	Np 150 154	Iran
+T25	R 155 157	đã
+T26	N 158 162	nhóm
+T27	V 163 166	họp
+T28	E 167 170	tại
+T29	Np 171 177	Astana
+T30	CH 178 179	(
+T31	Np 180 190	Kazakhstan
+T32	CH 191 192	)
+T33	CH 193 194	.
+T34	N 195 204	Binh lính
+T35	E 209 213	trên
+T37	N 214 225	xe bọc thép
+T38	V 226 234	tuần tra
+T39	M 235 238	một
+T40	N 239 248	đường phố
+T41	E 249 250	ở
+T42	Np 251 257	Aleppo
+T43	CH 258 259	,
+T44	Np 260 265	Syria
+T45	CH 266 267	.
+T46	CH 268 269	(
+T47	N 270 275	Nguồn
+T48	CH 276 277	:
+T49	Np 278 285	Reuters
+T50	CH 286 287	)
+T51	N 288 292	Ngày
+T52	M 293 294	6
+T53	CH 295 296	/
+T54	M 297 298	2
+T55	CH 299 300	,
+T56	N 301 305	Nhóm
+T57	V 306 315	kiểm soát
+T58	N 316 325	tình hình
+T59	V 326 334	tuân thủ
+T60	N 335 339	lệnh
+T61	V 340 349	ngừng bắn
+T62	E 350 351	ở
+T64	N 364 368	giữa
+T65	Np 369 372	Nga
+T66	CH 373 374	,
+T67	Np 375 385	Thổ Nhĩ Kỳ
+T68	Cc 386 388	và
+T69	Np 389 393	Iran
+T70	R 394 396	đã
+T71	N 397 401	nhóm
+T72	V 402 405	họp
+T73	E 406 409	tại
+T74	Np 410 416	Astana
+T75	CH 417 418	(
+T76	Np 419 429	Kazakhstan
+T77	CH 430 431	)
+T78	CH 432 433	.
+T79	E 434 438	Theo
+T80	N 439 448	nguồn tin
+T81	V 449 456	gần gũi
+T82	E 457 460	với
+T83	N 461 465	cuộc
+T84	V 466 469	họp
+T85	CH 470 471	,
+T86	E 472 477	ngoài
+T87	M 478 480	ba
+T88	N 481 485	nước
+T89	A 486 490	trên
+T90	CH 491 492	,
+T91	V 493 501	tham gia
+T92	N 502 506	cuộc
+T93	V 507 510	họp
+T94	R 511 514	còn
+T95	V 515 517	có
+T96	N 518 526	đại diện
+T97	E 527 530	của
+T98	Np 531 537	Jordan
+T99	Cc 538 540	và
+T102	CH 555 556	.
+T103	N 557 565	Mục đích
+T104	N 566 570	cuộc
+T105	V 571 574	họp
+T106	P 575 578	này
+T107	V 579 581	là
+T108	V 582 591	thảo luận
+T109	N 592 602	tiến trình
+T110	L 603 606	các
+T111	N 607 610	bên
+T112	V 611 619	xung đột
+T113	E 620 621	ở
+T114	Np 622 627	Syria
+T115	V 628 637	thực hiện
+T116	N 638 644	chế độ
+T117	V 645 654	ngừng bắn
+T118	CH 655 656	,
+T119	V 657 666	soạn thảo
+T120	L 667 670	các
+T121	N 671 680	biện pháp
+T122	V 681 690	kiểm soát
+T123	Cc 691 693	và
+T124	V 694 703	ngăn chặn
+T125	L 704 709	những
+T126	V 710 717	vi phạm
+T127	N 718 722	lệnh
+T128	V 723 732	ngừng bắn
+T129	CH 733 734	,
+T130	V 735 745	tăng cường
+T131	N 746 748	sự
+T132	V 749 756	tin cậy
+T133	R 757 760	lẫn
+T134	N 761 765	nhau
+T135	E 766 770	giữa
+T136	N 771 782	Chính quyền
+T137	Np 783 788	Syria
+T138	Cc 789 791	và
+T139	N 792 795	phe
+T140	V 796 803	đối lập
+T141	CH 804 805	,
+T142	R 806 810	cũng
+T143	C 811 814	như
+T144	V 815 825	giải quyết
+T145	L 826 829	các
+T146	N 830 836	vấn đề
+T147	V 837 843	hỗ trợ
+T148	A 844 852	nhân đạo
+T149	CH 853 854	.
+T150	L 855 858	Các
+T151	N 859 862	bên
+T152	R 863 865	sẽ
+T153	A 866 874	đặc biệt
+T154	V 875 884	chú trọng
+T155	V 885 894	thảo luận
+T156	N 895 901	vấn đề
+T157	V 902 911	phân biệt
+T158	N 912 915	phe
+T159	V 916 923	đối lập
+T160	V 924 930	ôn hòa
+T161	E 931 934	với
+T162	N 935 942	tổ chức
+T163	V 943 951	khủng bố
+T164	Np 952 961	Jabhat Al
+T165	CH 962 963	-
+T166	Np 964 969	Nusra
+T167	CH 970 971	.
+T168	CH 972 973	/
+T169	CH 974 975	.
+T18	Np 113 118	Syria
+T170	A 119 124	chung
+T171	Np 205 208	Nga
+T36	Np 352 357	Syria
+T63	A 358 363	chung
+T100	Np 541 554	Liên hợp quốc
