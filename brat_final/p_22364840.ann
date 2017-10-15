@@ -1,0 +1,177 @@
+T1	Np 0 3	Nga
+T2	V 4 7	nêu
+T3	N 8 12	danh
+T4	M 13 14	3
+T5	N 15 22	khu vực
+T6	A 23 33	quan trọng
+T7	N 34 44	chiến lược
+T8	CH 45 46	,
+T9	R 47 52	không
+T10	V 53 55	có
+T12	Np 56 65	Biển Đông
+T13	Np 66 69	Nga
+T14	V 70 73	nêu
+T15	N 74 78	danh
+T16	M 79 80	3
+T17	N 81 88	khu vực
+T18	A 89 99	quan trọng
+T19	N 100 110	chiến lược
+T20	E 111 118	đối với
+T21	Np 119 125	Moscow
+T22	E 126 130	trên
+T23	N 131 139	toàn cầu
+T24	C 140 145	nhưng
+T25	R 146 151	không
+T26	V 152 154	có
+T27	Np 155 164	Biển Đông
+T28	CH 165 166	.
+T29	N 167 176	Bộ trưởng
+T30	N 177 187	Quốc phòng
+T31	Np 188 191	Nga
+T32	Np 206 215	Hãng Tass
+T33	N 216 220	ngày
+T34	M 221 223	24
+T35	CH 224 225	/
+T36	M 226 227	5
+T37	V 228 231	dẫn
+T38	N 232 235	lời
+T39	N 236 245	Bộ trưởng
+T40	N 246 256	quốc phòng
+T41	Np 257 260	Nga
+T42	V 275 283	tuyên bố
+T43	E 284 287	tại
+T44	N 288 295	hạ viện
+T45	N 296 300	nước
+T46	P 301 304	này
+T47	CH 305 306	,
+T48	E 307 312	trong
+T49	P 313 315	đó
+T50	CH 316 317	,
+T51	N 318 327	quan chức
+T52	V 328 332	đứng
+T54	Np 346 349	Nga
+T55	R 350 352	đã
+T56	V 353 356	nêu
+T57	R 357 359	ra
+T58	L 360 363	các
+T59	N 364 371	khu vực
+T60	A 372 382	quan trọng
+T61	N 383 393	chiến lược
+T62	E 394 401	đối với
+T63	Np 402 405	Nga
+T64	E 406 410	trên
+T65	L 411 415	toàn
+T66	N 416 424	thế giới
+T67	CH 425 426	.
+T68	E 427 431	Theo
+T69	Nc 432 435	ông
+T70	Np 436 449	Sergey Shoigu
+T71	CH 450 451	,
+T72	M 452 453	3
+T73	N 454 461	khu vực
+T74	V 462 464	có
+T75	N 465 468	tầm
+T76	A 469 479	quan trọng
+T77	N 480 490	chiến lược
+T78	E 491 494	với
+T79	Np 495 498	Nga
+T80	N 499 507	hiện nay
+T81	V 508 511	gồm
+T82	V 512 514	có
+T83	CH 515 516	:
+T84	Np 517 524	Ucraine
+T85	CH 525 526	,
+T86	Np 527 532	Syria
+T87	Cc 533 535	và
+T88	N 536 543	bán đảo
+T89	Np 544 554	Triều Tiên
+T91	CH 555 556	.
+T92	V 557 565	Tuyên bố
+T93	E 566 569	tại
+T94	N 570 576	Ủy ban
+T95	N 577 586	liên bang
+T96	CH 587 588	,
+T97	N 589 596	Hạ viện
+T98	CH 601 602	,
+T99	N 603 612	Đại tướng
+T100	Np 613 626	Sergey Shoigu
+T101	V 627 630	nói
+T102	CH 631 632	:
+T103	CH 633 634	“
+T104	V 635 642	Hợp tác
+T105	A 643 651	chặt chẽ
+T106	E 652 656	giữa
+T107	N 657 670	Bộ Quốc phòng
+T108	Np 671 674	Nga
+T109	Cc 675 677	và
+T110	L 678 681	các
+T111	N 682 684	ủy
+T112	N 685 688	ban
+T113	V 689 698	liên quan
+T114	E 699 702	của
+T115	N 703 709	Ủy ban
+T116	N 710 719	liên bang
+T117	R 720 722	đã
+T118	V 723 731	góp phần
+T119	V 732 742	giải quyết
+T120	L 743 746	các
+T121	N 747 753	vấn đề
+T122	A 754 762	nhạy cảm
+T123	V 763 772	liên quan
+T124	E 773 776	đến
+T125	V 777 786	phòng thủ
+T126	N 787 795	một cách
+T127	A 796 807	nhanh chóng
+T128	CH 808 809	,
+T129	V 810 818	góp phần
+T130	V 819 823	nâng
+T131	A 824 827	cao
+T132	N 828 838	chất lượng
+T133	N 839 847	quân đội
+T134	Cc 848 850	và
+T135	L 851 854	các
+T136	N 855 862	hạm đội
+T137	N 863 871	hải quân
+T138	CH 872 873	.
+T139	N 874 878	Điều
+T140	P 879 882	này
+T141	N 883 887	hiện
+T142	V 888 890	có
+T143	N 891 898	ý nghĩa
+T144	A 899 907	đặc biệt
+T145	A 908 918	quan trọng
+T146	E 919 924	trong
+T147	N 925 933	bối cảnh
+T148	L 934 937	các
+T149	A 938 948	căng thẳng
+T150	V 949 951	có
+T151	N 952 960	xu hướng
+T152	V 961 969	gia tăng
+T153	E 970 974	trên
+T154	L 975 979	toàn
+T155	N 980 988	thế giới
+T156	CH 989 990	,
+T157	L 991 994	các
+T158	N 995 1002	khu vực
+T159	V 1003 1005	có
+T160	N 1006 1013	ý nghĩa
+T161	A 1014 1024	quan trọng
+T162	N 1025 1035	chiến lược
+T163	E 1036 1039	với
+T164	Np 1040 1043	Nga
+T165	N 1044 1052	hiện nay
+T166	V 1053 1055	là
+T167	Np 1056 1063	Ucraine
+T168	CH 1064 1065	,
+T169	Np 1066 1071	Syria
+T170	Cc 1072 1074	và
+T171	N 1075 1082	bán đảo
+T172	Np 1083 1093	Triều Tiên
+T173	CH 1094 1095	”
+T174	CH 1096 1097	.
+T175	Np 1098 1106	Lê Cường
+T11	Np 192 205	Sergei Shoigu
+T176	Np 261 274	Sergey Shoigu
+T53	N 333 336	đầu
+T177	N 337 345	quân đội
+T90	Np 597 600	Nga

@@ -1,0 +1,203 @@
+T1	N 0 8	Chiến sự
+T2	E 9 10	ở
+T3	Np 16 23	Ukraine
+T4	X 24 33	ngày càng
+T5	CH 34 35	'
+T6	A 36 40	nóng
+T7	CH 41 42	'
+T8	E 43 47	giữa
+T9	N 48 51	mùa
+T10	N 52 56	đông
+T11	A 57 65	lạnh giá
+T12	N 66 75	Tình hình
+T13	N 76 80	miền
+T14	N 81 85	Đông
+T15	Np 86 93	Ukraine
+T16	R 94 98	đang
+T17	R 99 102	rất
+T18	A 103 113	căng thẳng
+T19	N 114 117	khi
+T20	L 118 121	các
+T21	N 122 125	bên
+T22	V 126 135	liên quan
+T23	V 136 138	tố
+T24	N 139 143	nhau
+T25	V 144 151	sử dụng
+T26	N 152 156	pháo
+T27	N 157 161	hạng
+T28	A 162 166	nặng
+T29	V 167 175	tấn công
+T30	E 176 179	vào
+T31	L 180 183	các
+T32	N 184 192	mục tiêu
+T33	N 193 199	dân sự
+T34	CH 200 201	.
+T35	M 202 205	Một
+T36	Nc 206 211	chiếc
+T37	N 212 219	xe tăng
+T38	V 220 222	bị
+T39	V 223 230	phá hủy
+T40	A 231 234	gần
+T41	N 235 243	thị trấn
+T42	N 244 255	công nghiệp
+T43	C 266 268	do
+T44	N 269 278	lực lượng
+T45	N 279 288	chính phủ
+T46	Np 289 296	Ukraine
+T47	V 297 306	kiểm soát
+T48	CH 307 308	.
+T49	L 309 312	Các
+T50	N 313 323	thành viên
+T51	E 324 327	của
+T52	N 328 337	lực lượng
+T53	N 338 345	an ninh
+T54	E 354 357	tại
+T55	N 358 366	thị trấn
+T56	Np 367 376	Avdiyivka
+T57	CH 377 378	.
+T58	N 379 382	Túi
+T59	N 383 386	đạn
+T60	E 387 390	của
+T61	N 391 400	lực lượng
+T62	N 401 410	chính phủ
+T64	E 423 428	trong
+T65	N 429 434	tuyết
+T66	A 435 440	trắng
+T67	CH 441 442	.
+T68	N 443 448	Tuyết
+T69	V 449 452	phủ
+T70	A 453 458	trắng
+T71	L 459 464	những
+T72	Nc 465 470	chiếc
+T73	N 471 478	xe tăng
+T74	E 479 482	tại
+T75	N 483 491	thị trấn
+T76	Np 492 501	Avdiyivka
+T77	CH 502 503	.
+T78	L 504 507	Các
+T79	N 508 518	thành viên
+T80	E 519 522	của
+T81	N 523 525	Bộ
+T82	N 526 536	Tình trạng
+T83	A 537 545	khẩn cấp
+T84	V 546 554	kiểm tra
+T85	M 555 558	một
+T86	N 559 567	ngôi nhà
+T87	V 568 570	bị
+T88	V 571 578	phá hủy
+T89	E 579 582	sau
+T90	L 583 586	các
+T91	N 587 591	cuộc
+T92	V 592 602	giao tranh
+T93	CH 603 604	.
+T94	M 605 608	Một
+T95	N 609 614	cụ bà
+T96	V 615 619	nhặt
+T97	L 620 625	những
+T98	N 626 630	khúc
+T99	N 631 634	củi
+T100	A 635 638	khô
+T101	E 639 641	để
+T102	V 642 645	đốt
+T103	N 646 653	lò sưởi
+T104	CH 654 655	,
+T105	V 656 663	xua tan
+T107	A 664 672	giá lạnh
+T108	N 673 681	mùa đông
+T109	E 682 683	ở
+T110	Np 684 693	Avdiyivka
+T111	CH 694 695	.
+T112	Np 699 704	Lesha
+T113	CH 705 706	,
+T114	M 707 708	8
+T115	N 709 713	tuổi
+T116	CH 714 715	,
+T117	V 716 720	đứng
+T118	N 721 724	bên
+T119	M 725 728	một
+T120	N 729 737	ngôi nhà
+T121	V 738 740	bị
+T122	V 741 748	hư hỏng
+T123	E 749 751	do
+T124	V 752 763	chiến tranh
+T125	E 764 765	ở
+T126	N 766 774	thị trấn
+T127	Np 775 784	Avdiyivka
+T128	CH 785 786	.
+T129	L 787 792	Những
+T130	Nc 793 798	người
+T131	N 799 806	đàn ông
+T132	V 807 815	chuẩn bị
+T133	N 816 822	vũ khí
+T134	CH 823 824	,
+T135	N 825 833	đạn dược
+T136	E 834 837	cho
+T137	L 838 841	các
+T138	N 842 846	cuộc
+T139	V 847 857	giao tranh
+T140	R 858 864	có thể
+T141	V 865 868	xảy
+T142	R 869 871	ra
+T143	R 872 878	bất cứ
+T144	N 879 882	lúc
+T145	P 883 886	nào
+T146	CH 887 888	.
+T147	N 889 895	Bác sĩ
+T148	N 896 904	quân đội
+T149	V 905 913	chăm sóc
+T150	E 914 917	cho
+T151	M 918 921	một
+T152	N 922 928	cư dân
+T153	N 929 937	thị trấn
+T154	Np 938 947	Avdiyivka
+T155	V 948 950	bị
+T156	N 951 955	bệnh
+T157	CH 956 957	.
+T158	M 958 961	Một
+T159	N 962 967	cụ bà
+T160	V 968 971	cất
+T161	L 972 977	những
+T162	N 978 985	bước đi
+T163	A 986 994	khó nhọc
+T164	V 995 999	khỏi
+T165	N 1000 1007	căn nhà
+T166	V 1008 1010	bị
+T167	A 1011 1017	hư hại
+T168	E 1018 1020	do
+T169	V 1021 1032	chiến tranh
+T170	CH 1033 1034	.
+T171	N 1035 1045	Khung cảnh
+T172	A 1046 1055	hoang tàn
+T173	E 1056 1057	ở
+T174	M 1058 1061	một
+T175	N 1062 1065	khu
+T176	N 1066 1072	dân cư
+T177	V 1073 1078	thuộc
+T178	N 1079 1087	thị trấn
+T179	Np 1088 1097	Avdiyivka
+T180	CH 1098 1099	,
+T181	Np 1100 1107	Ukraine
+T182	CH 1108 1109	.
+T183	E 1110 1115	Trong
+T184	N 1116 1119	khi
+T185	P 1120 1122	đó
+T186	CH 1123 1124	,
+T187	V 1125 1135	giao tranh
+T188	E 1136 1137	ở
+T189	N 1138 1142	miền
+T190	Np 1143 1147	Đông
+T191	Np 1148 1155	Ukraine
+T192	R 1156 1159	vẫn
+T193	V 1160 1169	tiếp diễn
+T194	Cc 1170 1172	và
+T195	R 1173 1177	chưa
+T196	V 1178 1180	có
+T197	N 1181 1189	dấu hiệu
+T198	V 1190 1198	hạ nhiệt
+T199	CH 1199 1200	.
+T200	N 11 15	Đông
+T201	Np 256 265	Avdiyivka
+T202	Np 346 353	Ukraine
+T63	Np 411 418	Ukraine
+T203	V 419 422	vùi
+T106	Nc 696 698	Bé

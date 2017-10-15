@@ -1,0 +1,163 @@
+T1	L 0 5	Những
+T2	N 6 14	mặt hàng
+T3	CH 15 16	'
+T4	V 17 25	ăn khách
+T5	CH 26 27	'
+T6	N 28 36	ngày vía
+T7	Np 37 45	Thần Tài
+T8	Np 46 52	Kim kê
+T10	CH 53 54	(
+T11	N 55 57	gà
+T12	N 58 62	vàng
+T13	CH 63 64	)
+T14	CH 65 66	,
+T15	N 67 73	cá lóc
+T16	CH 74 75	,
+T17	N 76 84	phật thủ
+T18	CH 85 86	,
+T19	N 87 89	đồ
+T20	N 90 100	phong thủy
+T21	CH 101 104	...
+T22	V 105 107	là
+T23	L 108 113	những
+T24	N 114 122	mặt hàng
+T25	CH 123 124	"
+T26	V 125 133	ăn khách
+T27	CH 134 135	"
+T28	N 136 144	ngày vía
+T29	Np 145 153	Thần Tài
+T30	CH 154 155	.
+T31	Np 156 162	Kim kê
+T33	CH 163 164	(
+T34	N 165 167	gà
+T35	N 168 172	vàng
+T36	CH 173 174	)
+T37	V 175 177	là
+T38	N 178 186	mặt hàng
+T39	CH 187 188	"
+T40	V 189 192	gây
+T41	V 193 196	sốt
+T42	CH 197 198	"
+T43	N 199 209	thị trường
+T44	N 210 218	ngày vía
+T45	Np 219 227	Thần Tài
+T46	N 234 242	gà trống
+T47	N 243 247	vàng
+T48	E 248 251	của
+T49	N 252 260	tập đoàn
+T50	Np 261 265	DOJI
+T51	V 266 270	được
+T52	A 271 276	nhiều
+T53	CH 277 278	"
+T54	N 279 286	đại gia
+T55	CH 287 288	"
+T56	V 289 298	ưa chuộng
+T57	N 299 304	Tượng
+T58	N 308 312	vàng
+T59	Ab 313 317	mini
+T60	R 318 322	được
+T61	A 323 328	nhiều
+T62	N 329 334	người
+T63	V 335 338	mua
+T64	E 339 341	về
+T65	V 342 349	cầu may
+T66	E 350 353	cho
+T67	N 354 357	năm
+T68	Np 358 366	Đinh Dậu
+T69	M 367 371	2017
+T70	Np 372 379	Kim Bài
+T71	Np 380 388	Thần Tài
+T72	E 389 392	của
+T73	Np 393 400	Phú Quý
+T74	V 401 408	bán đắt
+T75	N 409 413	hàng
+T76	N 414 422	ngày vía
+T77	Np 423 431	Thần Tài
+T78	N 432 435	năm
+T79	P 436 439	nay
+T80	Np 440 447	Phú Quý
+T81	V 448 454	ra mắt
+T82	N 455 457	bộ
+T83	N 458 466	sản phẩm
+T84	CH 467 468	"
+T85	V 469 472	hót
+T86	CH 473 474	"
+T87	N 475 483	ngày vía
+T88	Np 484 492	Thần Tài
+T89	N 496 506	phong thủy
+T90	R 507 511	cũng
+T91	V 512 516	được
+T92	A 517 522	nhiều
+T93	N 523 528	người
+T94	V 529 532	mua
+T95	N 533 541	Linh vật
+T96	V 542 544	là
+T97	N 545 549	hàng
+T98	V 550 554	được
+T99	V 555 563	săn lùng
+T100	A 564 569	nhiều
+T101	N 570 578	ngày vía
+T102	Np 579 587	Thần Tài
+T103	E 588 593	Trong
+T104	N 594 602	ngày vía
+T105	Np 603 611	Thần Tài
+T106	CH 612 613	,
+T107	N 614 620	cá lóc
+T108	V 621 626	nướng
+T109	R 627 631	được
+T110	A 632 637	nhiều
+T111	N 638 643	người
+T112	V 644 647	mua
+T113	N 652 658	lễ vật
+T114	N 659 663	cúng
+T115	N 664 667	cầu
+T116	V 668 674	làm ăn
+T117	A 675 684	thuận lợi
+T118	E 685 689	Theo
+T119	N 690 696	tục lệ
+T120	A 697 704	lâu đời
+T121	CH 705 706	,
+T122	R 707 709	cứ
+T123	E 710 713	đến
+T124	N 714 718	ngày
+T125	N 719 723	mồng
+T126	M 724 726	10
+T127	N 727 738	tháng Giêng
+T128	N 739 746	âm lịch
+T129	L 747 752	những
+T130	N 753 761	gia đình
+T131	V 762 764	có
+T132	N 765 768	thờ
+T133	Np 769 777	Thần Tài
+T134	R 778 784	thường
+T135	V 785 787	đi
+T136	V 788 791	mua
+T137	N 792 798	cá lóc
+T138	V 799 804	nướng
+T139	E 805 807	về
+T140	N 808 812	cúng
+T141	E 813 815	để
+T142	V 816 819	cầu
+T143	CH 820 821	“
+T144	V 822 825	mua
+T145	A 826 829	may
+T146	CH 830 831	,
+T147	V 832 839	bán đắt
+T148	CH 840 841	”
+T149	Nc 842 845	Quả
+T150	N 846 854	phật thủ
+T151	V 855 859	được
+T152	N 860 870	khách hàng
+T153	V 871 874	mua
+T154	E 875 877	về
+T155	N 878 882	cúng
+T156	N 892 899	Hoa quả
+T157	V 900 907	trở nên
+T158	A 908 917	đắt khách
+T159	N 918 922	ngày
+T160	Np 923 931	Thần Tài
+T9	N 228 233	Tượng
+T32	N 305 307	gà
+T161	N 493 495	Đồ
+T162	V 648 651	làm
+T163	Np 883 891	Thần Tài

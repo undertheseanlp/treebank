@@ -1,0 +1,568 @@
+Thời tiết	N
+31	M
+/	CH
+5	M
+:	CH
+Nắng nóng	N
+xuất hiện	V
+trên	E
+diện	N
+rộng	A
+Do	E
+ảnh hưởng	V
+của	E
+vùng	N
+áp thấp	N
+nóng	A
+phía	N
+Tây	Np
+nên	C
+ngày	N
+hôm nay	N
+(	CH
+31	M
+/	CH
+5	M
+)	CH
+,	CH
+một số	L
+khu vực	N
+nước	N
+ta	P
+sẽ	R
+có	V
+nắng	N
+nóng	A
+cục bộ	A
+.	CH
+
+Theo	E
+Trung tâm	N
+Dự báo	V
+Khí tượng	N
+Thủy văn	N
+trung ương	N
+,	CH
+do	E
+ảnh hưởng	V
+của	E
+vùng	N
+áp thấp	N
+nóng	A
+phía	N
+Tây	Np
+phát triển	V
+nên	C
+nắng nóng	N
+sẽ	R
+xảy	V
+ra	R
+trên	E
+diện	N
+rộng	A
+ở	E
+Bắc Bộ	Np
+và	Cc
+các	L
+tỉnh	N
+từ	E
+Thanh Hóa	Np
+đến	E
+Phú Yên	Np
+với	E
+nhiệt độ	N
+cao	A
+nhất	A
+trong	E
+ngày	N
+phổ biến	A
+35	M
+-	CH
+37	M
+độ	Nu
+.	CH
+
+Khu vực	N
+Hà Nội	Np
+,	CH
+sẽ	R
+tiếp tục	V
+thời tiết	V
+nắng	N
+nóng	A
+nhiệt độ	N
+cao	A
+nhất	A
+lên	V
+đến	E
+36	M
+độ	Nu
+,	CH
+cộng	V
+với	E
+hiệu ứng	N
+đô thị	N
+tạo	V
+cảm giác	N
+oi bức	A
+khó chịu	A
+.	CH
+
+Thời tiết	N
+chi tiết	A
+các	L
+khu vực	N
+như	C
+sau	N
+:	CH
+Phía	N
+Tây Bắc Bộ	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+đêm	N
+có	V
+mưa rào	N
+và	Cc
+dông	N
+vài	L
+nơi	N
+,	CH
+ngày	N
+nắng nóng	A
+.	CH
+
+Gió	N
+nhẹ	A
+.	CH
+
+Độ ẩm	N
+từ	E
+55	M
+-	CH
+90	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+21	M
+-	CH
+24oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+33	M
+-	CH
+36	M
+độ	CH
+,	CH
+có	V
+nơi	N
+trên	E
+36oC	M
+Thời tiết	N
+nắng nóng	A
+trong	E
+ngày	N
+31	M
+-	CH
+5	M
+.	CH
+
+Ảnh	N
+:	CH
+Internet	Nb
+Phía	N
+Đông Bắc Bộ	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+đêm	N
+không	R
+mưa	V
+,	CH
+ngày	N
+nắng nóng	A
+.	CH
+
+Gió đông	N
+đến	E
+đông nam	N
+cấp	N
+2	M
+-	CH
+3	M
+.	CH
+
+Độ ẩm	N
+từ	E
+60	M
+-	CH
+92	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+23	M
+-	CH
+26oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+33	M
+-	CH
+36oC	M
+Thanh Hóa	Np
+-	CH
+Thừa Thiên Huế	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+đêm	N
+không	R
+mưa	V
+,	CH
+ngày	N
+nắng nóng	A
+,	CH
+chiều tối	N
+mai	N
+có	V
+mưa rào	N
+và	Cc
+dông	N
+vài	L
+nơi	N
+.	CH
+
+Gió	N
+nhẹ	A
+.	CH
+
+Độ ẩm	N
+từ	E
+50	M
+-	CH
+88	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+23	M
+-	CH
+26oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+34	M
+-	CH
+37	M
+độ	Nu
+,	CH
+có	V
+nơi	N
+trên	E
+37oC	M
+Đà Nẵng	Np
+đến	E
+Bình Thuận	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+chiều tối	N
+và	Cc
+đêm	N
+có	V
+mưa rào	N
+và	Cc
+dông	N
+vài	L
+nơi	N
+,	CH
+ngày	N
+nắng	N
+.	CH
+
+Gió	N
+tây nam	N
+đến	E
+nam	N
+cấp	N
+2	M
+-	CH
+3	M
+.	CH
+
+Độ ẩm	N
+từ	E
+60	M
+-	CH
+90	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+24	M
+-	CH
+27oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+31	M
+-	CH
+34oC	M
+Tây Nguyên	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+đêm	N
+có	V
+mưa rào	N
+và	Cc
+dông	N
+vài	L
+nơi	N
+,	CH
+ngày	N
+nắng	N
+,	CH
+chiều tối	N
+mai	N
+có	V
+mưa	N
+,	CH
+mưa rào	N
+và	Cc
+dông	N
+rải rác	A
+.	CH
+
+Gió	N
+tây nam	N
+cấp	N
+2	M
+-	CH
+3	M
+.	CH
+
+Trong	E
+cơn dông	N
+có	V
+khả năng	N
+xảy	V
+ra	V
+tố	N
+,	CH
+lốc	N
+,	CH
+mưa đá	N
+và	Cc
+gió giật	N
+mạnh	A
+.	CH
+
+Độ ẩm	N
+từ	E
+65	M
+-	CH
+99	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+21	M
+-	CH
+24oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+30	M
+-	CH
+33oC	M
+Nam Bộ	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+đêm	N
+có	V
+mưa rào	N
+và	Cc
+dông	N
+vài	L
+nơi	N
+,	CH
+ngày	N
+nắng	N
+,	CH
+chiều tối	N
+mai	N
+có	V
+mưa	N
+,	CH
+mưa rào	N
+và	Cc
+dông	N
+rải rác	A
+.	CH
+
+Gió tây nam	N
+cấp	N
+2	M
+-	CH
+3	M
+.	CH
+
+Trong	E
+cơn dông	N
+có	V
+khả năng	N
+xảy	V
+ra	V
+tố	N
+,	CH
+lốc	N
+,	CH
+mưa đá	N
+và	Cc
+gió giật	N
+mạnh	A
+.	CH
+
+Độ ẩm	V
+từ	E
+63	N
+-	CH
+98	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+24	M
+-	CH
+27oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+31	M
+-	CH
+34oC	M
+Hà Nội	Np
+:	CH
+Mây	N
+thay đổi	V
+,	CH
+đêm	N
+không	R
+mưa	N
+,	CH
+ngày	N
+nắng	N
+.	CH
+
+Gió	N
+đông	N
+đến	E
+đông nam	N
+cấp	N
+2	M
+-	CH
+3	M
+.	CH
+
+Độ ẩm	N
+từ	E
+63	M
+-	CH
+90	M
+%	CH
+.	CH
+
+Nhiệt độ	N
+thấp	A
+nhất	R
+từ	E
+:	CH
+:	CH
+24	M
+-	CH
+27oC	M
+.	CH
+
+Nhiệt độ	N
+cao	A
+nhất	A
+từ	E
+:	CH
+:	CH
+33	M
+-	CH
+36oC	M
+.	CH
+
+Hà Sơn	Np
